@@ -1,0 +1,97 @@
+.site-masthead {
+  box-sizing: border-box;
+  position: relative;
+  text-align: center;
+}
+
+.site-masthead h1 {
+  font-size: 3em;
+  margin-bottom: 0;
+  margin-top: 1em;
+  padding: 0 2rem;
+  @media (min-width: $on-tablet) {
+    font-size: 6em;
+  }
+}
+
+.site-masthead h2 {
+  color: $muted-text-color;
+  font-size: 1.25em;
+  margin: 0;
+  padding: 0 2rem;
+  padding-bottom: 2rem;
+  text-align: center;
+  @media (min-width: $on-tablet) {
+    font-size: 3em;
+  }
+}
+
+.site-masthead-post {
+  background: white;
+  margin: 2em auto;
+  max-width: 50rem;
+  padding: 2em 4em 4em 4em;
+  box-shadow: 12px 18px 24px rgba(darken($brand-color, 50%), .1);
+}
+
+.site-masthead-post p {
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-word;
+}
+
+.bio-row {
+	display: flex;
+	padding: 1em;
+	padding-left:2em;
+	padding-right:2em;
+	margin-bottom: 2em;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
+	align-items: center;
+	text-indent: 0;
+	p {
+		text-indent: 0;
+	}
+}
+
+.bio-column-1 {
+	flex: 55%;
+	text-indent: 0;
+	font-size: 1.25em;
+}
+
+.bio-social {
+	&:hover,
+  	&:focus-within {
+    	a {
+      		opacity: .7;
+    	}
+  	}
+	ul {
+	  margin: 0;
+	  display: flex;
+	  flex-wrap: wrap;
+	  justify-content: left;
+	  padding-top: 1em;
+	  .fas,.fab,.ai {color: $contrast-color;}
+	  a {
+	  	transition: opacity .25s ease-in-out;
+		  &:hover,
+		  &:focus {
+		    opacity: 1;
+		  }
+	  }
+	}
+}
+
+.bio-column-2 {
+	flex: 45%;
+	align: middle;
+	img {
+		width: auto;
+		height: auto;
+		max-height: 20em;
+		max-width: 20;
+	}
+}

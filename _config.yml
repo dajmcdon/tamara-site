@@ -1,0 +1,70 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Tamara L. Mitchell
+email: tamara.mitchell@ubc.ca
+appointment: |-
+  Assistant Professor of Hispanic Studies  
+  Department of French, Hispanic and Italian Studies  
+  University of British Columbia      
+office_address: |-
+  221 Ponderosa Annex E  
+  1Z2, 2011 West Mall
+  Vancouver, BC V6T 1Z221   
+description: Literary scholar. Educator.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://tamaraleemitchell.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+icon: /assets/images/icon-512.png
+twitter_username: spanglishtammy
+github_username:  tamaraleemitchell
+hide_search: true
+footer:
+  links:
+    - label: ""
+      #label: "Email"
+      icon: "fas fa-fw fa-envelope-square fa-2x"
+      url: "mailto:tamara.mitchell@ubc.ca"
+    - label: ""
+      #label: "Github"
+      icon: "fab fa-fw fa-github fa-2x"
+      url: "https://github.com/tamaraleemitchell"
+    - label: ""
+      #label: "Curriculum Vit&aelig;"
+      icon: "ai ai-fw ai-cv-square ai-2x"
+      url: "/assets/research/cv.pdf"
+    - label: ""
+      icon: "fab fa-fw fa-twitter fa-2x"
+      url: "http://twitter.com/spanglishtammy"
+      
+# Build settings
+markdown: kramdown
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# plugins:
+#  - jekyll-paginate
+
+# paginate: 3
+# paginate_path: "/page/:num/"
