@@ -4,27 +4,10 @@ title: Talks
 divider: sion2
 ---
 
-## Conference Sessions Organized
-
-* “Residues of the Archive: On Belonging, Inequality, and Crisis from the IsthmUS.” Nuestra América, XXXVII Latin American Studies Association International Conference, Boston, MA (May 2019), Section-sponsored Session
-
-* “Borgesian Transaction: Literary Debts, Literary Inheritances.” Textual Transactions, Modern Language Association (MLA) Annual Conference, Chicago (January 2019), Presidential Session
-
-* “Consumption of the Other, Consumption of the Self: Aesthetic Mutilation as Neoliberal Critique.” Consuming Cultures, Midwest Modern Language Association (MMLA) Annual Conference, Kansas City (November 2018), Special Session
-
-* “Political and Literary Geographies in Flux: Culture and Media in the Era of Post-National Globalization.” Latin American Studies in a Globalized World, XXXVI Latin American Studies Association International Conference, Barcelona, Spain (May 2018)
-
-* “Impactos del capitalismo globalizado: Fenómenos literarios glocales desde una perspectiva intercontinental.” Ohio Latin Americanist Conference, The Ohio State University (October 2017)
-
-* “Culture on Crisis / Culture in Crisis: Art and the Neoliberal Market.” Diálogos de saberes, XXXV Latin American Studies Association International Conference, Lima, Peru (April 2017)
-
-
-## Presentations & Workshops
+## Conference Presentations
 * “Dissensus and Alternative Left Politics in Postwar El Salvador: Jazz as Metonymy in Horacio Castellanos Moya’s _La diáspora_.” Mesa Centroamérica, LV Congreso de la Asociación Canadiense de Hispanistas, Vancouver, Canada
 
 * “Specters of Roque: The Pen and/as the Sword.” Nuestra América, XXXVII Latin American Studies Association International Conference, Boston, MA (May 2019)
-
-* Workshop with the Author, “Carmen Boullosa y los escritores mexicanos después de 1968.” College Arts & Humanities Institute, Indiana University Bloomington (November 2018)
 
 * “Precursors of 1968: Borges, Bolaño, and the Latin American Left.” Textual Transactions, Modern Language Association (MLA) Annual Conference, Chicago (January 2019)
 
@@ -63,7 +46,11 @@ divider: sion2
 
 * Luso-Brazilian Literature & Culture. Graduate Student Research Conference: Diálogos 10, Indiana University (February 2013)
 
-## Conferences Organized
+## Conferences Organized & Workshop Participation
+
+* Workshop with the Author, “Carmen Boullosa y los escritores mexicanos después de 1968.” College Arts & Humanities Institute, Indiana University Bloomington (November 2018)
+
+* "Horacio Castellanos Moya's _El sueño del retorno_: A Workshop with the Author." Department of Spanish and Portuguese, Indiana University Bloomington (April 2019)
 
 * Contested Spaces, Contested Identities: Race and Identity Across the Disciplines, Graduate Student Research Symposium, Center for Research on Race and Ethnicity in Society, Indiana University (April 2018)
 

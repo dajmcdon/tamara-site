@@ -4,6 +4,16 @@ title: Teaching
 divider: sion3
 ---
 
+## Vision for Teaching
+
+As a teacher of literature, and specifically Latin American literature, I have the unique responsibility to not only impart material, 
+but to introduce students to voices and cultures that are often not their own. To undertake this task, I approach my teaching with four 
+principle objectives: (1) to help my students develop close reading skills that will make them more attentive and curious readers of 
+literature; (2) to hone their ability to write effectively and articulate complex ideas in English and Spanish; (3) to arm them with 
+hermeneutic tools that will facilitate a deeper understanding of texts and cultures; and (4) to foster a relationship with literary 
+works that, in addition to leaving space for enjoyment of literature, cultivates an appreciation of the ways in which aesthetics and 
+literary form and content enable new means of understanding and engaging with the world.
+
 ## University Teaching
 
 ### University of British Columbia, Department of French, Hispanic and Italian Studies (2019-Present)

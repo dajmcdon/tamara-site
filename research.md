@@ -14,7 +14,7 @@ divider: sion1
 
 * "Migration and Diaspora: Central American Literature Beyond the Isthmus,” _Teaching Central American Literature in a Global Context_, MLA Anthology, Eds. Mónica Albizúrez and Gloria E. Chacón, (Forthcoming).
 
-* "La Llorona, from Plaintive to Plaintiff: Accessing Rights in Neoliberal Globalization," _Cry Baby_, Ed. Kathleen Alcalá (Under Review, Arizona University Press)
+* "La Llorona, from Plaintive to Plaintiff: Accessing Rights in Neoliberal Globalization," _Cry Baby_, ed. Kathleen Alcalá (Under Review, Arizona University Press)
 
 * "Natalia Almada: The Sound & the Image,” _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_ 1.1 (September 2016), ed. Jonathan Risner: Indiana University Press.
 

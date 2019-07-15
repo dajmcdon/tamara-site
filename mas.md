@@ -9,6 +9,17 @@ divider: sion3
 * Editorial Board, _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_, Indiana University, 2019-present.
 * Referee, _Canadian Journal of Latin American and Caribbean Studies_, 2019-present
 
+* Session Organizer, “Residues of the Archive: On Belonging, Inequality, and Crisis from the IsthmUS.” Nuestra América, XXXVII Latin American Studies Association International Conference, Boston, MA (May 2019), Section-sponsored Session
+
+* Session Organizer, “Borgesian Transaction: Literary Debts, Literary Inheritances.” Textual Transactions, Modern Language Association Annual Conference, Chicago (January 2019), Presidential Session
+
+* Session Organizer, “Consumption of the Other, Consumption of the Self: Aesthetic Mutilation as Neoliberal Critique.” Consuming Cultures, Midwest Modern Language Association Annual Conference, Kansas City (November 2018), Special Session
+
+* Session Organizer, “Political and Literary Geographies in Flux: Culture and Media in the Era of Post-National Globalization.” Latin American Studies in a Globalized World, XXXVI Latin American Studies Association International Conference, Barcelona, Spain (May 2018)
+
+* Session Organizer, “Impactos del capitalismo globalizado: Fenómenos literarios glocales desde una perspectiva intercontinental.” Ohio Latin Americanist Conference, The Ohio State University (October 2017)
+
+* Session Organizer, “Culture on Crisis / Culture in Crisis: Art and the Neoliberal Market.” Diálogos de saberes, XXXV Latin American Studies Association International Conference, Lima, Peru (April 2017)
 
 ## Awards
 * Latina/o Studies Section Travel Award (LASA, Boston, MA), $500 • May 2019
