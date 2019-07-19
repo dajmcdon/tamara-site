@@ -41,9 +41,21 @@
 }
 
 .bio-row {
-	@media screen and (min-width: 400px){
+	@media screen and (min-width: 300px){
 		display: flex;
-		flex-wrap: wrap;
+		flex-direction: column-reverse;
+		.bio-column-1 {
+			text-align: center;
+			p { text-align: center; }
+		}
+	}
+	@media screen and (min-width: $on-tablet){
+		display: flex;
+		flex-direction: row;
+		.bio-column-1 {
+			text-align: left;
+			p { text-align: left; }
+		}
 	}
 	padding: 1em;
 	padding-left:2em;
@@ -60,20 +72,17 @@
 
 .bio-column-1 {
 	flex: 1;
-	//flex: 55%;
 	text-indent: 0;
 	font-size: 1.25em;
+	
 }
 
 .bio-column-2 {
 	flex: 0 1 300px;
-	//flex: 45%;
 	align: middle;
 	img {
 		width: 275px;
 		height: auto;
-		//max-height: 20em;
-		//max-width: 20;
 	}
 }
 
@@ -97,6 +106,9 @@
 		  &:focus {
 		    opacity: 1;
 		  }
+	  }
+	  @media screen and (max-width: $on-tablet){
+		justify-content: center;
 	  }
 	}
 }
