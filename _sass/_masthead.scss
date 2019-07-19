@@ -41,7 +41,9 @@
 }
 
 .bio-row {
-	display: flex;
+	@media (min-width: $on-tablet){
+		display: flex;
+	}
 	padding: 1em;
 	padding-left:2em;
 	padding-right:2em;
@@ -56,7 +58,8 @@
 }
 
 .bio-column-1 {
-	flex: 55%;
+	flex: 1;
+	//flex: 55%;
 	text-indent: 0;
 	font-size: 1.25em;
 }
@@ -86,12 +89,13 @@
 }
 
 .bio-column-2 {
-	flex: 45%;
+	flex: 0 1 300px;
+	//flex: 45%;
 	align: middle;
 	img {
-		width: auto;
+		width: 275px;
 		height: auto;
-		max-height: 20em;
-		max-width: 20;
+		//max-height: 20em;
+		//max-width: 20;
 	}
 }
