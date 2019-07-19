@@ -17,9 +17,9 @@ literary form and content enable new means of understanding and engaging with th
 ## University Teaching
 
 ### University of British Columbia, Department of French, Hispanic and Italian Studies (2019-Present)
-* SPAN490: Peoples and Nations: Topics in 20th- & 21st-Century Spanish-American Culture
-* SPAN365: Modern Magics: Spanish-American Literature and Culture since the 1820s
-* LATS303: Indigenous Peoples of Latin America
+* SPAN 490: Assassination, Disappearance, Impunity: Latin American Detective Fiction and the Nation State
+* SPAN 365: Modern Magics: Spanish-American Literature and Culture since the 1820s
+* LATS 303: Indigenous Peoples of Latin America
 
 ### Indiana University Bloomington, Department of Spanish and Portuguese, Latino Studies Program (2012-2018)
 * HISP 280: Advanced Spanish Grammar & Composition in Literary Context
@@ -41,8 +41,7 @@ literary form and content enable new means of understanding and engaging with th
 * SPAN 111: Accelerated Basic Spanish
 
 
-
-## Study Abroad Coordination
+## Study Abroad Coordination and Teaching
 ### Indiana University Honors Program in Foreign Languages, León, Spain (Summer 2013)
 * Hispanic Literatures I, II, III
 
@@ -51,4 +50,4 @@ literary form and content enable new means of understanding and engaging with th
 * International Studies 210: Ecuadorian Culture in Context
 
 ### University of Kansas Summer Immersion Program, Barcelona, Spain (Summer 2009)
-* SPAN270: Literature, Culture and History of Spain
+* SPAN 270: Literature, Culture and History of Spain

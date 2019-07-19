@@ -8,7 +8,7 @@ divider: sion1
 
 * "Geopoetics, Geopolitics, and Violence: (Un)Mapping Daniel Alarcón’s _Lost City Radio_” _Latin American Perspectives_ (September 2019).
 
-* "Carving Place out of Non-Place: Luis Rafael Sánchez’s ‘La guagua aérea’ and Post-National Space,” _Chasqui: revista de literatura latinoamericana_ (May 2018).
+* "[Carving Place out of Non-Place](https://www.academia.edu/39790659/Carving_Place_out_of_Non-Place_Luis_Rafael_Sánchez_s_La_guagua_aérea_and_Postnational_Space): Luis Rafael Sánchez’s ‘La guagua aérea’ and Post-National Space,” _Chasqui: revista de literatura latinoamericana_ (May 2018).
 
 * "Escatología y marginalización en la literatura andina: Las porosas fronteras sociopolíticas en _Los ríos profundos_ de José María Arguedas,” _Revista canadiense de estudios hispánicos_ (Forthcoming).
 
@@ -16,15 +16,15 @@ divider: sion1
 
 * "La Llorona, from Plaintive to Plaintiff: Accessing Rights in Neoliberal Globalization," _Cry Baby_, ed. Kathleen Alcalá (Under Review, Arizona University Press)
 
-* "Natalia Almada: The Sound & the Image,” _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_ 1.1 (September 2016), ed. Jonathan Risner: Indiana University Press.
+* "Natalia Almada: [The Sound & the Image](https://muse.jhu.edu/article/633332),” _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_ 1.1 (September 2016), ed. Jonathan Risner: Indiana University Press.
 
-* Translations of poetry by Conceição Evaristo (Brazilian Portuguese), _Revista Hiedra_ 1.1 (Fall 2013): 66-68.
+* [Translations](https://www.hiedramagazine.com/conceicao-evaristo) of poetry by Conceição Evaristo (Brazilian Portuguese to English), _Revista Hiedra_ 1.1 (Fall 2013): 66-68.
 
 
 ## Book Reviews
-* Review of _Chicana/o Remix: Art and Errata Since the Sixties_ by Karen Mary Davalos. _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_ 2.2 (May 2018).
+* [Review](https://muse.jhu.edu/article/697754) of _Chicana/o Remix: Art and Errata Since the Sixties_ by Karen Mary Davalos. _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_ 2.2 (May 2018).
 
-* Review of _Pliegues del yo: Cuatro estudios sobre escritura autobiográfica en Hispanoamérica_ by Sergio R. Franco. _Revista de Estudios Hispánicos_ 51.3 (October 2017).
+* [Review](https://muse.jhu.edu/article/679167) of _Pliegues del yo: Cuatro estudios sobre escritura autobiográfica en Hispanoamérica_ by Sergio R. Franco. _Revista de Estudios Hispánicos_ 51.3 (October 2017).
 
 
 ## Articles in Preparation

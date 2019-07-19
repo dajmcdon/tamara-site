@@ -44,3 +44,11 @@ divider: radish
 Sections: Central America; Culture, Power and Politics; Latino Studies; Mexico
 * American Philosophical Association (APA), 2013–Present
 * American Comparative Literature Association (ACLA), 2016–Present
+
+## Links and Miscellany
+* [Job Market Advice](/assets/research/JobMarketAdvice_TLM.pdf)
+* Editorial Associate for _Chiricú Journal_ [Issue 1.1 (Fall 2016)](https://muse-jhu-edu.proxyiub.uits.iu.edu/issue/35138)
+* [Profile](https://fhis.ubc.ca/people/tamara-mitchell/) on UBC's French, Hispanic and Italian Studies website
+* Some of my favorite pedagogy websites for basic language and cultural content: [BK Nelson](http://personal.colby.edu/~bknelson/SLC/) Spanish Language & Culture; University of Kansas [Acceso Project](http://acceso.ku.edu)
+* _Through the Gates_, IUB Provost's Blog: [Activism & Satire](https://blog.provost.indiana.edu/blog/2018/04/02/activism-is-serious-business-or-is-it/)
+* HOLA Bloomington [Radio Interview](http://wfhb.org/news/httpwfhb-orgwp-contentuploadshola-20141212-mp3/): Ayotzinapa Awareness Event
