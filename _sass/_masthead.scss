@@ -41,8 +41,9 @@
 }
 
 .bio-row {
-	@media (min-width: $on-tablet){
+	@media screen and (min-width: 400px){
 		display: flex;
+		flex-wrap: wrap;
 	}
 	padding: 1em;
 	padding-left:2em;
@@ -62,6 +63,18 @@
 	//flex: 55%;
 	text-indent: 0;
 	font-size: 1.25em;
+}
+
+.bio-column-2 {
+	flex: 0 1 300px;
+	//flex: 45%;
+	align: middle;
+	img {
+		width: 275px;
+		height: auto;
+		//max-height: 20em;
+		//max-width: 20;
+	}
 }
 
 .bio-social {
@@ -88,14 +101,3 @@
 	}
 }
 
-.bio-column-2 {
-	flex: 0 1 300px;
-	//flex: 45%;
-	align: middle;
-	img {
-		width: 275px;
-		height: auto;
-		//max-height: 20em;
-		//max-width: 20;
-	}
-}
