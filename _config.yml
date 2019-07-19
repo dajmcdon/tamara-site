@@ -26,7 +26,7 @@ office_address: |-
 description: Literary scholar. Educator. Expat.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tamaraleemitchell.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-icon: /assets/images/radish_icon.png
+icon: /assets/images/icons/radish_icon.png
 twitter_username: spanglishtammy
 github_username:  tamaraleemitchell
 hide_search: true

@@ -22,6 +22,7 @@
   bottom: 0; 
 }
 
+
 .site-navigation ul,
 .page-footer-links ul {
   margin: 0;
@@ -33,6 +34,34 @@
 .site-navigation li {
 	font-size: 1.25em;
 }
+
+.navbar-toggle {
+	display: none;
+}
+
+
+@media only screen and (max-width: $on-tablet) {
+	.nav-items,
+	.site-navigation ul{
+		flex-direction: column;
+	}
+	.nav-items {
+		display: none;
+	}
+	.navitems-toggleshow {
+		display: flex;
+	}
+	.navbar-toggle {
+		align-self: flex-end;
+		display: initial;
+		position: absolute;
+		cursor: pointer;
+		padding-right: 2em;
+		padding-top: 1em;
+		padding-bottom: 1em;
+	}
+}
+
 
 .page-footer-links li {
 	font-size: 1em;

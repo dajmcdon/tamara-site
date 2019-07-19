@@ -3,13 +3,15 @@
 {% if menu %}
   <nav class="site-navigation" role="navigation">
     <ul>
-      <li {% if page.url == '/' | prepend: site.baseurl %}class="active"{% endif %}>
+      <li class="nav-items {% if page.url == '/' | prepend: site.baseurl %}active{% endif %}">
         <a href="{{ '/' | prepend: site.baseurl }}">
           Home
         </a>
       </li>
+      <li class="navbar-toggle"><i class="fas fa-bars"></i></li>
+      
     {% for item in site.data.menu %}
-      <li {% if page.url == item.url %}class="active"{% endif %}>
+      <li class="nav-items {% if page.url == item.url %}active{% endif %}">
         {% if item.url contains 'http' %}
           <a href="{{ item.url }}">
             {{ item.title }}
