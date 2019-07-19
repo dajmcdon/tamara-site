@@ -30,6 +30,9 @@
     
     <script src="https://kit.fontawesome.com/611abcc667.js"></script>
     <link rel="stylesheet" href="/assets/css/academicons.min.css"/>
+    
+    
+
 
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
       {%- include google-analytics.html -%}
@@ -65,14 +68,17 @@
     {% endif %}
 
 	<script>
-	function classToggle() {
-		const navs = document.querySelectorAll('.nav-items')
-		
-		navs.forEach(nav => nav.classList.toggle('navitems-toggleshow');
-	}
 	
-	document.querySelector('.navbar-toggle')
-	  .addEventListener('click', classToggle);
+	
+	var navBarToggle = document.getElementById('js-navbar-toggle');
+	
+	navBarToggle.addEventListener('click', 
+		function (){
+			var mainNav = document.getElementById('js-menu');
+			mainNav.classList.toggle('toggle-drop');
+		}
+	);
 	</script>
+	
   </body>
 </html>
