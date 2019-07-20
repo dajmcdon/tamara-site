@@ -9,6 +9,7 @@ divider: radish
 * Editorial Board, _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_, Indiana University, 2019-present.
 * Referee, _Canadian Journal of Latin American and Caribbean Studies_, 2019-present
 
+* Session Organizer, “Nuestra América through a Latinx Lens: Reading (with) Héctor Tobar.” Roundtable with the author. Nuestra América, XXXVII Latin American Studies Association Conference, Boston, MA (May 2019)
 * Session Organizer, “Residues of the Archive: On Belonging, Inequality, and Crisis from the IsthmUS.” Nuestra América, XXXVII Latin American Studies Association International Conference, Boston, MA (May 2019), Section-sponsored Session
 
 * Session Organizer, “Borgesian Transaction: Literary Debts, Literary Inheritances.” Textual Transactions, Modern Language Association Annual Conference, Chicago (January 2019), Presidential Session
@@ -50,5 +51,9 @@ Sections: Central America; Culture, Power and Politics; Latino Studies; Mexico
 * Editorial Associate for _Chiricú Journal_ [Issue 1.1 (Fall 2016)](https://muse-jhu-edu.proxyiub.uits.iu.edu/issue/35138)
 * [Profile](https://fhis.ubc.ca/people/tamara-mitchell/) on UBC's French, Hispanic and Italian Studies website
 * Some of my favorite pedagogy websites for basic language and cultural content: [BK Nelson](http://personal.colby.edu/~bknelson/SLC/) Spanish Language & Culture; University of Kansas [Acceso Project](http://acceso.ku.edu)
-* _Through the Gates_, IUB Provost's Blog: [Activism & Satire](https://blog.provost.indiana.edu/blog/2018/04/02/activism-is-serious-business-or-is-it/)
+* Post on _Through the Gates_, IUB Provost's Blog: [Activism & Satire](https://blog.provost.indiana.edu/blog/2018/04/02/activism-is-serious-business-or-is-it/)
 * HOLA Bloomington [Radio Interview](http://wfhb.org/news/httpwfhb-orgwp-contentuploadshola-20141212-mp3/): Ayotzinapa Awareness Event
+
+![](assets/images/HectorTobarTalkLASA2019.jpg)
+![](assets/images/LatinxLensPanel.jpg)
+At LASA 2019, I organized the roundtable "Nuestra América through a Latinx Lens: Reading (with) Héctor Tobar." Attendees had a chance to hear about [Tobar](https://www.hectortobar.com)'s fifth book and most recent project, _The Last Great Road Bum_, and dialogue with Latinx literary scholars about pedagogy, activism, and research in our current political moment. (Bottom photo from left: [Eric Vázquez](https://www.ericvazquezphd.com), Dickinson College; Tamara Mitchell, University of British Columbia; Héctor Tobar, University of California Irvine; [Jennifer Harford Vargas](https://www.brynmawr.edu/people/jennifer-harford-vargas), Bryn Mawr College; [Marta Caminero-Santangelo](https://english.ku.edu/marta-caminero-santangelo), University of Kansas)

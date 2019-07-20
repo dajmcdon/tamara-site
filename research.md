@@ -33,3 +33,6 @@ divider: sion1
 * “Broken Bodies, Broken Nations: Avant-Garde Praxis and Neoliberal Logic in Bolaño’s Oeuvre."
 * “A Tale of Two Genres: The Duæling Discourses of Luis Rafael Sánchez’s _Quíntuples_.”
 * “Violencia y alienación social en El Salvador: _El arma en el hombre_ como Bildungsroman neoliberal.”
+
+![](assets/images/HCMApril2019.jpg)
+In April 2019, I had the pleasure of participating in a workshop and spending the day with Honduran-Salvadoran author Horacio Castellanos Moya, one of two authors whose corpus I examine at length in my dissertation project.
