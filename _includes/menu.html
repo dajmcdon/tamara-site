@@ -1,23 +1,23 @@
 {% assign menu = site.data.menu %}
 
 {% if menu %}
-  <nav class="site-navigation" role="navigation">
-    <ul>
-      <li class="nav-items {% if page.url == '/' | prepend: site.baseurl %}active{% endif %}">
-        <a href="{{ '/' | prepend: site.baseurl }}">
+  <nav class="navbar" role="navigation">
+  	<span class="navbar-toggle" id="js-navbar-toggle" onclick="myFun()"><i class="fas fa-bars" id="hamburger"></i></span>
+    <ul class="main-nav" id="js-menu">
+      <li class="{% if page.url == '/' | prepend: site.baseurl %}active{% endif %}">
+        <a class="nav-links" href="{{ '/' | prepend: site.baseurl }}">
           Home
         </a>
       </li>
-      <li class="navbar-toggle"><i class="fas fa-bars"></i></li>
       
     {% for item in site.data.menu %}
-      <li class="nav-items {% if page.url == item.url %}active{% endif %}">
+      <li class="{% if page.url == item.url %}active{% endif %}">
         {% if item.url contains 'http' %}
-          <a href="{{ item.url }}">
+          <a class="nav-links" href="{{ item.url }}">
             {{ item.title }}
           </a>
         {% else %}
-          <a href="{{ item.url | prepend: site.baseurl }}">
+          <a class="nav-links" href="{{ item.url | prepend: site.baseurl }}">
             {{ item.title }}
           </a>
         {% endif %}
