@@ -31,12 +31,22 @@
     <script src="https://kit.fontawesome.com/611abcc667.js"></script>
     <link rel="stylesheet" href="/assets/css/academicons.min.css"/>
     
-    
 
 
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
       {%- include google-analytics.html -%}
     {%- endif -%}
+    
+    <script>
+		function myFun() {
+		  var x = document.getElementById("js-menu");
+		  if (x.style.display === "block") {
+		    x.style.display = "none";
+		  } else {
+		    x.style.display = "block";
+		  }
+		}
+	</script>
 
   </head>
   <body>
@@ -66,19 +76,7 @@
     {% else %}
     	{% include footer.html %}
     {% endif %}
-
-	<script>
-	
-	
-	var navBarToggle = document.getElementById('js-navbar-toggle');
-	
-	navBarToggle.addEventListener('click', 
-		function (){
-			var mainNav = document.getElementById('js-menu');
-			mainNav.classList.toggle('toggle-drop');
-		}
-	);
-	</script>
+   
 	
   </body>
 </html>

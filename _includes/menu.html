@@ -2,7 +2,7 @@
 
 {% if menu %}
   <nav class="navbar" role="navigation">
-  	<span class="navbar-toggle" id="js-navbar-toggle"><i class="fas fa-bars"></i></span>
+  	<span class="navbar-toggle" id="js-navbar-toggle" onclick="myFun()"><i class="fas fa-bars" id="hamburger"></i></span>
     <ul class="main-nav" id="js-menu">
       <li class="{% if page.url == '/' | prepend: site.baseurl %}active{% endif %}">
         <a class="nav-links" href="{{ '/' | prepend: site.baseurl }}">

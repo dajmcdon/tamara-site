@@ -26,6 +26,8 @@
   	&.active a {
       border-bottom: solid 1px;
   	}
+  	padding-bottom:.25em;
+  	padding-top: .25em;
   }
   a {
     //display: block;
@@ -41,6 +43,7 @@
 }
 
 .main-nav {
+	padding-top: 2em;
 	list-style-type: none;
 	display: none;
 	text-align: center;
@@ -56,10 +59,6 @@
 }
 
 
-.toggle-drop {
-	display: block;
-}
-
 @media screen and (min-width: $on-tablet) {
 	.navbar{
 		display: flex;
@@ -68,6 +67,7 @@
 	}
 	
 	.main-nav {
+		padding-top: 0;
 		text-align: center;
 		display: flex;
 		flex-direction: row;
