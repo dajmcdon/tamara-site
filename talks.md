@@ -5,9 +5,11 @@ divider: sion2
 ---
 
 ## Conference Presentations
-* “Dissensus and Alternative Left Politics in Postwar El Salvador: Jazz as Metonymy in Horacio Castellanos Moya’s _La diáspora_.” Mesa Centroamérica, LV Congreso de la Asociación Canadiense de Hispanistas, Vancouver, Canada
+* “Geopoetics and Journalistic Ekphrasis: Human Rights and Neoliberal Anomie." Being Human, Modern Language Association (MLA) Annual Conference, Seattle (January 2020)
 
-* “Specters of Roque: The Pen and/as the Sword.” Nuestra América, XXXVII Latin American Studies Association International Conference, Boston, MA (May 2019)
+* “Dissensus and Alternative Left Politics in Postwar El Salvador: Jazz as Metonymy in Horacio Castellanos Moya’s _La diáspora_.” Mesa Centroamérica, LV Congreso de la Asociación Canadiense de Hispanistas, Vancouver, Canada (June 2019)
+
+* “Specters of Roque: The Pen and/as the Sword.” Nuestra América, XXXVII Latin American Studies Association International Conference, Boston (May 2019)
 
 * “Precursors of 1968: Borges, Bolaño, and the Latin American Left.” Textual Transactions, Modern Language Association (MLA) Annual Conference, Chicago (January 2019)
 
