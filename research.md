@@ -4,24 +4,20 @@ title: Research
 divider: sion1
 ---
 
-## Past, Present & Future Research
-
 * I specialize in 20th- and 21st-century Mexican and Central American narrative fiction, as well as in broad comparative areas 
 that reach into other disciplines and traditions: Latina/o Studies, critical theory, political philosophy, and border and 
 diaspora studies. My research is animated by questions of political agency, economic precarity, and the violence that obtains 
-throughout waning national modernity, as well as by the ways in which literature shapes, critiques, and leverages burgeoning 
+throughout waning national modernity, as well as by the ways in which literature shapes, critiques, and indexes burgeoning 
 neoliberal globalization.
 
-* My dissertation analyzes the novels of Chilean-Mexican-Catalunyan author Roberto Bolaño and Honduran-Salvadoran-US-Latino 
-author Horacio Castellanos Moya as a means of conceptualizing the rise of what I call post-national literature. By post-national 
-literature, I refer to works that comment upon and critique, both formally and thematically, the shifting dynamics of the 
-nation state as neoliberal globalization becomes the dominant ordering system of world relations. Throughout the dissertation, 
-three overarching themes emerge that relate to the imbrication of politics, economics, and aesthetics in the neoliberal epoch. 
-First, I examine Bolaño’s and Castellanos Moya’s literary rejections of Leftist militant reason and discuss how their novels 
-implicate the Left in the rise of neoliberal globalization. Second, I undertake a sustained examination of Bolaño’s and Castellanos 
-Moya’s engagement with literary and aesthetic traditions, particularly realism and the avant-garde, and I maintain that a dialectic 
-emerges between their works and the literary past that opens a space to interrogate the place of aesthetic praxis as neoliberal 
-globalization becomes ascendant. Third, I argue that their oeuvres constitute a new aesthetic regime of post-national literature.
+* My dissertation analyzed the novels of Chilean-Mexican-Catalunyan author Roberto Bolaño and Honduran-Salvadoran-US-Latino 
+author Horacio Castellanos Moya as a means of conceptualizing the rise of what I call "post-national literature," which refers 
+to works that comment upon and critique, both formally and thematically, the shifting dynamics of the 
+nation state as neoliberal globalization becomes the dominant ordering system of world relations. To do so, I analyzed 
+Bolaño’s and Castellanos Moya’s engagement with literary and aesthetic traditions, particularly realism and the avant-garde, 
+and I maintained that a dialectic emerges between their works and the literary past that opens a space to interrogate the place of 
+aesthetic praxis as neoliberal globalization becomes ascendant. Finally, I examined Bolaño’s and Castellanos Moya’s literary rejections 
+of Leftist militant reason and discussed how their novels implicate the Left in the rise of neoliberal globalization. 
 
 * My current book project draws on the work I began in my dissertation but shifts focus to consider how globalization is being 
 leveraged—even embraced—by Latin American thinkers and artists as a means of critiquing and shaping world relations in the present epoch. 
