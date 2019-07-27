@@ -50,9 +50,9 @@ divider: sion2
 
 ## Conferences Organized & Workshop Participation
 
-* Workshop with the Author, “Carmen Boullosa y los escritores mexicanos después de 1968.” College Arts & Humanities Institute, Indiana University Bloomington (November 2018)
-
 * "Horacio Castellanos Moya's _El sueño del retorno_: A Workshop with the Author." Department of Spanish and Portuguese, Indiana University Bloomington (April 2019)
+
+* Workshop with the Author, “Carmen Boullosa y los escritores mexicanos después de 1968.” College Arts & Humanities Institute, Indiana University Bloomington (November 2018)
 
 * Contested Spaces, Contested Identities: Race and Identity Across the Disciplines, Graduate Student Research Symposium, Center for Research on Race and Ethnicity in Society, Indiana University (April 2018)
 
