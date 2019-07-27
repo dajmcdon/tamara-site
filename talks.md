@@ -23,7 +23,7 @@ divider: sion2
 
 * “The Body in Crisis: Reading Bolaño on Neoliberalism, the Failed State, & Political Precarity.” Diálogos de saberes, XXXV Latin American Studies Association International Conference, Lima, Peru (April 2017)
 
-* Snake Bites and Bestiality: Baile con serpientes and the Return of Magical Realism.” I ♥ POP, Interdisciplinary Conference of the Department of Comparative Literature at the Graduate Center, CUNY (November 2016)
+* "Snake Bites and Bestiality: Baile con serpientes and the Return of Magical Realism.” I ♥ POP, Interdisciplinary Conference of the Department of Comparative Literature at the Graduate Center, CUNY (November 2016)
 
 * “Violence, Literature, and Geopolitical Universality.” Crossing the Lines: Artistic and Linguistic Transgression, Transformation and Intersection, 12th Annual “Samuel G. Armistead” Colloquium, UC Davis (October 2016)
 
@@ -57,3 +57,11 @@ divider: sion2
 * Contested Spaces, Contested Identities: Race and Identity Across the Disciplines, Graduate Student Research Symposium, Center for Research on Race and Ethnicity in Society, Indiana University (April 2018)
 
 * Diálogos 11, Graduate Student Research Conference, Department of Spanish and Portuguese, Indiana University (February 2014)
+
+["Better Living Through the Humanities:](https://www.facebook.com/crres.iub/videos/vb.619227484774796/1862208990476633/?type=2&theater) Engaged Research, Public Scholarship, and Social Action Today," 
+the keynote address by [Dr. Marcia Chatelain](https://gufaculty360.georgetown.edu/s/contact/00336000014RhMmAAK/marcia-chatelain) at the 2018 CRRES Graduate Student Research Symposium.
+As the Graduate Research Assistant (2016-2018) for Indiana University's Center for Research on Race and Ethnicity in Society ([CRRES](http://crres.indiana.edu)), 
+I organized the 2018 Graduate Student Research Symposium, which featured Dr. Marcia Chatelain of Georgetown University as keynote speaker (click on above link for video of the keynote address). 
+During my two years with CRRES, I helped to expand the Center's programming by applying for grants to fund the Center's Speaker Series and 
+Social Media Internship, organizing talks by two poet laureates (Juan Felipe Herrera and Tracy K. Smith), and launching the CRRES Undergraduate 
+Mentorship Program.
