@@ -12,18 +12,18 @@ neoliberal globalization.
 
 * My dissertation analyzed the novels of Chilean-Mexican-Catalunyan author Roberto Bolaño and Honduran-Salvadoran-US-Latino 
 author Horacio Castellanos Moya as a means of conceptualizing the rise of what I call "post-national literature," which refers 
-to works that comment upon and critique, both formally and thematically, the shifting dynamics of the 
-nation state as neoliberal globalization becomes the dominant ordering system of world relations. To do so, I analyzed 
-Bolaño’s and Castellanos Moya’s engagement with literary and aesthetic traditions, particularly realism and the avant-garde, 
-and I maintained that a dialectic emerges between their works and the literary past that opens a space to interrogate the place of 
+to literary works that comment on and critique, both formally and thematically, the shifting dynamics of the 
+nation state as neoliberal globalization becomes the dominant ordering system of world relations. To do this, I analyzed 
+these authors' engagements with literary and aesthetic traditions, particularly realism and the avant-garde, to demonstrate that 
+a dialectic emerges between their works and the literary past that opens a space to interrogate the place of 
 aesthetic praxis as neoliberal globalization becomes ascendant. Finally, I examined Bolaño’s and Castellanos Moya’s literary rejections 
 of Leftist militant reason and discussed how their novels implicate the Left in the rise of neoliberal globalization. 
 
-* My current book project draws on the work I began in my dissertation but shifts focus to consider how globalization is being 
+* My current book project draws on the work initiated in my dissertation but shifts focus to consider how globalization is being 
 leveraged—even embraced—by Latin American thinkers and artists as a means of critiquing and shaping world relations in the present epoch. 
-Specifically, I examine the narrative fiction of authors Roberto Bolaño, Horacio Castellanos Moya, and Valeria Luiselli, and the work of 
-installation artist Teresa Margolles. My research posits that these artists embrace the commodity status of their work as part of the global 
-art market as a means of critiquing and destabilizing the boundaries between the Global North and South. 
+Specifically, I examine the narrative fiction of Roberto Bolaño, Horacio Castellanos Moya, and Valeria Luiselli, and the work of 
+installation artist Teresa Margolles. My research posits that these artists exploit the commodity status of their work as part of the global 
+art market as a means of critiquing and destabilizing boundaries between the Global North and South. 
 
 
 ## Peer-Reviewed Publications
@@ -34,7 +34,7 @@ art market as a means of critiquing and destabilizing the boundaries between the
 
 * "Escatología y marginalización en la literatura andina: Las porosas fronteras sociopolíticas en _Los ríos profundos_ de José María Arguedas,” _Revista canadiense de estudios hispánicos_ (Forthcoming).
 
-* "Migration and Diaspora: Central American Literature Beyond the Isthmus,” _Teaching Central American Literature in a Global Context_, MLA Anthology, Eds. Mónica Albizúrez and Gloria E. Chacón, (Forthcoming).
+* "Interventionism, Migration and Diaspora: Central American Literature Beyond the Isthmus,” _Teaching Central American Literature in a Global Context_, MLA Anthology, Eds. Mónica Albizúrez and Gloria E. Chacón, (Forthcoming).
 
 * "La Llorona, from Plaintive to Plaintiff: Accessing Rights in Neoliberal Globalization," _Cry Baby_, ed. Kathleen Alcalá (Under Review, Arizona University Press)
 
