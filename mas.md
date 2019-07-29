@@ -8,6 +8,7 @@ divider: radish
 
 * Editorial Board, _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_, Indiana University, 2019-present.
 * Referee, _Canadian Journal of Latin American and Caribbean Studies_, 2019-present
+* Textbook Adoption Committee (Spanish Basic Language), French, Hispanic & Italian Studies, University of British Columbia, 2019-2020
 
 * Session Organizer, “Nuestra América through a Latinx Lens: Reading (with) Héctor Tobar.” Roundtable with the author. Nuestra América, XXXVII Latin American Studies Association Conference, Boston, MA (May 2019)
 * Session Organizer, “Residues of the Archive: On Belonging, Inequality, and Crisis from the IsthmUS.” Nuestra América, XXXVII Latin American Studies Association International Conference, Boston, MA (May 2019), Section-sponsored Session
@@ -31,8 +32,8 @@ divider: radish
 * Academic Year Fellowship: Doctoral Student Academic Achievement Award. Department of Spanish and Portuguese, Indiana University, Tuition Waiver & Teaching Release • 2014–2015
 * Graduate Assistance in Areas of National Need (GAANN) Fellowship. US Department of Education, $15,000 • Spring 2015
 * Tinker Field Research Grant, archival research on Clarice Lispector in Rio de Janeiro, Brazil. Center for Latin American and Caribbean Studies, Indiana University, $1500 • Summer 2014
-* Foreign Language Area Studies (FLAS) Fellowship, Portuguese language study in Salvador de Bahia, Brazil. Center for Latin American and Caribbean Studies, Indiana University, $4425 • Summer 2014
-* Nominee, J.M. Hill Award for Outstanding Graduate Student Paper, “Losing Our Marbles: The Technology of Literature in 2666.” Department of Spanish and Portuguese, Indiana University • Spring 2014
+* Foreign Language Area Studies (FLAS) Fellowship, Salvador de Bahia, Brazil. Center for Latin American and Caribbean Studies, Indiana University, $4425 • Summer 2014
+* Nominee, J.M. Hill Award for Outstanding Graduate Student Paper, “Losing Our Marbles: The Technology of Literature in _2666_.” Department of Spanish and Portuguese, Indiana University • Spring 2014
 * Best Graduate Student Essay, “‘La guagua aérea’: Puerto Rican Placeholder.” Latino Studies Program, Indiana University, $500 • March 2013
 * Nominee, J.M. Hill Award for Outstanding Paper by a Graduate Student, for “‘La guagua aérea’: The Puerto Rican Placeholder.” Department of Spanish and Portuguese, Indiana University • Spring 2013
 
