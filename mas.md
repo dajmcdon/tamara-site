@@ -13,7 +13,7 @@ divider: radish
 * Session Organizer, “Nuestra América through a Latinx Lens: Reading (with) Héctor Tobar.” Roundtable with the author. Nuestra América, XXXVII Latin American Studies Association Conference, Boston, MA (May 2019)
 * Session Organizer, “Residues of the Archive: On Belonging, Inequality, and Crisis from the IsthmUS.” Nuestra América, XXXVII Latin American Studies Association International Conference, Boston, MA (May 2019), Section-sponsored Session
 
-* Session Organizer, “Borgesian Transaction: Literary Debts, Literary Inheritances.” Textual Transactions, Modern Language Association Annual Conference, Chicago (January 2019), Presidential Session
+* Session Organizer, “Borgesian Transactions: Literary Debts, Literary Inheritances.” Textual Transactions, Modern Language Association Annual Conference, Chicago (January 2019), Presidential Session
 
 * Session Organizer, “Consumption of the Other, Consumption of the Self: Aesthetic Mutilation as Neoliberal Critique.” Consuming Cultures, Midwest Modern Language Association Annual Conference, Kansas City (November 2018), Special Session
 
