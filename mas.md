@@ -8,6 +8,7 @@ divider: radish
 
 * Editorial Board, _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_, Indiana University, 2019-present.
 * Referee, _Canadian Journal of Latin American and Caribbean Studies_, 2019-present
+* Graduate Studies Committee, French, Hispanic & Italian Studies, University of British Columbia, 2019-2022
 * Textbook Adoption Committee (Spanish Basic Language), French, Hispanic & Italian Studies, University of British Columbia, 2019-2020
 
 * Session Organizer, “Nuestra América through a Latinx Lens: Reading (with) Héctor Tobar.” Roundtable with the author. Nuestra América, XXXVII Latin American Studies Association Conference, Boston, MA (May 2019)

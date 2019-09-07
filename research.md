@@ -28,7 +28,7 @@ art market as a means of critiquing and destabilizing boundaries between the Glo
 
 ## Peer-Reviewed Publications
 
-* "Geopoetics, Geopolitics, and Violence: (Un)Mapping Daniel Alarcón’s _Lost City Radio_” _Latin American Perspectives_ (September 2019).
+* "[Geopoetics, Geopolitics, and Violence](https://www.academia.edu/40263382/Geopoetics_Geopolitics_and_Violence_Un_Mapping_Daniel_Alarcóns_Lost_City_Radio): (Un)Mapping Daniel Alarcón’s _Lost City Radio_” _Latin American Perspectives_ (September 2019).
 
 * "[Carving Place out of Non-Place](https://www.academia.edu/39790659/Carving_Place_out_of_Non-Place_Luis_Rafael_Sánchez_s_La_guagua_aérea_and_Postnational_Space): Luis Rafael Sánchez’s ‘La guagua aérea’ and Post-National Space,” _Chasqui: revista de literatura latinoamericana_ (May 2018).
 
