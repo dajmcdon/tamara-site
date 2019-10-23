@@ -25,6 +25,7 @@ divider: radish
 * Session Organizer, “Culture on Crisis / Culture in Crisis: Art and the Neoliberal Market.” Diálogos de saberes, XXXV Latin American Studies Association International Conference, Lima, Peru (April 2017)
 
 ## Awards
+* Hampton New Faculty Research Grant, University of British Columbia, $10,000 • October 2019
 * Latina/o Studies Section Travel Award (LASA, Boston, MA), $500 • May 2019
 * College of Arts and Sciences Dissertation Completion Fellowship, Indiana University, $25,000 • 2018-2019
 * Archival Research Grant: “Specters of Roque,” Mexico City, Mexico. Center for Research on Race and Ethnicity in Society, Indiana University, $750 • April 2019

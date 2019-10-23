@@ -53,7 +53,7 @@ art market as a means of critiquing and destabilizing boundaries between the Glo
 * “Rancière and the Paradox of Politics: Mexico, Central America, and the Long 1968 in Retrospect.”
 * "Desnudando a los maîtres à penser: La 'novelization' de lo histórico en _El fin de la locura_."
 * “Dead Matter: A Historical Materialist Approach to Literary Corpses in W.G. Sebald and Oscar Zeta Acosta.”
-* “Broken Bodies, Broken Nations: Avant-Garde Praxis and Neoliberal Logic across Roberto Bolaño’s Oeuvre."
+* “Broken Bodies, Broken States: (Un)Mediated Violence and Neoliberal Logic across Roberto Bolaño’s Oeuvre."
 * “A Tale of Two Genres: The Duæling Discourses of Luis Rafael Sánchez’s _Quíntuples_.”
 * “Violencia y alienación social en El Salvador: _El arma en el hombre_ como Bildungsroman neoliberal.”
 

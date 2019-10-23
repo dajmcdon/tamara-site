@@ -5,7 +5,7 @@ divider: sion2
 ---
 
 ## Conference Presentations
-* “Geopoetics and Journalistic Ekphrasis: Human Rights and Neoliberal Anomie." Being Human, Modern Language Association (MLA) Annual Conference, Seattle (January 2020)
+* “Broken Bodies, Broken Nations: Roberto Bolaño on Neoliberal Logic and (Un)Mediated Violence.” Hispanic Studies Seminar, Department of French, Hispanic & Italian Studies, University of British Columbia, Vancouver, Canada (October 2019)
 
 * “Dissensus and Alternative Left Politics in Postwar El Salvador: Jazz as Metonymy in Horacio Castellanos Moya’s _La diáspora_.” Mesa Centroamérica, LV Congreso de la Asociación Canadiense de Hispanistas, Vancouver, Canada (June 2019)
 
@@ -44,6 +44,8 @@ divider: sion2
 * “Duœling Discourses: Luis Rafael Sánchez’s _Quíntuples_.” Tenth Annual Hawaii International Conference on Arts and Humanities (January 2012)
 
 ## Panel Moderation
+* 
+
 * History and its Shadows: Re-Thinking Historical Narratives in Contemporary Latin American and Luso-Brazilian Literature. Graduate Student Research Conference: Diálogos 13, Indiana University (February 2016)
 
 * Luso-Brazilian Literature & Culture. Graduate Student Research Conference: Diálogos 10, Indiana University (February 2013)
