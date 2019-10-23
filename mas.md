@@ -28,7 +28,7 @@ divider: radish
 * Hampton New Faculty Research Grant, University of British Columbia, $10,000 • October 2019
 * Latina/o Studies Section Travel Award (LASA, Boston, MA), $500 • May 2019
 * College of Arts and Sciences Dissertation Completion Fellowship, Indiana University, $25,000 • 2018-2019
-* Archival Research Grant: “Specters of Roque,” Mexico City, Mexico. Center for Research on Race and Ethnicity in Society, Indiana University, $750 • April 2019
+* Archival Research Grant: “Roque Dalton: Declassified,” Archivo General de la Nación, Mexico City, Mexico. Center for Research on Race and Ethnicity in Society, Indiana University, $750 • April 2019
 * Timothy J. Rogers Summer Dissertation Fellowship, Department of Spanish and Portuguese, Indiana University, $9000 • 2017-18
 * Nominee, Graduate of the Last Decade (GOLD) Award. Washburn University • January 2016
 * Academic Year Fellowship: Doctoral Student Academic Achievement Award. Department of Spanish and Portuguese, Indiana University, Tuition Waiver & Teaching Release • 2014–2015
@@ -51,6 +51,7 @@ Sections: Central America; Culture, Power and Politics; Latino Studies; Mexico
 
 ## Links and Miscellany
 * [Job Market Advice](/assets/research/JobMarketAdvice_TLM.pdf)
+* Research Spotlight, [FHIS Newsletter](https://fhis.ubc.ca/news-and-events/newsletter/), November 2019
 * Editorial Associate for _Chiricú Journal_ [Issue 1.1 (Fall 2016)](https://muse-jhu-edu.proxyiub.uits.iu.edu/issue/35138)
 * [Profile](https://fhis.ubc.ca/people/tamara-mitchell/) on UBC's French, Hispanic and Italian Studies website
 * Some of my favorite pedagogy websites for basic language and cultural content: [BK Nelson](http://personal.colby.edu/~bknelson/SLC/) Spanish Language & Culture; University of Kansas [Acceso Project](http://acceso.ku.edu)
