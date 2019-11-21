@@ -64,10 +64,10 @@ markdown: kramdown
 #   - vendor/gems/
 #   - vendor/ruby/
 
-show_excerpts: true
+# show_excerpts: true
 
-plugins:
-  - jekyll-paginate
+# plugins:
+#  - jekyll-paginate
 
-paginate: 10
-paginate_path: "/page/:num/"
+# paginate: 10
+# paginate_path: "/page/:num/"
