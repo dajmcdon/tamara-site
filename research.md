@@ -36,6 +36,8 @@ art market as a means of critiquing and destabilizing boundaries between the Glo
 
 * "Interventionism, Migration and Diaspora: Central American Literature Beyond the Isthmus,” _Teaching Central American Literature in a Global Context_, MLA Anthology, Eds. Mónica Albizúrez and Gloria E. Chacón, (Forthcoming).
 
+* “Broken Bodies, Broken States: Roberto Bolaño on Neoliberal Logic and (Un)Mediated Violence." _Revista de Estudios Hispánicos_ (Submitted November 2019).
+
 * "La Llorona, from Plaintive to Plaintiff: Accessing Rights in Neoliberal Globalization," _Cry Baby_, ed. Kathleen Alcalá (Under Review, Arizona University Press)
 
 * "Natalia Almada: [The Sound & the Image](https://muse.jhu.edu/article/633332),” _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_ 1.1 (September 2016), ed. Jonathan Risner: Indiana University Press.
@@ -53,7 +55,6 @@ art market as a means of critiquing and destabilizing boundaries between the Glo
 * “Rancière and the Paradox of Politics: Mexico, Central America, and the Long 1968 in Retrospect.”
 * "Desnudando a los maîtres à penser: La 'novelization' de lo histórico en _El fin de la locura_."
 * “Dead Matter: A Historical Materialist Approach to Literary Corpses in W.G. Sebald and Oscar Zeta Acosta.”
-* “Broken Bodies, Broken States: (Un)Mediated Violence and Neoliberal Logic across Roberto Bolaño’s Oeuvre."
 * “A Tale of Two Genres: The Duæling Discourses of Luis Rafael Sánchez’s _Quíntuples_.”
 * “Violencia y alienación social en El Salvador: _El arma en el hombre_ como Bildungsroman neoliberal.”
 

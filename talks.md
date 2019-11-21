@@ -5,6 +5,8 @@ divider: sion2
 ---
 
 ## Conference Presentations
+* “A Harlem Renaissance in Ciudad Juárez: Race, Gender, and a Crisis of Intersectionality in Roberto Bolaño’s ‘La parte de Fate.’” Améfrica Ladina, XVIII Latin American Studies Association (LASA), Guadalajara, México (May 2020)
+
 * “Broken Bodies, Broken Nations: Roberto Bolaño on Neoliberal Logic and (Un)Mediated Violence.” Hispanic Studies Seminar, Department of French, Hispanic & Italian Studies, University of British Columbia, Vancouver, Canada (October 2019)
 
 * “Dissensus and Alternative Left Politics in Postwar El Salvador: Jazz as Metonymy in Horacio Castellanos Moya’s _La diáspora_.” Mesa Centroamérica, LV Congreso de la Asociación Canadiense de Hispanistas, Vancouver, Canada (June 2019)
@@ -44,7 +46,7 @@ divider: sion2
 * “Duœling Discourses: Luis Rafael Sánchez’s _Quíntuples_.” Tenth Annual Hawaii International Conference on Arts and Humanities (January 2012)
 
 ## Panel Moderation
-* 
+* Crossing Borders. _On the Move: Narrtives of Displacement, Travel and Mobilities_, Graduate Student Conference: French, Hispanic & Italian Studies, University of British Columbia (October 2019)
 
 * History and its Shadows: Re-Thinking Historical Narratives in Contemporary Latin American and Luso-Brazilian Literature. Graduate Student Research Conference: Diálogos 13, Indiana University (February 2016)
 

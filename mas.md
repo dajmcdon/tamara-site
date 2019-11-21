@@ -11,7 +11,10 @@ divider: radish
 * Graduate Studies Committee, French, Hispanic & Italian Studies, University of British Columbia, 2019-2022
 * Textbook Adoption Committee (Spanish Basic Language), French, Hispanic & Italian Studies, University of British Columbia, 2019-2020
 
+* Session Organizer, "Géneros: Gender and Genre in the Literatures of Améfrica Ladina." Améfrica Ladina, XVIII Latin American Studies Association (LASA), Guadalajara, México (May 2020)
+
 * Session Organizer, “Nuestra América through a Latinx Lens: Reading (with) Héctor Tobar.” Roundtable with the author. Nuestra América, XXXVII Latin American Studies Association Conference, Boston, MA (May 2019)
+
 * Session Organizer, “Residues of the Archive: On Belonging, Inequality, and Crisis from the IsthmUS.” Nuestra América, XXXVII Latin American Studies Association International Conference, Boston, MA (May 2019), Section-sponsored Session
 
 * Session Organizer, “Borgesian Transactions: Literary Debts, Literary Inheritances.” Textual Transactions, Modern Language Association Annual Conference, Chicago (January 2019), Presidential Session
@@ -26,6 +29,7 @@ divider: radish
 
 ## Awards
 * Hampton New Faculty Research Grant, University of British Columbia, $10,000 • October 2019
+* Digital Humanities Summer Institute Fellowship, University of Victoria, Canada, $1200 • June 8-12, 2020
 * Latina/o Studies Section Travel Award (LASA, Boston, MA), $500 • May 2019
 * College of Arts and Sciences Dissertation Completion Fellowship, Indiana University, $25,000 • 2018-2019
 * Archival Research Grant: “Roque Dalton: Declassified,” Archivo General de la Nación, Mexico City, Mexico. Center for Research on Race and Ethnicity in Society, Indiana University, $750 • April 2019
@@ -42,6 +46,7 @@ divider: radish
 
 
 ## Academic & Professional Affiliations
+* Green College Leading Scholars Program, 2019-2021
 * Asociación Canadiense de Hispanistas (ACH), 2017-Present
 * Modern Language Association (MLA), 2011–Present
 * Latin American Studies Association (LASA), 2012–Present  
@@ -60,4 +65,4 @@ Sections: Central America; Culture, Power and Politics; Latino Studies; Mexico
 
 ![](assets/images/HectorTobarTalkLASA2019.jpg)
 ![](assets/images/LatinxLensPanel.jpg)
-At LASA 2019, I organized the roundtable "Nuestra América through a Latinx Lens: Reading (with) Héctor Tobar." Attendees had a chance to hear about [Tobar](https://www.hectortobar.com)'s fifth book and most recent project, _The Last Great Road Bum_, and dialogue with Latinx literary scholars about pedagogy, activism, and research in our current political moment. (Bottom photo from left: [Eric Vázquez](https://www.ericvazquezphd.com), Dickinson College; Tamara Mitchell, University of British Columbia; Héctor Tobar, University of California Irvine; [Jennifer Harford Vargas](https://www.brynmawr.edu/people/jennifer-harford-vargas), Bryn Mawr College; [Marta Caminero-Santangelo](https://english.ku.edu/marta-caminero-santangelo), University of Kansas)
+LASA 2019 roundtable "Nuestra América through a Latinx Lens: Reading (with) Héctor Tobar." Attendees had a chance to hear about [Tobar](https://www.hectortobar.com)'s fifth book and most recent project, _The Last Great Road Bum_, and dialogue with Latinx literary scholars about pedagogy, activism, and research in our current political moment. (Bottom photo from left: [Eric Vázquez](https://www.ericvazquezphd.com), Dickinson College; Tamara Mitchell, University of British Columbia; Héctor Tobar, University of California Irvine; [Jennifer Harford Vargas](https://www.brynmawr.edu/people/jennifer-harford-vargas), Bryn Mawr College; [Marta Caminero-Santangelo](https://english.ku.edu/marta-caminero-santangelo), University of Kansas)

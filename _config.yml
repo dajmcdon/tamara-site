@@ -17,7 +17,8 @@ title: Tamara L. Mitchell
 email: tamara.mitchell@ubc.ca
 appointment: |-
   Assistant Professor of Spanish  
-  Department of French, Hispanic and Italian Studies  
+  Department of French, Hispanic and Italian Studies
+  Green College Leading Scholar, 2019-2020
   University of British Columbia      
 office_address: |-
   Ponderosa Annex E 221  
@@ -63,8 +64,10 @@ markdown: kramdown
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# plugins:
-#  - jekyll-paginate
+show_excerpts: true
 
-# paginate: 3
-# paginate_path: "/page/:num/"
+plugins:
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/page/:num/"
