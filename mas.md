@@ -6,31 +6,17 @@ divider: radish
 
 ## Service
 
-* Editorial Board, _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_, Indiana University, 2019-present.
-* Referee, Revista de Estudios Hispánicos, 2020-present
-* Referee, Revista de Literatura Mexicana Contemporánea, 2019-present
-* Referee, Canadian Journal of Latin American and Caribbean Studies, 2019-present
-* Referee, Chiricú Journal: Latina/o Literatures, Arts, and Cultures, 2016-present 
-* Juror, “[Lista Arcadia de los libros del año: Autoras hispanoamericanas](http://especiales.revistaarcadia.com/los-cien-mejores-libros-recomendados-de-los-ultimos-cien-anos-escritos-por-mujeres/index.html)” (“Books of the Year, Arcadia: Women Novelists”), Editorial Arcadia, October 2019
+* Steering Committee and Session Facilitator, “Virtual Koerner’s Working Group,” 2020-present
+* Editorial Board, _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_, Indiana University, 2019-present
+* Referee, _Revista de Estudios Hispánicos_, 2020-present
+* Referee, _Revista de Literatura Mexicana Contemporánea_, 2019-present
+* Referee, _Canadian Journal of Latin American and Caribbean Studies_, 2019-present
+* Referee, _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_, 2016-present 
+* Juror, “[Lista Arcadia de los libros del año: Autoras hispanoamericanas](http://especiales.revistaarcadia.com/los-cien-mejores-libros-recomendados-de-los-ultimos-cien-anos-escritos-por-mujeres/index.html)” (“Books of the Year, _Arcadia_: Women Novelists”), Editorial Arcadia, October 2019
 
 * Graduate Studies Committee, French, Hispanic & Italian Studies, University of British Columbia, 2019-2022
 * Textbook Adoption Committee (Spanish Basic Language), French, Hispanic & Italian Studies, University of British Columbia, 2019-2020
 
-* Session Organizer, "Géneros: Gender and Genre in the Literatures of Améfrica Ladina." Améfrica Ladina, XVIII Latin American Studies Association (LASA), Guadalajara, México (May 2020)
-
-* Session Organizer, “Nuestra América through a Latinx Lens: Reading (with) Héctor Tobar.” Roundtable with the author. Nuestra América, XXXVII Latin American Studies Association Conference, Boston, MA (May 2019)
-
-* Session Organizer, “Residues of the Archive: On Belonging, Inequality, and Crisis from the IsthmUS.” Nuestra América, XXXVII Latin American Studies Association International Conference, Boston, MA (May 2019), Section-sponsored Session
-
-* Session Organizer, “Borgesian Transactions: Literary Debts, Literary Inheritances.” Textual Transactions, Modern Language Association Annual Conference, Chicago (January 2019), Presidential Session
-
-* Session Organizer, “Consumption of the Other, Consumption of the Self: Aesthetic Mutilation as Neoliberal Critique.” Consuming Cultures, Midwest Modern Language Association Annual Conference, Kansas City (November 2018), Special Session
-
-* Session Organizer, “Political and Literary Geographies in Flux: Culture and Media in the Era of Post-National Globalization.” Latin American Studies in a Globalized World, XXXVI Latin American Studies Association International Conference, Barcelona, Spain (May 2018)
-
-* Session Organizer, “Impactos del capitalismo globalizado: Fenómenos literarios glocales desde una perspectiva intercontinental.” Ohio Latin Americanist Conference, The Ohio State University (October 2017)
-
-* Session Organizer, “Culture on Crisis / Culture in Crisis: Art and the Neoliberal Market.” Diálogos de saberes, XXXV Latin American Studies Association International Conference, Lima, Peru (April 2017)
 
 ## Awards
 * Faculty of Arts Adaptation Research Assistant Grant, $3000 • Summer 2020

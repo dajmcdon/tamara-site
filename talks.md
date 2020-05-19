@@ -45,12 +45,31 @@ divider: sion2
 
 * “Duœling Discourses: Luis Rafael Sánchez’s _Quíntuples_.” Tenth Annual Hawaii International Conference on Arts and Humanities (January 2012)
 
+## Sessions Organized
+* "Listening in Latin America: Narrative Soundscapes & Literary Aurality." _MLA Convention: Persistence_, Toronto (January 2021)
+* "Géneros: Gender and Genre in the Literatures of Améfrica Ladina." Améfrica Ladina, XVIII Latin American Studies Association (LASA), Guadalajara, México (May 2020)
+
+* "Nuestra América through a Latinx Lens: Reading (with) Héctor Tobar.” Roundtable with the author. Nuestra América, XXXVII Latin American Studies Association Conference, Boston, MA (May 2019)
+
+* “Residues of the Archive: On Belonging, Inequality, and Crisis from the IsthmUS.” Nuestra América, XXXVII Latin American Studies Association International Conference, Boston, MA (May 2019), Section-sponsored Session
+
+* “Borgesian Transactions: Literary Debts, Literary Inheritances.” Textual Transactions, Modern Language Association Annual Conference, Chicago (January 2019), Presidential Session
+
+* “Consumption of the Other, Consumption of the Self: Aesthetic Mutilation as Neoliberal Critique.” Consuming Cultures, Midwest Modern Language Association Annual Conference, Kansas City (November 2018), Special Session
+
+* “Political and Literary Geographies in Flux: Culture and Media in the Era of Post-National Globalization.” Latin American Studies in a Globalized World, XXXVI Latin American Studies Association International Conference, Barcelona, Spain (May 2018)
+
+* “Impactos del capitalismo globalizado: Fenómenos literarios glocales desde una perspectiva intercontinental.” Ohio Latin Americanist Conference, The Ohio State University (October 2017)
+
+* “Culture on Crisis / Culture in Crisis: Art and the Neoliberal Market.” Diálogos de saberes, XXXV Latin American Studies Association International Conference, Lima, Peru (April 2017)
+
 ## Panel Moderation
-* Crossing Borders. _On the Move: Narrtives of Displacement, Travel and Mobilities_, Graduate Student Conference: French, Hispanic & Italian Studies, University of British Columbia (October 2019)
+* Listening in Latin America: Narrative Soundscapes & Literary Aurality. _MLA Convention: Persistence_, Toronto (January 2021)
+* Crossing Borders. _On the Move: Narratives of Displacement, Travel and Mobilities_, Graduate Student Conference: French, Hispanic & Italian Studies, University of British Columbia (October 2019)
 
-* History and its Shadows: Re-Thinking Historical Narratives in Contemporary Latin American and Luso-Brazilian Literature. Graduate Student Research Conference: Diálogos 13, Indiana University (February 2016)
+* History and its Shadows: Re-Thinking Historical Narratives in Contemporary Latin American and Luso-Brazilian Literature. _Diálogos 13_: Graduate Student Research Conference, Indiana University (February 2016)
 
-* Luso-Brazilian Literature & Culture. Graduate Student Research Conference: Diálogos 10, Indiana University (February 2013)
+* Luso-Brazilian Literature & Culture. _Diálogos 10_: Graduate Student Research Conference, Indiana University (February 2013)
 
 ## Conferences Organized & Workshop Participation
 
