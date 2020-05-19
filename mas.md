@@ -7,7 +7,12 @@ divider: radish
 ## Service
 
 * Editorial Board, _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_, Indiana University, 2019-present.
-* Referee, _Canadian Journal of Latin American and Caribbean Studies_, 2019-present
+* Referee, Revista de Estudios Hispánicos, 2020-present
+* Referee, Revista de Literatura Mexicana Contemporánea, 2019-present
+* Referee, Canadian Journal of Latin American and Caribbean Studies, 2019-present
+* Referee, Chiricú Journal: Latina/o Literatures, Arts, and Cultures, 2016-present 
+* Juror, “[Lista Arcadia de los libros del año: Autoras hispanoamericanas](http://especiales.revistaarcadia.com/los-cien-mejores-libros-recomendados-de-los-ultimos-cien-anos-escritos-por-mujeres/index.html)” (“Books of the Year, Arcadia: Women Novelists”), Editorial Arcadia, October 2019
+
 * Graduate Studies Committee, French, Hispanic & Italian Studies, University of British Columbia, 2019-2022
 * Textbook Adoption Committee (Spanish Basic Language), French, Hispanic & Italian Studies, University of British Columbia, 2019-2020
 
@@ -28,6 +33,8 @@ divider: radish
 * Session Organizer, “Culture on Crisis / Culture in Crisis: Art and the Neoliberal Market.” Diálogos de saberes, XXXV Latin American Studies Association International Conference, Lima, Peru (April 2017)
 
 ## Awards
+* Faculty of Arts Adaptation Research Assistant Grant, $3000 • Summer 2020
+* SSHRC Exchange Arts International Conference Travel Grant (Guadalajara, Mexico), $2000 • May 2020
 * Hampton New Faculty Research Grant, University of British Columbia, $10,000 • October 2019
 * Digital Humanities Summer Institute Fellowship, University of Victoria, Canada, $1200 • June 8-12, 2020
 * Latina/o Studies Section Travel Award (LASA, Boston, MA), $500 • May 2019

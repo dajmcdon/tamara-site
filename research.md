@@ -39,7 +39,9 @@ art market as a means of critiquing and destabilizing boundaries between the Glo
 
 * “Broken Bodies, Broken States: Roberto Bolaño on Neoliberal Logic and (Un)Mediated Violence." _Revista de Estudios Hispánicos_ (Submitted November 2019).
 
-* "La Llorona, from Plaintive to Plaintiff: Accessing Rights in Neoliberal Globalization," _Cry Baby_, ed. Kathleen Alcalá (Under Review, Arizona University Press)
+* "La Llorona, from Plaintive to Plaintiff: Accessing Rights in Neoliberal Globalization," _Cry Baby_, eds. Norma Alarcón and Kathleen Alcalá (Under Review, Arizona University Press)
+
+* “The Latin American Telluric Novel and the Mexican Revolution.” _Oxford Handbook of the Latin American Novel_. Proposal accepted, under contract, May 2020. Co-authored with Amanda M. Smith, UC Santa Cruz. Eds. Ignacio López-Calvo and Juan E De Castro.
 
 * "Natalia Almada: [The Sound & the Image](https://muse.jhu.edu/article/633332),” _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_ 1.1 (September 2016), ed. Jonathan Risner: Indiana University Press.
 
