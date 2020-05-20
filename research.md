@@ -21,15 +21,14 @@ of Leftist militant reason and discussed how their novels implicate the Left in 
 
 * My current book project draws on the work initiated in my dissertation but shifts focus to consider how globalization is being 
 leveraged—even embraced—by Latin American thinkers and artists as a means of critiquing and shaping world relations in the present epoch. 
-Specifically, I examine the narrative fiction of Roberto Bolaño, Horacio Castellanos Moya, and Valeria Luiselli, and the work of 
-installation artist Teresa Margolles. My research posits that these artists exploit the commodity status of their work as part of the global 
-art market as a means of critiquing and destabilizing boundaries between the Global North and South. 
+Specifically, I examine the narrative fiction of Roberto Bolaño, Horacio Castellanos Moya, Valeria Luiselli, and Laury Leite. My research posits that these authors exploit the commodity status of their work as part of the global 
+art market as a means of critiquing and destabilizing boundaries between the Global North and South. This project dialogues with Critical Race Theory, Migration and Diaspora Studies, and Sound Studies in its examination of Latin American literature in the epoch of post-national globalization.
 
 
 ## Peer-Reviewed Publications
 
 
-* "Escatología y marginalización en la literatura andina: Las porosas fronteras sociopolíticas en _Los ríos profundos_ de José María Arguedas,” _Revista canadiense de estudios hispánicos_ (May 2020).
+* "[Escatología y marginalización en la literatura andina](https://www.academia.edu/43119108/Escatolog%C3%ADa_y_marginalización_en_la_literatura_andina_las_porosas_fronteras_sociopol%C3%ADticas_en_Los_r%C3%ADos_profundos_de_José_Mar%C3%ADa_Arguedas): Las porosas fronteras sociopolíticas en _Los ríos profundos_ de José María Arguedas,” _Revista canadiense de estudios hispánicos_ (May 2020).
 
 * "[Geopoetics, Geopolitics, and Violence](https://www.academia.edu/40263382/Geopoetics_Geopolitics_and_Violence_Un_Mapping_Daniel_Alarcóns_Lost_City_Radio): (Un)Mapping Daniel Alarcón’s _Lost City Radio_” _Latin American Perspectives_ (September 2019).
 
