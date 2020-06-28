@@ -28,6 +28,9 @@ art market as a means of critiquing and destabilizing boundaries between the Glo
 ## Peer-Reviewed Publications
 
 
+
+* “Broken Bodies, Broken States: Roberto Bolaño on Neoliberal Logic and (Un)Mediated Violence." _Revista de Estudios Hispánicos_ (Accepted, forthcoming March 2021).
+
 * "[Escatología y marginalización en la literatura andina](https://www.academia.edu/43119108/Escatolog%C3%ADa_y_marginalización_en_la_literatura_andina_las_porosas_fronteras_sociopol%C3%ADticas_en_Los_r%C3%ADos_profundos_de_José_Mar%C3%ADa_Arguedas): Las porosas fronteras sociopolíticas en _Los ríos profundos_ de José María Arguedas,” _Revista canadiense de estudios hispánicos_ (May 2020).
 
 * "[Geopoetics, Geopolitics, and Violence](https://www.academia.edu/40263382/Geopoetics_Geopolitics_and_Violence_Un_Mapping_Daniel_Alarcóns_Lost_City_Radio): (Un)Mapping Daniel Alarcón’s _Lost City Radio_” _Latin American Perspectives_ (September 2019).
@@ -35,8 +38,6 @@ art market as a means of critiquing and destabilizing boundaries between the Glo
 * "[Carving Place out of Non-Place](https://www.academia.edu/39790659/Carving_Place_out_of_Non-Place_Luis_Rafael_Sánchez_s_La_guagua_aérea_and_Postnational_Space): Luis Rafael Sánchez’s ‘La guagua aérea’ and Post-National Space,” _Chasqui: revista de literatura latinoamericana_ (May 2018).
 
 * "Interventionism, Migration and Diaspora: Central American Literature Beyond the Isthmus,” _Teaching Central American Literature in a Global Context_, MLA Anthology, Eds. Mónica Albizúrez and Gloria E. Chacón, (Forthcoming).
-
-* “Broken Bodies, Broken States: Roberto Bolaño on Neoliberal Logic and (Un)Mediated Violence." _Revista de Estudios Hispánicos_ (Submitted November 2019).
 
 * "La Llorona, from Plaintive to Plaintiff: Accessing Rights in Neoliberal Globalization," _Cry Baby_, eds. Norma Alarcón and Kathleen Alcalá (Under Review, Arizona University Press)
 

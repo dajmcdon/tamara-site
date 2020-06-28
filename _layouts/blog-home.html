@@ -27,11 +27,11 @@ layout: default
 
 <main class="site-masthead-post" itemprop="articleBody" id="main" role="main" aria-label="Content">
 
-  <h1 class="content-title divided">
+  <h1 class="content-title">
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
       Page {{ paginator.page }}
     {% else %}
-      Contents
+    <div style="font-size:200%">. . .</div>
     {% endif %}
   </h1>
   {{ content | markdownify }}

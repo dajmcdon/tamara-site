@@ -19,3 +19,32 @@ $asset_url: '{{ '/assets' | absolute_url }}';
   "footnotes",
   "search"
 ;
+
+.my-post-content {
+    ul {
+        list-style: disc outside none;
+        margin-top: 1em;
+        margin-left: 4em;
+        margin-bottom: 1em;
+    }
+    li {margin-bottom: .25em;}
+}
+
+.my-post-title {text-align: center;}
+
+.works-cited {
+    ul {
+        list-style: none;
+        margin-left: 1em;
+        color: $muted-text-color;
+        font-size: 75%;
+        text-justify: none;
+    }
+    li {
+        text-indent: -1em;
+        margin-bottom: .5em;
+    }
+    a {
+        color: $muted-text-color;
+    }
+}

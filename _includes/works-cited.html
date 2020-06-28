@@ -1,0 +1,8 @@
+<div class="works-cited">
+<ul>
+
+  {% for citation in page.works-cited %}
+  <li> {{ citation.cite | markdownify }}</li>
+  {% endfor %}
+</ul>
+<div>
