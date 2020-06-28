@@ -22,6 +22,10 @@ layout: default
   <div class="my-post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
+  
+  {% if page.works-cited %}
+  {% include works-cited.html %}
+  {% endif %}
 
   <div class="post-meta">
     {% if page.author %}

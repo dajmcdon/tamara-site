@@ -33,15 +33,16 @@ $asset_url: '{{ '/assets' | absolute_url }}';
 .my-post-title {text-align: center;}
 
 .works-cited {
+	text-align: left;
     ul {
         list-style: none;
         margin-left: 1em;
         color: $muted-text-color;
         font-size: 75%;
-        text-justify: none;
+        text-align: left;
     }
     li {
-        text-indent: -1em;
+	text-align: left;
         margin-bottom: .5em;
     }
     a {

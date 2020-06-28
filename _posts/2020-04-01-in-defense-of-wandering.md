@@ -134,7 +134,4 @@ If you’re interested in peripatetic pedagogy, here are some tips to get starte
 * Perfectionism is not your friend. These are not NPR-ready podcasts, so you do not have to edit relentlessly and do multiple takes to get perfect content.
 * If you have a question, Google it. Many brilliant instructors have done this before and shared advice online. Take advantage of their generosity and experience.
 
-### Works cited
-
-{% include works-cited.html %}
 
