@@ -19,10 +19,7 @@ a dialectic emerges between their works and the literary past that opens a space
 aesthetic praxis as neoliberal globalization becomes ascendant. Finally, I examined Bolaño’s and Castellanos Moya’s literary rejections 
 of Leftist militant reason and discussed how their novels implicate the Left in the rise of neoliberal globalization. 
 
-* My current book project draws on the work initiated in my dissertation but shifts focus to consider how globalization is being 
-leveraged—even embraced—by Latin American thinkers and artists as a means of critiquing and shaping world relations in the present epoch. 
-Specifically, I examine the narrative fiction of Roberto Bolaño, Horacio Castellanos Moya, Valeria Luiselli, and Laury Leite. My research posits that these authors exploit the commodity status of their work as part of the global 
-art market as a means of critiquing and destabilizing boundaries between the Global North and South. This project dialogues with Critical Race Theory, Migration and Diaspora Studies, and Sound Studies in its examination of Latin American literature in the epoch of post-national globalization.
+* My current book project, _Neoliberal Encounters: Latin American Literature in the Age of Technological Globalization_, studies and sets up a series of “neoliberal encounters” in its examination of 21st-century Mexican and Central American literature—produced both domestically and in the diaspora. Encounters are both destructive and generative. They may be sites of confrontation, change, synthesis, or revelation. They are both temporal and spatial, and occur across distinct genres and media. I read the narrative works by Roberto Bolaño, Laury Leite, Laia Jufresa, Horacio Castellanos Moya, Claudia Hernández, and Valeria Luiselli, as sites of such encounters, and I attend to the ways in which politics, economics, ethics, and aesthetics become entangled in the age of neoliberal globalization. 
 
 
 ## Peer-Reviewed Publications
