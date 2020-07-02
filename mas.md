@@ -48,7 +48,6 @@ Sections: Central America; Culture, Power and Politics; Latino Studies; Mexico
 * American Comparative Literature Association (ACLA), 2016–Present
 
 ## Links and Miscellany
-* [Job Market Advice](/assets/research/JobMarketAdvice_TLM.pdf)
 * Research Spotlight, [FHIS Newsletter](https://fhis.ubc.ca/news-and-events/newsletter/), November 2019
 * Editorial Associate for _Chiricú Journal_ [Issue 1.1 (Fall 2016)](https://muse-jhu-edu.proxyiub.uits.iu.edu/issue/35138)
 * [Profile](https://fhis.ubc.ca/people/tamara-mitchell/) on UBC's French, Hispanic and Italian Studies website
