@@ -4,22 +4,21 @@ title: Research
 divider: sion1
 ---
 
-* I specialize in 20th- and 21st-century Mexican and Central American narrative fiction, as well as in broad comparative areas 
+I specialize in 20th- and 21st-century Mexican and Central American narrative fiction, as well as in broad comparative areas 
 that reach into other disciplines and traditions: Latina/o Studies, critical theory, political philosophy, and border and 
 diaspora studies. My research is animated by questions of political agency, economic precarity, and the violence that obtains 
 throughout waning national modernity, as well as by the ways in which literature shapes, critiques, and indexes burgeoning 
 neoliberal globalization.
 
-* My dissertation analyzed the novels of Chilean-Mexican-Catalunyan author Roberto Bolaño and Honduran-Salvadoran-US-Latino 
+My dissertation analyzed the novels of Chilean-Mexican-Catalunyan author Roberto Bolaño and Honduran-Salvadoran-US-Latino 
 author Horacio Castellanos Moya as a means of conceptualizing the rise of what I call "post-national literature," which refers 
 to literary works that comment on and critique, both formally and thematically, the shifting dynamics of the 
 nation state as neoliberal globalization becomes the dominant ordering system of world relations. To do this, I analyzed 
 these authors' engagements with literary and aesthetic traditions, particularly realism and the avant-garde, to demonstrate that 
 a dialectic emerges between their works and the literary past that opens a space to interrogate the place of 
-aesthetic praxis as neoliberal globalization becomes ascendant. Finally, I examined Bolaño’s and Castellanos Moya’s literary rejections 
-of Leftist militant reason and discussed how their novels implicate the Left in the rise of neoliberal globalization. 
+aesthetic praxis as neoliberal globalization becomes ascendant. Finally, I examined Bolaño’s and Castellanos Moya’s literary rejections of Leftist militant reason and discussed how their novels implicate the Left in the rise of neoliberal globalization. 
 
-* My current book project, _Neoliberal Encounters: Latin American Literature in the Age of Technological Globalization_, studies and sets up a series of “neoliberal encounters” in its examination of 21st-century Mexican and Central American literature—produced both domestically and in the diaspora. Encounters are both destructive and generative. They may be sites of confrontation, change, synthesis, or revelation. They are both temporal and spatial, and occur across distinct genres and media. I read narrative works by Roberto Bolaño, Laury Leite, Laia Jufresa, Horacio Castellanos Moya, Claudia Hernández, and Valeria Luiselli as sites of such encounters, and I attend to the ways in which politics, economics, ethics, and aesthetics become entangled in the age of neoliberal globalization. To this end, my project engages with diverse theoretical perspectives, such as Critical Race Theory, Migration and Diaspora Studies, and Sound Studies.
+My current book project, _Neoliberal Encounters: Latin American Literature in the Age of Technological Globalization_, studies and sets up a series of “neoliberal encounters” in its examination of 21st-century Mexican and Central American literature—produced both domestically and in the diaspora. Encounters are both destructive and generative. They may be sites of confrontation, change, synthesis, or revelation. They are both temporal and spatial, and occur across distinct genres and media. I read narrative works by Roberto Bolaño, Laury Leite, Laia Jufresa, Horacio Castellanos Moya, Claudia Hernández, and Valeria Luiselli as sites of such encounters, and I attend to the ways in which politics, economics, ethics, and aesthetics become entangled in the age of neoliberal globalization. Along the way, my project engages with diverse theoretical perspectives, such as Critical Race Theory, Migration and Diaspora Studies, and Sound Studies.
 
 
 ## Peer-Reviewed Publications

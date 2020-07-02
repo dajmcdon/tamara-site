@@ -49,3 +49,8 @@ $asset_url: '{{ '/assets' | absolute_url }}';
         color: $muted-text-color;
     }
 }
+
+p {
+    margin-bottom: 1em;
+}
+

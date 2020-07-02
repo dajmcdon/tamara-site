@@ -7,6 +7,8 @@ divider: sion2
 ## Conference Presentations
 * “A Harlem Renaissance in Ciudad Juárez: Race, Gender, and a Crisis of Intersectionality in Roberto Bolaño’s ‘La parte de Fate.’” Améfrica Ladina, XVIII Latin American Studies Association (LASA), Guadalajara, México (May 2020)
 
+* “‘La violencia es macro:’ Natalie Beristáin’s _Los adioses_.” UBC Latin American Studies Program (January 2020)
+
 * “Broken Bodies, Broken Nations: Roberto Bolaño on Neoliberal Logic and (Un)Mediated Violence.” Hispanic Studies Seminar, Department of French, Hispanic & Italian Studies, University of British Columbia, Vancouver, Canada (October 2019)
 
 * “Dissensus and Alternative Left Politics in Postwar El Salvador: Jazz as Metonymy in Horacio Castellanos Moya’s _La diáspora_.” Mesa Centroamérica, LV Congreso de la Asociación Canadiense de Hispanistas, Vancouver, Canada (June 2019)
