@@ -37,9 +37,9 @@ Now, to the cliffhanger. How did I locate the difficult to find text that my adv
 * Even if a work is not open access, the bibliography/works cited is often viewable. This can provide inspiration for potentially relevant works to review.
 * And don't forget the obvious: search the local public library, your university's library catalog, and public repositories like academic.edu, [Internet Archive](https://archive.org), and [Project Gutenberg](http://www.gutenberg.org)
 
-![](assets/images/GoogleScholar_CitedBy.png)
+![](assets/images/GoogleScholar_CitedBy.jpg)
 Step 1: To see who has cited the work you are analyzing, select "Cited by" at the appropriate text on Google Scholar. 
-![](assets/images/GoogleScholar_SearchWithin.png)
+![](assets/images/GoogleScholar_SearchWithin.jpg)
 Step 1: Now you can search all of the articles and books that have already cited your text.
-![](assets/images/Bingo.png)
+![](assets/images/Bingo.jpg)
 Step 3: Bingo! A much nore manageable number of secondary sources to wade through.
