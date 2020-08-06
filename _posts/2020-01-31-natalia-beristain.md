@@ -10,7 +10,7 @@ At a January 2020 screening of _Los adioses_, I was invited to give a talk on th
 
 This quotation serves as a sort of through-line in the films of Natalia Beristáin, director of _Los adioses_, whose creative work I will briefly discuss today in relation to the contemporary social and political situation in Mexico. Shortly, I will return to the above quotation.
 
-Beristáin is the director of two feature length films—2017’s _Los adioses_, and 2012’s _No quiero dormir sola_—as well as multiple short films, including Peces plátano and “La evocación.” Her work is highly regarded, having been nominated for and receiving various prestigious awards. 
+Beristáin is the director of two feature length films—2017’s _Los adioses_, and 2012’s _No quiero dormir sola_—as well as multiple short films, including _Peces plátano_ and “La evocación.” Her work is highly regarded, having been nominated for and receiving various prestigious awards. 
 
 Like Lucía Carreras, Lila Avilés, and Natalia Almada, Beristáin is in a class of Mexican filmmakers whose work is concerned with contemporary social issues, such as racism, class inequalities, mental illness, and the drug war. Similar to Almada, Beristáin often deploys a reserved aesthetic, employing sustained shots and unsettling framing to provoke tension and create a pensive narrative atmosphere.
 

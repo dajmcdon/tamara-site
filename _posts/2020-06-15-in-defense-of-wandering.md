@@ -55,7 +55,7 @@ None of these intellectuals were particularly attuned to how differently abled p
 
 Studies have shown that moving through both natural and urban spaces increases “creative ideation” (Oppezzo and Schwartz), boosts attention span (Tine and Butler), improves short-term and long-term knowledge retention (Weight et al.), and generates a sense of emotional wellbeing (Ettema and Smajic).
 
-In the context of the pandemic, moderate exercise is doubly important, given that overall health is harmed by inactivity. A pervasive health consequence of recent social distancing measures is a rise in the incidence of protracted sedentariness, which results in lowered levels of Vitamin D. This is detrimental to COVID-19 patients, who are more likely to have severe reactions to the disease when they suffer from Vitamin D deficiency (Carter et al. 1-2), as well as to people who do not contract COVID-19, given that long-term health may be adversely affected by prolonged inactivity (1).
+In the context of the pandemic, moderate exercise is doubly important, given that overall health is harmed by inactivity. A pervasive health consequence of recent social distancing measures is a rise in the incidence of protracted sedentariness, which results in lowered levels of Vitamin D. This is detrimental to COVID-19 patients, who are more likely to have severe reactions to the disease when they suffer from Vitamin D deficiency, as well as to people who do not contract COVID-19, given that long-term health may be adversely affected by prolonged inactivity (Carter et al. 1-2).
 
 Apart from these lofty philosophical and scientific justifications, after months of self-isolation to slow the spread of the coronavirus, we could all benefit from some fresh air and wandering.
 
@@ -101,7 +101,7 @@ Second, the scripted nature of a podcast means that each lecture will already ha
 
 Third, students have widely different technological resources at home. Now that students will not have access to campus computer labs and university Wi-Fi, I cannot guarantee that typing up assignments, downloading hefty PowerPoint files, or viewing streaming lectures will be equally feasible for all students. By providing podcast lectures and mobile-friendly landing pages, students learning on smartphones will have an easier time accessing material. Likewise, students will be given the option of typing or recording weekly assignments, which allows maximum flexibility for students who do not have easy access to a computer.
 
-Finally, leveraging podcasts as a pedagogical tool will allow me to incorporate Indigenous voices in a way that traditional course lectures would not. For instance, I will include the Toasted Sister Podcast interview with Neftalí Duran in the unit on Indigenous migration and diaspora. In this way, students will hear from a Mixteco chef and be prompted to consider course topics alongside the lived experience of Latin American people.
+Finally, leveraging podcasts as a pedagogical tool will allow me to incorporate Indigenous voices in a way that traditional course lectures would not. For instance, I will include the Toasted Sister Podcast interview with [Neftalí Duran](toastedsisterpodcast.com/2018/01/20/e26-neftali-duran-gentle-and-compassionate/) in the unit on Indigenous migration and diaspora. In this way, students will hear from a Mixteco chef and be prompted to consider course topics alongside the lived experience of Latin American people.
 
 ## The Humanities Moving Forward
 
@@ -122,13 +122,13 @@ If you’re interested in peripatetic pedagogy, here are some tips to get starte
 * Record one intro and one outro, and reuse those across your lecture episodes. This will give continuity to the content and save you lots of time across the semester.
 * Branch out with podcast format. For instance, you might invite an expert to do a guest lecture or join you for an interview.
 * Be mindful of intellectual property concerns. If you don’t want the podcast lectures to become available to the public, make sure to post them behind a login. On this note, check your university’s policy about who owns the pedagogical resources you create for your classes.
-* If you do post them publicly, take care to consider copyright laws while selecting music for your podcast. This site provides legal guidance and has links to free music.
+* If you do post them publicly, take care to consider copyright laws while selecting music for your podcast. [This site](https://creativecommons.org/about/program-areas/arts-culture/arts-culture-resources/legalmusicforvideos) provides legal guidance and has links to free music.
 * Ask your students for feedback after you’ve delivered 3-4 lectures. 
 
 #### Technology tips:
 * Record in a quiet room with little ambient noise. 
 * Consider borrowing an external USB microphone to improve the sound quality. Check with your university and public library for equipment rentals (they often rent them for free). 
-* You can also record voice notes on your smartphone, which have a higher quality than computer speakers. I used this one before I purchase a microphone.
+* You can also record voice notes on your smartphone, which have a higher quality than computer speakers. I used [this one](https://apps.apple.com/us/app/pcm-recorder-lite/id439572045) before I purchased a microphone.
 * Keep the landing page simple. You can use a free blogging platform, like WordPress, to host your site. Then you simply create a blog entry for each lecture. Copy and paste the transcript as it is, and then include links, photos, and videos that enhance the transcript.
 * Edit the metadata on each track so that the lectures will be organized when your students download them.
 * Perfectionism is not your friend. These are not NPR-ready podcasts, so you do not have to edit relentlessly and do multiple takes to get perfect content.

@@ -3,7 +3,7 @@ title: "Inviting Professors to Speak at your Event: Best practices"
 layout: my-post
 ---
 
-An undergraduate student approached me in the spring to give a 20-minute talk on Benedict Anderson’s _Imagined Communities_. He described the event and then told me that the talk was to take place… the following week. To his credit, after I explained why that timeline was impossible, the student asked me for advice on how to successfully invite speakers for future events. I chatted with a few colleagues about their preferences and came up with the following guidelies.
+An undergraduate student approached me in the spring to give a 20-minute talk on Benedict Anderson’s _Imagined Communities_. He described the event and then told me that the talk was to take place… the following week. To his credit, after I explained why that timeline was impossible, the student asked me for advice on how to successfully invite speakers for future events. I chatted with a few colleagues about their preferences and came up with the following guidelines.
 
 When possible, include in the following in the invitation:
 * Date, time, location (with address), duration of entire event
