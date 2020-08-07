@@ -6,7 +6,7 @@ divider: radish
 
 ## Service
 
-* Steering Committee and Session Facilitator, “Virtual Koerner’s Working Group,” 2020-present
+* Steering Committee and Session Facilitator, “[Virtual Koerner’s](https://blogs.ubc.ca/virtualkoerners/) Working Group,” 2020-present
 * Editorial Board, _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_, Indiana University, 2019-present
 * Referee, _Revista de Estudios Hispánicos_, 2020-present
 * Referee, _Revista de Literatura Mexicana Contemporánea_, 2019-present
