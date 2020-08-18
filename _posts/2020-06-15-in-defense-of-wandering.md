@@ -8,10 +8,10 @@ works-cited:
     - cite: Ettema, Dick, and Ifeta Smajic. “Walking, places and wellbeing.” The Geographical Journal, vol. 181, no. 2, June 2015, pp. 102–109.
     - cite: |
         Flores, Tatiana. “Clamoring for attention in Mexico City: Manuel Maples Arce’s Avant-Garde Manifesto Actual No. 1,” Review: Literature and Arts of the Americas, vol. 37, no. 2, 2004, pp. 208-220.
-    - cite: “[Fordlândia](99percentinvisible.org/episode/fordlandia/).” 99% Invisible. 6 March 2018.
+    - cite: “[Fordlândia](https://99percentinvisible.org/episode/fordlandia/).” 99% Invisible. 6 March 2018.
     - cite: |
-        “[Neftalí Duran](toastedsisterpodcast.com/2018/01/20/e26-neftali-duran-gentle-and-compassionate/): Gentle and compassionate, Ep. 26.” Twisted Sister Podcast, 20 Jan. 2018.
-    - cite: Neruda, Pablo. [“Walking Around.”](Poets.org.poets.org/poem/walking-around) 1938. Translated by Robert Bly, accessed 5 June 2020. 
+        “[Neftalí Duran](https://toastedsisterpodcast.com/2018/01/20/e26-neftali-duran-gentle-and-compassionate/): Gentle and compassionate, Ep. 26.” Twisted Sister Podcast, 20 Jan. 2018.
+    - cite: Neruda, Pablo. [“Walking Around.”](https://poets.org/poem/walking-around) 1938. Translated by Robert Bly, accessed 5 June 2020. 
     - cite: |
         Nietzsche, Friedrich. “Aphorism 34.” Twilight of the Idols: or How to Philosophize with a Hammer, 1889, translated by Duncan Large, Oxford UP, 1998.
     - cite: |
@@ -20,11 +20,11 @@ works-cited:
         “[Peripatetic](www.etymonline.com/word/peripatetic?ref=etymonline_crossreference#etymonline_v_12707)” Etymonline. Accessed 29 May 2020.
     - cite: Sebald, W.G. Die Ringe Des Saturn. Fischer Taschenbuch Verlag, 2002.
     - cite: |
-        Solnit, Rebecca. Wanderlust: A History of Walking. Penguin, 2001.
+        Solnit, Rebecca. _Wanderlust: A History of Walking_. Penguin, 2001.
     - cite: Thoreau, Henry David. “[Walking.](www.theatlantic.com/magazine/archive/1862/06/walking/304674/)" The Atlantic, June 1862. Accessed 28 May 2020.
     - cite: |
         Tine, Michael T., and Allison G. Butler. “Acute Aerobic Exercise Impacts Selective Attention: An Exceptional Boost in Lower-Income Children.” Educational Psychology: An International Journal of Experimental Educational Psychology, vol. 32, no. 7, 2012, pp. 821-34.
-    - cite: Villoldo, Alberto. “[The Giveaway](thefourwinds.com/blog/shamanism/giveaway-principle-ayni/) and the Principle of Ayni.” The Four Winds, 23 July 2019. Accessed 2 February 2020.
+    - cite: Villoldo, Alberto. “[The Giveaway](https://thefourwinds.com/blog/shamanism/giveaway-principle-ayni/) and the Principle of Ayni.” The Four Winds, 23 July 2019. Accessed 2 February 2020.
     - cite: Weight, Erianna, et al. “The Walking Classroom.” Oak Foundation, 2018, pp. 1-18.
 ---
 
@@ -89,11 +89,11 @@ Both of these assignments make the best of the exceptional situation wrought by 
 
 This task of “wandering” may look quite different for each student, as they may have different physical capabilities, disparate surroundings, and diverse restrictions related to social distancing measures. In every circumstance, I will encourage my students to meet with me to discuss what “wandering” will look like for them, and I will be flexible for students who prefer or require an adjusted assignment.
 
-In Wanderlust: A History of Walking, Rebecca Solnit observes that “Walking itself is the intentional act closest to the unwilled rhythms of the body, to breathing and the beating of the heart. It strikes a delicate balance between working and idling, being and doing. It is a bodily labor that produces nothing but thoughts, experiences, arrivals” (5). My approach to online teaching seeks to facilitate such thoughts, arrivals, and experiences through a semester of wandering, both aimless and purposeful.
+In _Wanderlust: A History of Walking_, Rebecca Solnit observes that “Walking itself is the intentional act closest to the unwilled rhythms of the body, to breathing and the beating of the heart. It strikes a delicate balance between working and idling, being and doing. It is a bodily labor that produces nothing but thoughts, experiences, arrivals” (5). My approach to online teaching seeks to facilitate such thoughts, arrivals, and experiences through a semester of wandering, both aimless and purposeful.
 
 ## Equitable and Inclusive Learning
 
-Similar to many podcasts, I will prepare a landing page (like this one by 99% Invisible) for each episode with lecture notes, images, and links to pertinent online resources and secondary readings. While students may get away from their computer screens to listen to the podcast lecture, this differentiated instruction style will be more equitable for myriad reasons. 
+Similar to many podcasts, I will prepare a landing page (like [this one](https://99percentinvisible.org/episode/fordlandia/) by 99% Invisible) for each episode with lecture notes, images, and links to pertinent online resources and secondary readings. While students may get away from their computer screens to listen to the podcast lecture, this differentiated instruction style will be more equitable for myriad reasons. 
 
 First, UBC students will be taking courses from across the world, and asynchronous lectures will be equally convenient across time zones. Furthermore, asynchronous lectures allow students to take in information at their own pace. And students with complicated home situations—perhaps they have small children or many roommates that share common spaces—may access recordings when it is optimal for their learning.
 
@@ -101,7 +101,7 @@ Second, the scripted nature of a podcast means that each lecture will already ha
 
 Third, students have widely different technological resources at home. Now that students will not have access to campus computer labs and university Wi-Fi, I cannot guarantee that typing up assignments, downloading hefty PowerPoint files, or viewing streaming lectures will be equally feasible for all students. By providing podcast lectures and mobile-friendly landing pages, students learning on smartphones will have an easier time accessing material. Likewise, students will be given the option of typing or recording weekly assignments, which allows maximum flexibility for students who do not have easy access to a computer.
 
-Finally, leveraging podcasts as a pedagogical tool will allow me to incorporate Indigenous voices in a way that traditional course lectures would not. For instance, I will include the Toasted Sister Podcast interview with [Neftalí Duran](toastedsisterpodcast.com/2018/01/20/e26-neftali-duran-gentle-and-compassionate/) in the unit on Indigenous migration and diaspora. In this way, students will hear from a Mixteco chef and be prompted to consider course topics alongside the lived experience of Latin American people.
+Finally, leveraging podcasts as a pedagogical tool will allow me to incorporate Indigenous voices in a way that traditional course lectures would not. For instance, I will include the Toasted Sister Podcast interview with [Neftalí Duran](https://toastedsisterpodcast.com/2018/01/20/e26-neftali-duran-gentle-and-compassionate/) in the unit on Indigenous migration and diaspora. In this way, students will hear from a Mixteco chef and be prompted to consider course topics alongside the lived experience of Latin American people.
 
 ## The Humanities Moving Forward
 
