@@ -41,5 +41,5 @@ Now, to the cliffhanger. How did I locate the difficult to find text that my adv
 * Similarly, Google books will often allow limited page views or snippet view of texts. I use this when I am revising quotations for books that I no longer possess (say I returned it to the library but am doing an R&R).
 * Many publishers post the full text of introductions to monographs on their websites. Introductions allow you to determine if a work is worth tracking down (ILL, purchasing, etc.)
 * Even if a work is not open access, the bibliography/works cited is often viewable. This can provide inspiration for potentially relevant works to review.
-* And don't forget the obvious: search the local public library, your university's library catalog, and public repositories like academic.edu, [Internet Archive](https://archive.org), and [Project Gutenberg](http://www.gutenberg.org)
+* And don't forget the obvious: search the local public library, your university's library catalog, and public repositories like academia.edu, [Internet Archive](https://archive.org), and [Project Gutenberg](http://www.gutenberg.org)
 

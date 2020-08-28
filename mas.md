@@ -40,11 +40,11 @@ divider: radish
 
 ## Academic & Professional Affiliations
 * Green College Leading Scholars Program, 2019-2021
+* Public Humanities Hub, UBC 2019-Present
 * Asociación Canadiense de Hispanistas (ACH), 2017-Present
 * Modern Language Association (MLA), 2011–Present
 * Latin American Studies Association (LASA), 2012–Present  
 Sections: Central America; Culture, Power and Politics; Latino Studies; Mexico
-* American Philosophical Association (APA), 2013–Present
 * American Comparative Literature Association (ACLA), 2016–Present
 
 ## Links and Miscellany
