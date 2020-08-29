@@ -59,4 +59,4 @@ My current book project, _Neoliberal Encounters: Latin American Literature in th
 * “Violencia y alienación social en El Salvador: _El arma en el hombre_ como Bildungsroman neoliberal.”
 
 ![](assets/images/HCMApril2019.jpg)
-In April 2019, I had the pleasure of participating in a workshop and spending the day with Honduran-Salvadoran author Horacio Castellanos Moya, one of two authors whose corpora I examine at length in my dissertation project.
+_In April 2019, I had the pleasure of participating in a workshop and spending the day with Honduran-Salvadoran author Horacio Castellanos Moya, one of two authors whose corpora I examine at length in my dissertation project._

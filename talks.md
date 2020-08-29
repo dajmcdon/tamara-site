@@ -88,7 +88,7 @@ divider: sion2
 * Diálogos 11, Graduate Student Research Conference, Department of Spanish and Portuguese, Indiana University (February 2014)
 
 ![](assets/images/PHHLuncheon_March2020.jpg)
-UBC Public Humanities Hub Launch [Event](https://www.arts.ubc.ca/news/ubc-public-humanities-hub-launches-to-help-scholars-share-expertise-on-urgent-societal-issues/), March 2020. 
+_UBC Public Humanities Hub Launch [Event](https://www.arts.ubc.ca/news/ubc-public-humanities-hub-launches-to-help-scholars-share-expertise-on-urgent-societal-issues/), March 2020._
 
 <!--["Better Living Through the Humanities:](https://www.facebook.com/crres.iub/videos/vb.619227484774796/1862208990476633/?type=2&theater) Engaged Research, Public Scholarship, and Social Action Today," 
 the keynote address by [Dr. Marcia Chatelain](https://gufaculty360.georgetown.edu/s/contact/00336000014RhMmAAK/marcia-chatelain) at the 2018 CRRES Graduate Student Research Symposium.

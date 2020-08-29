@@ -23,10 +23,14 @@ Notice that a recurring theme in those five bullet points is "relevance." Unless
 #### Searching Within Results
 However, there is an even better strategy in my estimation, which is beginning from the literary work at hand and working backward. One of my favorite techniques is to find a text (let's stick with Bolaño's _2666_), and to "search within citing articles." This means that, rather than just mentioning _2666_ (for instance, in a literature review), the article/book at hand actually cites Bolaño's novel. So, the first step is to search for Bolaño's _2666_ on Google Scholar and to click on "Cited by" under the Google entry:
 ![](/assets/images/GoogleScholar_CitedBy.jpg)
-The second step is to check the box for "search within citing articles" and then to enter the relevant term ("_novela negra_" in our case) in the search box:
+
+The second step is to check the box for "search within citing articles" and then to enter the relevant term ("novela negra" in our case) in the search box:
 ![](/assets/images/GoogleScholar_SearchWithin.jpg)
-When I do this search, I get only 70 results that include the term "novela negra" _and_ cite _2666_. Bingo! 
+
+When I do this search, I get only 70 results that include the term "novela negra" **and** cite **2666**. Bingo!:
+
 ![](/assets/images/Bingo.jpg)
+
 From there, I can select relevant articles to skim or read based on description (is it truly relevant?), quality of venue (is it peer reviewed?), numbers of citations (how important has the work been in subsequent scholarship?), etc. This is a first step toward compiling a comprehensive, high quality bibliography.
 
 #### Mining Other Scholars' Works Cited
