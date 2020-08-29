@@ -5,6 +5,10 @@ divider: sion2
 ---
 
 ## Conference Presentations
+* “From the Salvadoran Civil War to the Mexico-US War on Drugs: Neoliberal Narratives of the Central American(-American) Postwar.” Latina/o Studies Association 4th Biennial Conference, Notre Dame University
+
+* “Academia Without Borders.” Desigualdades y Centralidad de la Vida, XXXIX Latin American Studies Association Conference, LASA Student Section (May 2021)
+
 * “A Harlem Renaissance in Ciudad Juárez: Race, Gender, and a Crisis of Intersectionality in Roberto Bolaño’s ‘La parte de Fate.’” Améfrica Ladina, XVIII Latin American Studies Association (LASA), Guadalajara, México (May 2020)
 
 * “‘La violencia es macro:’ Natalie Beristáin’s _Los adioses_.” UBC Latin American Studies Program (January 2020)
@@ -82,6 +86,9 @@ divider: sion2
 * Contested Spaces, Contested Identities: Race and Identity Across the Disciplines, Graduate Student Research Symposium, Center for Research on Race and Ethnicity in Society, Indiana University (April 2018)
 
 * Diálogos 11, Graduate Student Research Conference, Department of Spanish and Portuguese, Indiana University (February 2014)
+
+![](assets/images/PHHLuncheon_March2020.jpg)
+UBC Public Humanities Hub Launch [Event](https://www.arts.ubc.ca/news/ubc-public-humanities-hub-launches-to-help-scholars-share-expertise-on-urgent-societal-issues/), March 2020. 
 
 <!--["Better Living Through the Humanities:](https://www.facebook.com/crres.iub/videos/vb.619227484774796/1862208990476633/?type=2&theater) Engaged Research, Public Scholarship, and Social Action Today," 
 the keynote address by [Dr. Marcia Chatelain](https://gufaculty360.georgetown.edu/s/contact/00336000014RhMmAAK/marcia-chatelain) at the 2018 CRRES Graduate Student Research Symposium.
