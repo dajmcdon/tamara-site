@@ -4,14 +4,20 @@ title: Talks
 divider: sion2
 ---
 
-## Conference Presentations
-* “From the Salvadoran Civil War to the Mexico-US War on Drugs: Neoliberal Narratives of the Central American(-American) Postwar.” Latina/o Studies Association 4th Biennial Conference, Notre Dame University
-
+## Invited Talks
 * “Academia Without Borders.” Desigualdades y Centralidad de la Vida, XXXIX Latin American Studies Association Conference, LASA Student Section (May 2021)
+* “Solidarity, Foodways, and Fierce Care on the Migrant Trail.” Global Resource Systems Program, University of British Columbia (November 2020)
+* “In the Wake: Central American Literature after Oscar Romero.” UBC Latin American Studies Program (March 2020, postponed, COVID)
+* “(Un)Imagining Communities: Culture and Nationalism after the Digital Turn.” The Global Lounge, University of British Columbia (March 2020, cancelled, COVID)
+* “‘La violencia es macro:’ Natalie Beristáin’s Los adioses.” UBC Latin American Studies Program (January 2020)
+* “Trauma, Affect, and Testimonio in Horacio Castellanos Moya’s Insensatez.” Professor Jonathan Risner, Department of Spanish & Portuguese, Indiana University (April 2019)
+
+## Conference Presentations
+* “From the Salvadoran Civil War to the Mexico-US War on Drugs: Neoliberal Narratives of the Central American(-American) Postwar.” Latina/o Studies Association 4th Biennial Conference, Notre Dame University (July 2021)
+
+* “Rewriting Shit: Dirt and Excrement in Latin American Indigenous Literature.” Building Worlds, Green College Leading Scholars Series, University of British Columbia (January 2021)
 
 * “A Harlem Renaissance in Ciudad Juárez: Race, Gender, and a Crisis of Intersectionality in Roberto Bolaño’s ‘La parte de Fate.’” Améfrica Ladina, XVIII Latin American Studies Association (LASA), Guadalajara, México (May 2020)
-
-* “‘La violencia es macro:’ Natalie Beristáin’s _Los adioses_.” UBC Latin American Studies Program (January 2020)
 
 * “Broken Bodies, Broken Nations: Roberto Bolaño on Neoliberal Logic and (Un)Mediated Violence.” Hispanic Studies Seminar, Department of French, Hispanic & Italian Studies, University of British Columbia, Vancouver, Canada (October 2019)
 
@@ -52,6 +58,7 @@ divider: sion2
 * “Duœling Discourses: Luis Rafael Sánchez’s _Quíntuples_.” Tenth Annual Hawaii International Conference on Arts and Humanities (January 2012)
 
 ## Sessions Organized
+* Session Co-Organizer, “Waste Not: Rethinking Poop through Bugs, Books and Power.” Building Worlds, Green College Leading Scholars Series, University of British Columbia (January 2021)
 * "Listening in Latin America: Narrative Soundscapes & Literary Aurality." _MLA Convention: Persistence_, Toronto (January 2021)
 * "Géneros: Gender and Genre in the Literatures of Améfrica Ladina." Améfrica Ladina, XVIII Latin American Studies Association (LASA), Guadalajara, México (May 2020)
 

@@ -21,7 +21,7 @@ literary form and content enable new means of understanding and engaging with th
 * SPAN 490: Assassination, Disappearance, Impunity: Latin American Detective Fiction and the Nation State
 * SPAN 365: Modern Magics: Spanish-American Literature and Culture since the 1820s
 * LAST 303: Indigenous Peoples, Globalization, and Labour in Latin America (visit the [course blog](https://blogs.ubc.ca/indigenouslabour/) to learn about podcasting as a learning outcome and to listen to student podcast episodes.)
-* LAST 303: Indigenous Foodways and Literature in Latin America
+* LAST 303: Latin American [Indigenous Foodways](https://blogs.ubc.ca/course0935bb2c1345dfa4e91d0701421d97f5c03a0045/)
 
 ### Indiana University Bloomington, Department of Spanish and Portuguese, Latino Studies Program (2012-2018)
 * HISP 280: Advanced Spanish Grammar & Composition in Literary Context
