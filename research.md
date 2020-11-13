@@ -24,6 +24,8 @@ My current book project, _Neoliberal Encounters: Latin American Literature in th
 ## Peer-Reviewed Publications
 
 
+* “A Narrative Vaivén: Lucha libre and the Modern Nation Unready-to-hand in Horacio Castellanos Moya's _La sirvienta y el luchador_.” (Accepted November 2020, _Modern Language Notes_)
+
 * “From Ratiocination to Globalization: Poe, Borges, Bolaño and the _Complot_ of the _novela negra mexicana_.” (Accepted August 2020, _CR: The New Centennial Review_)
 
 * “Broken Bodies, Broken States: Roberto Bolaño on Neoliberal Logic and (Un)Mediated Violence." _Revista de Estudios Hispánicos_ (Accepted, forthcoming March 2021).
