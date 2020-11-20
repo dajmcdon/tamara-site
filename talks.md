@@ -6,6 +6,7 @@ divider: sion2
 
 ## Invited Talks
 * “Academia Without Borders.” Desigualdades y Centralidad de la Vida, XXXIX Latin American Studies Association Conference, LASA Student Section (May 2021)
+* "La esclavitud, la maquila y la alegoría fracasada: Un renacimiento de Harlem en la Ciudad Juárez.” UC Santa Cruz Spanish Studies Colloquium (November 2020)
 * “Solidarity, Foodways, and Fierce Care on the Migrant Trail.” Global Resource Systems Program, University of British Columbia (November 2020)
 * “In the Wake: Central American Literature after Oscar Romero.” UBC Latin American Studies Program (March 2020, postponed, COVID)
 * “(Un)Imagining Communities: Culture and Nationalism after the Digital Turn.” The Global Lounge, University of British Columbia (March 2020, cancelled, COVID)
@@ -14,6 +15,8 @@ divider: sion2
 
 ## Conference Presentations
 * “From the Salvadoran Civil War to the Mexico-US War on Drugs: Neoliberal Narratives of the Central American(-American) Postwar.” Latina/o Studies Association 4th Biennial Conference, Notre Dame University (July 2021)
+
+* “A Sensual Palimpsest: History, Memory and the Sonic in Laury Leite’s _En la soledad de un cielo muerto_.” Crisis global, desigualdades y centralidad de la vida, XXXIX Latin American Studies Association (May 2021)
 
 * “Rewriting Shit: Dirt and Excrement in Latin American Indigenous Literature.” Building Worlds, Green College Leading Scholars Series, University of British Columbia (January 2021)
 
@@ -58,23 +61,24 @@ divider: sion2
 * “Duœling Discourses: Luis Rafael Sánchez’s _Quíntuples_.” Tenth Annual Hawaii International Conference on Arts and Humanities (January 2012)
 
 ## Sessions Organized
-* Session Co-Organizer, “Waste Not: Rethinking Poop through Bugs, Books and Power.” Building Worlds, Green College Leading Scholars Series, University of British Columbia (January 2021)
-* "Listening in Latin America: Narrative Soundscapes & Literary Aurality." _MLA Convention: Persistence_, Toronto (January 2021)
-* "Géneros: Gender and Genre in the Literatures of Améfrica Ladina." Améfrica Ladina, XVIII Latin American Studies Association (LASA), Guadalajara, México (May 2020)
+* Co-Organizer (with [Prof. Amanda Smith](https://smith.sites.ucsc.edu), UC Santa Cruz), “Sensible Disruptions: Soundscapes in Contemporary Latin American Literature.” _Crisis global, desigualdades y centralidad de la vida_, XXXIX Latin American Studies Association (May 2021)
+* Co-Organizer (with Profs. Yankai Cao and Katie Marshall, UBC), “Waste Not: Rethinking Poop through Bugs, Books and Power.” Building Worlds, Green College Leading Scholars Series, University of British Columbia (January 2021)
+* Co-Organizer (with Prof. Amanda Smith, UC Santa Cruz), "Listening in Latin America: Narrative Soundscapes & Literary Aurality." _MLA Convention: Persistence_, Toronto (January 2021)
+* Co-Organizer (with [Prof. Ali Kulez](https://www.alikulez.com/research), Boston College), "Géneros: Gender and Genre in the Literatures of Améfrica Ladina." Améfrica Ladina, XVIII Latin American Studies Association (LASA), Guadalajara, México (May 2020)
 
-* "Nuestra América through a Latinx Lens: Reading (with) Héctor Tobar.” Roundtable with the author. Nuestra América, XXXVII Latin American Studies Association Conference, Boston, MA (May 2019)
+* Organizer, "Nuestra América through a Latinx Lens: Reading (with) Héctor Tobar.” Roundtable with the author. Nuestra América, XXXVII Latin American Studies Association Conference, Boston, MA (May 2019)
 
-* “Residues of the Archive: On Belonging, Inequality, and Crisis from the IsthmUS.” Nuestra América, XXXVII Latin American Studies Association International Conference, Boston, MA (May 2019), Section-sponsored Session
+* Organizer, “Residues of the Archive: On Belonging, Inequality, and Crisis from the IsthmUS.” Nuestra América, XXXVII Latin American Studies Association International Conference, Boston, MA (May 2019), Section-sponsored Session
 
-* “Borgesian Transactions: Literary Debts, Literary Inheritances.” Textual Transactions, Modern Language Association Annual Conference, Chicago (January 2019), Presidential Session
+* Co-Organizer (with Prof. Matt Johnson, New Mexico Tech), “Borgesian Transactions: Literary Debts, Literary Inheritances.” Textual Transactions, Modern Language Association Annual Conference, Chicago (January 2019), Presidential Session
 
-* “Consumption of the Other, Consumption of the Self: Aesthetic Mutilation as Neoliberal Critique.” Consuming Cultures, Midwest Modern Language Association Annual Conference, Kansas City (November 2018), Special Session
+* Organizer, “Consumption of the Other, Consumption of the Self: Aesthetic Mutilation as Neoliberal Critique.” Consuming Cultures, Midwest Modern Language Association Annual Conference, Kansas City (November 2018), Special Session
 
-* “Political and Literary Geographies in Flux: Culture and Media in the Era of Post-National Globalization.” Latin American Studies in a Globalized World, XXXVI Latin American Studies Association International Conference, Barcelona, Spain (May 2018)
+* Organizer, “Political and Literary Geographies in Flux: Culture and Media in the Era of Post-National Globalization.” Latin American Studies in a Globalized World, XXXVI Latin American Studies Association International Conference, Barcelona, Spain (May 2018)
 
-* “Impactos del capitalismo globalizado: Fenómenos literarios glocales desde una perspectiva intercontinental.” Ohio Latin Americanist Conference, The Ohio State University (October 2017)
+* Organizer, “Impactos del capitalismo globalizado: Fenómenos literarios glocales desde una perspectiva intercontinental.” Ohio Latin Americanist Conference, The Ohio State University (October 2017)
 
-* “Culture on Crisis / Culture in Crisis: Art and the Neoliberal Market.” Diálogos de saberes, XXXV Latin American Studies Association International Conference, Lima, Peru (April 2017)
+* Organizer, “Culture on Crisis / Culture in Crisis: Art and the Neoliberal Market.” Diálogos de saberes, XXXV Latin American Studies Association International Conference, Lima, Peru (April 2017)
 
 ## Panel Moderation
 * Listening in Latin America: Narrative Soundscapes & Literary Aurality. _MLA Convention: Persistence_, Toronto (January 2021)
@@ -90,9 +94,9 @@ divider: sion2
 
 * Workshop with the Author, “Carmen Boullosa y los escritores mexicanos después de 1968.” College Arts & Humanities Institute, Indiana University Bloomington (November 2018)
 
-* Contested Spaces, Contested Identities: Race and Identity Across the Disciplines, Graduate Student Research Symposium, Center for Research on Race and Ethnicity in Society, Indiana University (April 2018)
+* _Contested Spaces, Contested Identities: Race and Identity Across the Disciplines_, Graduate Student Research Symposium, Center for Research on Race and Ethnicity in Society, Indiana University (April 2018)
 
-* Diálogos 11, Graduate Student Research Conference, Department of Spanish and Portuguese, Indiana University (February 2014)
+* _Diálogos 11_, Graduate Student Research Conference, Department of Spanish and Portuguese, Indiana University (February 2014)
 
 ![](assets/images/PHHLuncheon_March2020.jpg)
 _UBC Public Humanities Hub Launch [Event](https://www.arts.ubc.ca/news/ubc-public-humanities-hub-launches-to-help-scholars-share-expertise-on-urgent-societal-issues/), March 2020._

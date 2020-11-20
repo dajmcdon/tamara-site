@@ -18,7 +18,7 @@ these authors' engagements with literary and aesthetic traditions, particularly 
 a dialectic emerges between their works and the literary past that opens a space to interrogate the place of 
 aesthetic praxis as neoliberal globalization becomes ascendant. Finally, I examined Bolaño’s and Castellanos Moya’s literary rejections of Leftist militant reason and discussed how their novels implicate the Left in the rise of neoliberal globalization. 
 
-My current book project, _Neoliberal Encounters: Latin American Literature in the Age of Technological Globalization_, studies and sets up a series of “neoliberal encounters” in its examination of 21st-century Mexican and Central American literature—produced both domestically and in the diaspora. Encounters are both destructive and generative. They may be sites of confrontation, change, synthesis, or revelation. They are both temporal and spatial, and occur across distinct genres and media. I read narrative works by Roberto Bolaño, Laury Leite, Horacio Castellanos Moya, Claudia Hernández, and Valeria Luiselli as sites of such encounters, and I attend to the ways in which politics, economics, ethics, and aesthetics become entangled in the age of neoliberal globalization. Along the way, my project engages with diverse theoretical perspectives, such as Critical Race Theory, Migration and Diaspora Studies, and Sound Studies.
+My current book project, _Neoliberal Encounters: Latin American Literature in the Age of Technological Globalization_, studies and sets up a series of “neoliberal encounters” in its examination of 21st-century Mexican and Central American literature—produced both domestically and in the diaspora. Encounters are both destructive and generative. They may be sites of confrontation, change, synthesis, or revelation. They are both temporal and spatial, and occur across distinct genres and media. I read narrative works by Roberto Bolaño, Laury Leite, Cristina Rivera Garza, Horacio Castellanos Moya, Claudia Hernández, and Valeria Luiselli as sites of such encounters, and I attend to the ways in which politics, economics, ethics, and aesthetics become entangled in the age of neoliberal globalization. Along the way, my project engages with diverse theoretical perspectives, such as Critical Race Theory, Migration and Diaspora Studies, and Sound Studies.
 
 
 ## Peer-Reviewed Publications
@@ -54,6 +54,7 @@ My current book project, _Neoliberal Encounters: Latin American Literature in th
 
 
 ## Articles in Preparation
+* “For Whom the Bell Tolls: Religious Colonialism and Sonic Refusal in Arguedas, Asturias, and Yáñez.”
 * “Rancière and the Paradox of Politics: Mexico, Central America, and the Long 1968 in Retrospect.”
 * "Desnudando a los maîtres à penser: La 'novelization' de lo histórico en _El fin de la locura_."
 * “Dead Matter: A Historical Materialist Approach to Literary Corpses in W.G. Sebald and Oscar Zeta Acosta.”
