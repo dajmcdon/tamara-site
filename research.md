@@ -38,7 +38,7 @@ My current book project, _Neoliberal Encounters: Latin American Literature in th
 
 * "Interventionism, Migration and Diaspora: Central American Literature Beyond the Isthmus,” _Teaching Central American Literature in a Global Context_, MLA Anthology, Eds. Mónica Albizúrez and Gloria E. Chacón, (Forthcoming).
 
-* "La Llorona, from Plaintive to Plaintiff: Accessing Rights in Neoliberal Globalization," _Cry Baby_, eds. Norma Alarcón and Kathleen Alcalá (Under Review, Arizona University Press)
+* "La Llorona, from Plaintive to Plaintiff: Accessing Rights in Neoliberal Globalization," _Cry Baby_, eds. Norma Elia Cantú and Kathleen Alcalá (Under Review, Arizona University Press)
 
 * “The Latin American Telluric Novel and the Mexican Revolution.” _Oxford Handbook of the Latin American Novel_. Proposal accepted, under contract, May 2020. Co-authored with Amanda M. Smith, UC Santa Cruz. Eds. Ignacio López-Calvo and Juan E De Castro.
 
