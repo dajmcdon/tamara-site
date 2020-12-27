@@ -4,6 +4,12 @@ title: Talks
 divider: sion2
 ---
 
+I. [Invited talks](#invited-talks)  
+II. [Conference presentations](#conference-presentations)  
+III. [Sessions organized](#sessions-organized)  
+IV. [Panel moderation](#panel-moderation)  
+V. [Conferences Organized & Workshop Participation](#conferences-organized--workshop-participation)
+
 ## Invited Talks
 * “Academia Without Borders.” Desigualdades y Centralidad de la Vida, XXXIX Latin American Studies Association Conference, LASA Student Section (May 2021)
 * "La esclavitud, la maquila y la alegoría fracasada: Un renacimiento de Harlem en la Ciudad Juárez.” UC Santa Cruz Spanish Studies Colloquium (November 2020)
