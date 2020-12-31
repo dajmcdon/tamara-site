@@ -4,11 +4,11 @@ title: Talks
 divider: sion2
 ---
 
+Navigation:  
 I. [Invited talks](#invited-talks)  
 II. [Conference presentations](#conference-presentations)  
 III. [Sessions organized](#sessions-organized)  
 IV. [Panel moderation](#panel-moderation)  
-V. [Conferences Organized & Workshop Participation](#conferences-organized--workshop-participation)
 
 ## Invited Talks
 * “Academia Without Borders.” Desigualdades y Centralidad de la Vida, XXXIX Latin American Studies Association Conference, LASA Student Section (May 2021)
@@ -94,6 +94,12 @@ V. [Conferences Organized & Workshop Participation](#conferences-organized--work
 
 * Luso-Brazilian Literature & Culture. _Diálogos 10_: Graduate Student Research Conference, Indiana University (February 2013)
 
+
+
+![](assets/images/PHHLuncheon_March2020.jpg)
+_UBC Public Humanities Hub Launch [Event](https://www.arts.ubc.ca/news/ubc-public-humanities-hub-launches-to-help-scholars-share-expertise-on-urgent-societal-issues/), March 2020._
+
+<!--
 ## Conferences Organized & Workshop Participation
 
 * "Horacio Castellanos Moya's _El sueño del retorno_: A Workshop with the Author." Department of Spanish and Portuguese, Indiana University Bloomington (April 2019)
@@ -103,9 +109,7 @@ V. [Conferences Organized & Workshop Participation](#conferences-organized--work
 * _Contested Spaces, Contested Identities: Race and Identity Across the Disciplines_, Graduate Student Research Symposium, Center for Research on Race and Ethnicity in Society, Indiana University (April 2018)
 
 * _Diálogos 11_, Graduate Student Research Conference, Department of Spanish and Portuguese, Indiana University (February 2014)
-
-![](assets/images/PHHLuncheon_March2020.jpg)
-_UBC Public Humanities Hub Launch [Event](https://www.arts.ubc.ca/news/ubc-public-humanities-hub-launches-to-help-scholars-share-expertise-on-urgent-societal-issues/), March 2020._
+-->
 
 <!--["Better Living Through the Humanities:](https://www.facebook.com/crres.iub/videos/vb.619227484774796/1862208990476633/?type=2&theater) Engaged Research, Public Scholarship, and Social Action Today," 
 the keynote address by [Dr. Marcia Chatelain](https://gufaculty360.georgetown.edu/s/contact/00336000014RhMmAAK/marcia-chatelain) at the 2018 CRRES Graduate Student Research Symposium.
