@@ -20,19 +20,22 @@ literary form and content enable new means of understanding and engaging with th
 * SPAN 550: Porn Lit: Critical Approaches to Erotic Literature in Latin America and Spain
 * SPAN 490: Assassination, Disappearance, Impunity: Latin American Detective Fiction and the Nation State
 * SPAN 365: Modern Magics: Spanish-American Literature and Culture since the 1820s
-* LAST 303: Indigenous Peoples, Globalization, and Labour in Latin America (visit the [course blog](https://blogs.ubc.ca/indigenouslabour/) to learn about podcasting as a learning outcome and to listen to student podcast episodes.)
-* LAST 303: Latin American [Indigenous Foodways](https://blogs.ubc.ca/course0935bb2c1345dfa4e91d0701421d97f5c03a0045/)
+* SPAN 312: Hopscotch: 20th- and 21st-Century Latin American Literature
+* SPAN 202: Advanced Beginner Spanish Language
+* LAST 303: Indigenous Peoples, Globalization, and Labour in Latin America (visit the [course blog](https://blogs.ubc.ca/indigenouslabour/) to learn about podcasting as a learning outcome, to view open access pedagogical materials, and to listen to student podcast episodes.
+* LAST 303: Latin American [Indigenous Foodways](https://blogs.ubc.ca/course0935bb2c1345dfa4e91d0701421d97f5c03a0045/): Click [here](https://blogs.ubc.ca/course0935bb2c1345dfa4e91d0701421d97f5c03a0045/category/lecture/) for open access podcast lectures
+* LAST 100: Introduction to Latin American Studies
 
 ### Indiana University Bloomington, Department of Spanish and Portuguese, Latino Studies Program (2012-2018)
 * HISP 280: Advanced Spanish Grammar & Composition in Literary Context
-* LATS 103: Introduction to Latino Cultures & Literatures
 * HISP 250: Basic Language IV 
 * HISP 105: Accelerated Basic Language I 
+* LATS 103: Introduction to Latino Cultures & Literatures
 
 ### Clemson University, Department of Languages (2010-2012)
-* SPAN 102: Accelerated Basic Language I
-* SPAN 201: Basic Language III 
 * SPAN 202: Basic Language IV 
+* SPAN 201: Basic Language III
+* SPAN 102: Accelerated Basic Language I
 
 ### University of Santiago de Compostela, Department of English Philology, Galicia, Spain (2009-2010)
 * English Philology I: Pre-intermediate Language, Literature and Culture
