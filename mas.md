@@ -6,16 +6,18 @@ divider: radish
 
 
 ## Academic & Professional Affiliations
+* Latin American Sound Studies Working Group, 2021-present
+* Mexican Studies Research Collective (2020-present)
 * Green College Leading Scholars Program, 2019-2021
 * Public Humanities Hub, UBC 2019-Present
-* Asociación Canadiense de Hispanistas (ACH), 2017-Present
-* Modern Language Association (MLA), 2011–Present
+* Asociación Canadiense de Hispanistas (ACH), 2017-present
+* American Comparative Literature Association (ACLA), 2016–present
 * Latin American Studies Association (LASA), 2012–Present  
 Sections: Central America; Culture, Power and Politics; Latino Studies; Mexico
-* American Comparative Literature Association (ACLA), 2016–Present
+* Modern Language Association (MLA), 2011–present
 
 ## Links and Miscellany
-* Research Spotlight, [FHIS Newsletter](https://fhis.ubc.ca/news-and-events/newsletter/), November 2019
+* Research Spotlight, [FHIS Newsletter](https://fhis.ubc.ca/news/research-spotlight-post-nationalism-in-mexican-and-central-american-narrative-fiction/), November 2019
 * Editorial Associate for _Chiricú Journal_ [Issue 1.1 (Fall 2016)](https://muse-jhu-edu.proxyiub.uits.iu.edu/issue/35138)
 * [Profile](https://fhis.ubc.ca/people/tamara-mitchell/) on UBC's French, Hispanic and Italian Studies website
 * Some of my favorite pedagogy websites for basic language and cultural content: [BK Nelson](http://personal.colby.edu/~bknelson/SLC/) Spanish Language & Culture; University of Kansas [Acceso Project](http://acceso.ku.edu)

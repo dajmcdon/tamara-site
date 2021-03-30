@@ -23,14 +23,13 @@ My current book project, _Neoliberal Encounters: Latin American Literature in th
 
 ## Peer-Reviewed Publications
 
-
-* “A Narrative Vaivén: Lucha libre and the Modern Nation Unready-to-hand in Horacio Castellanos Moya's _La sirvienta y el luchador_.” (Accepted November 2020, _Modern Language Notes_)
-
 * “From Ratiocination to Globalization: Poe, Borges, Bolaño and the _Complot_ of the _novela negra mexicana_.” (Accepted August 2020, _CR: The New Centennial Review_)
+
+* “A Narrative Vaivén: Lucha libre and the Modern Nation Unready-to-hand in Horacio Castellanos Moya's _La sirvienta y el luchador_.”_Modern Language Notes_ (Accepted, forthcoming 2021)
 
 * “Broken Bodies, Broken States: Roberto Bolaño on Neoliberal Logic and (Un)Mediated Violence." _Revista de Estudios Hispánicos_ (Accepted, forthcoming March 2021).
 
-* "[Escatología y marginalización en la literatura andina](https://www.academia.edu/43119108/Escatolog%C3%ADa_y_marginalización_en_la_literatura_andina_las_porosas_fronteras_sociopol%C3%ADticas_en_Los_r%C3%ADos_profundos_de_José_Mar%C3%ADa_Arguedas): Las porosas fronteras sociopolíticas en _Los ríos profundos_ de José María Arguedas,” _Revista canadiense de estudios hispánicos_ (May 2020).
+* "[Escatología y marginalización en la literatura andina](https://www.academia.edu/43119108/Escatolog%C3%ADa_y_marginalización_en_la_literatura_andina_las_porosas_fronteras_sociopol%C3%ADticas_en_Los_r%C3%ADos_profundos_de_José_Mar%C3%ADa_Arguedas): Las porosas fronteras sociopolíticas en _Los ríos profundos_ de José María Arguedas,” _Revista canadiense de estudios hispánicos_ (December 2019).
 
 * "[Geopoetics, Geopolitics, and Violence](https://www.academia.edu/40263382/Geopoetics_Geopolitics_and_Violence_Un_Mapping_Daniel_Alarcóns_Lost_City_Radio): (Un)Mapping Daniel Alarcón’s _Lost City Radio_” _Latin American Perspectives_ (September 2019).
 
@@ -38,9 +37,9 @@ My current book project, _Neoliberal Encounters: Latin American Literature in th
 
 * "Interventionism, Migration and Diaspora: Central American Literature Beyond the Isthmus,” _Teaching Central American Literature in a Global Context_, MLA Anthology, Eds. Mónica Albizúrez and Gloria E. Chacón, (Forthcoming).
 
-* "La Llorona, from Plaintive to Plaintiff: Accessing Rights in Neoliberal Globalization," _Cry Baby_, eds. Norma Elia Cantú and Kathleen Alcalá (Under Review, Arizona University Press)
+* "La Llorona, from Plaintive to Plaintiff: Accessing Rights in Neoliberal Globalization," _Cry Baby_, eds. Norma Elia Cantú and Kathleen Alcalá (Accepted, December 2020)
 
-* “The Latin American Telluric Novel and the Mexican Revolution.” _Oxford Handbook of the Latin American Novel_. Proposal accepted, under contract, May 2020. Co-authored with Amanda M. Smith, UC Santa Cruz. Eds. Ignacio López-Calvo and Juan E De Castro.
+* “The Latin American Telluric Novel and the Mexican Revolution.” _Oxford Handbook of the Latin American Novel_. Co-authored with Amanda M. Smith, UC Santa Cruz. Eds. Ignacio López-Calvo and Juan E De Castro, (Submission reviewed and accepted, January 2021).
 
 * "Natalia Almada: [The Sound & the Image](https://muse.jhu.edu/article/633332),” _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_ 1.1 (September 2016), ed. Jonathan Risner: Indiana University Press.
 
@@ -48,9 +47,11 @@ My current book project, _Neoliberal Encounters: Latin American Literature in th
 
 
 ## Book Reviews
-* [Review](https://muse.jhu.edu/article/697754) of _Chicana/o Remix: Art and Errata Since the Sixties_ by Karen Mary Davalos. _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_ 2.2 (May 2018).
+*_The Vanishing Frame: Latin American Culture and Theory in the Postdictatorial Era_ (U of Texas P, 2018) by Eugenio Claudio Di Stefano. _Studies in Twentieth and Twenty-First Century Literature_, solicited.
 
-* [Review](https://muse.jhu.edu/article/679167) of _Pliegues del yo: Cuatro estudios sobre escritura autobiográfica en Hispanoamérica_ by Sergio R. Franco. _Revista de Estudios Hispánicos_ 51.3 (October 2017).
+* [Review](https://muse.jhu.edu/article/697754) of _Chicana/o Remix: Art and Errata Since the Sixties_ (NYU P, 2017) by Karen Mary Davalos. _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_ 2.2 (May 2018).
+
+* [Review](https://muse.jhu.edu/article/679167) of _Pliegues del yo: Cuatro estudios sobre escritura autobiográfica en Hispanoamérica_ (Cuarto Propio, 2015) by Sergio R. Franco. _Revista de Estudios Hispánicos_ 51.3 (October 2017).
 
 
 ## Articles in Preparation

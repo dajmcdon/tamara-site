@@ -4,11 +4,6 @@ title: Talks
 divider: sion2
 ---
 
-Navigation:  
-I. [Invited talks](#invited-talks)  
-II. [Conference presentations](#conference-presentations)  
-III. [Sessions organized](#sessions-organized)  
-IV. [Panel moderation](#panel-moderation)  
 
 ## Invited Talks
 * “Academia Without Borders.” Desigualdades y Centralidad de la Vida, XXXIX Latin American Studies Association Conference, LASA Student Section (May 2021)
@@ -111,7 +106,14 @@ _UBC Public Humanities Hub Launch [Event](https://www.arts.ubc.ca/news/ubc-publi
 * _Diálogos 11_, Graduate Student Research Conference, Department of Spanish and Portuguese, Indiana University (February 2014)
 -->
 
-<!--["Better Living Through the Humanities:](https://www.facebook.com/crres.iub/videos/vb.619227484774796/1862208990476633/?type=2&theater) Engaged Research, Public Scholarship, and Social Action Today," 
+<!--
+Navigation:  
+I. [Invited talks](#invited-talks)  
+II. [Conference presentations](#conference-presentations)  
+III. [Sessions organized](#sessions-organized)  
+IV. [Panel moderation](#panel-moderation)  
+
+["Better Living Through the Humanities:](https://www.facebook.com/crres.iub/videos/vb.619227484774796/1862208990476633/?type=2&theater) Engaged Research, Public Scholarship, and Social Action Today," 
 the keynote address by [Dr. Marcia Chatelain](https://gufaculty360.georgetown.edu/s/contact/00336000014RhMmAAK/marcia-chatelain) at the 2018 CRRES Graduate Student Research Symposium.
 As the Graduate Research Assistant (2016-2018) for Indiana University's Center for Research on Race and Ethnicity in Society ([CRRES](http://crres.indiana.edu)), 
 I organized the 2018 Graduate Student Research Symposium, which featured Dr. Marcia Chatelain of Georgetown University as keynote speaker (click on above link for video of the keynote address). 
