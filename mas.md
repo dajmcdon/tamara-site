@@ -7,9 +7,9 @@ divider: radish
 
 ## Academic & Professional Affiliations
 * Latin American Sound Studies Working Group, 2021-present
-* Mexican Studies Research Collective (2020-present)
-* Green College Leading Scholars Program, 2019-2021
+* Mexican Studies Research Collective, 2020-present
 * Public Humanities Hub, UBC 2019-Present
+* Green College Leading Scholars Program, 2019-2021
 * Asociación Canadiense de Hispanistas (ACH), 2017-present
 * American Comparative Literature Association (ACLA), 2016–present
 * Latin American Studies Association (LASA), 2012–Present  

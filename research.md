@@ -47,7 +47,7 @@ My current book project, _Neoliberal Encounters: Latin American Literature in th
 
 
 ## Book Reviews
-*_The Vanishing Frame: Latin American Culture and Theory in the Postdictatorial Era_ (U of Texas P, 2018) by Eugenio Claudio Di Stefano. _Studies in Twentieth and Twenty-First Century Literature_, solicited.
+* _The Vanishing Frame: Latin American Culture and Theory in the Postdictatorial Era_ (U of Texas P, 2018) by Eugenio Claudio Di Stefano. _Studies in Twentieth and Twenty-First Century Literature_, solicited.
 
 * [Review](https://muse.jhu.edu/article/697754) of _Chicana/o Remix: Art and Errata Since the Sixties_ (NYU P, 2017) by Karen Mary Davalos. _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_ 2.2 (May 2018).
 
@@ -57,9 +57,9 @@ My current book project, _Neoliberal Encounters: Latin American Literature in th
 ## Articles in Preparation
 * “For Whom the Bell Tolls: Religious Colonialism and Sonic Refusal in Arguedas, Asturias, and Yáñez.”
 * “Rancière and the Paradox of Politics: Mexico, Central America, and the Long 1968 in Retrospect.”
-* "Desnudando a los maîtres à penser: La 'novelization' de lo histórico en _El fin de la locura_."
+* "Desnudando a los maîtres à penser: La novelización de lo histórico en _El fin de la locura_."
 * “Dead Matter: A Historical Materialist Approach to Literary Corpses in W.G. Sebald and Oscar Zeta Acosta.”
-* “A Tale of Two Genres: The Duæling Discourses of Luis Rafael Sánchez’s _Quíntuples_.”
+* “A Tale of Two Genres: Duæling Discourses in Luis Rafael Sánchez’s _Quíntuples_.”
 * “Violencia y alienación social en El Salvador: _El arma en el hombre_ como Bildungsroman neoliberal.”
 
 ![](assets/images/HCMApril2019.jpg)
