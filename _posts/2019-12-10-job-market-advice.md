@@ -9,4 +9,9 @@ My students often ask for advice on preparing for the job market, so I compiled 
 
 There are myriad wonderful sites and resources for graduate students looking to enter a career in academia. I suggest you check out different opinions, because there is not one correct path for getting a job. As always, if anything here contradicts your advisor(s), ignore me and listen to him/her/them. 
 
-Here is one 2020 entry in _The Professor Is In_ that is particularly relevant to this topic: "[What Are Candidates Doing Wrong](https://theprofessorisin.com/2020/01/27/dispatches-from-the-front-what-candidates-are-doing-wrong-part-i-of-iii-do-your-homework-please-please/) (crowdsourced responses from recent search committee members)"
+Here is a 2020 entry in _The Professor Is In_ that is particularly relevant to this topic: "[What Are Candidates Doing Wrong](https://theprofessorisin.com/2020/01/27/dispatches-from-the-front-what-candidates-are-doing-wrong-part-i-of-iii-do-your-homework-please-please/) (crowdsourced responses from recent search committee members)"
+
+Finally, if you're here early in your PhD, read this column by Karen Kelsky (of _The Professor Is In_), "[Graduate School is a Means to a Job](https://www.chronicle.com/article/graduate-school-is-a-means-to-a-job/?cid=gen_sign_in)." Presumably, you are pursuing a PhD in literary studies with a particular goal in mind, and that goal is likely to land a tenure-track job teaching in your field. This means that you should be strategic and, in my experience, a little bit cynical. Kelsky agrees, stating:
+> "As a graduate student, your fate is in your own hands, and every decision you make—including whether to go to graduate school at all, which program to go to, which adviser to choose, and how to conduct yourself while there—can and should be made with an eye to the job you wish to have at the end.
+
+> To do otherwise is pure madness. I have no patience whatsoever with the “love” narrative (we do what we do because we love it and money/jobs play no role) that prevails among some advisers, departments, and profoundly mystified graduate students."
