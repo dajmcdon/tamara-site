@@ -95,7 +95,7 @@ blockquote:before {
   color: $contrast-color;
   text-align: center;
 }
-blockquote:after {
+blockquote[cite]:after {
   content: "\2013 \2003" attr(cite);
   display: block;
   text-align: right;
