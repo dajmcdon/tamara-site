@@ -27,7 +27,7 @@ My current book project, _Neoliberal Encounters: Latin American Literature in th
 
 * “A Narrative Vaivén: Lucha libre and the Modern Nation Unready-to-hand in Horacio Castellanos Moya's _La sirvienta y el luchador_.”_Modern Language Notes_ (Accepted, forthcoming 2021)
 
-* “Broken Bodies, Broken States: Roberto Bolaño on Neoliberal Logic and (Un)Mediated Violence." _Revista de Estudios Hispánicos_ (Accepted, forthcoming March 2021).
+* “[Broken Bodies, Broken States](https://muse.jhu.edu/article/791053): Roberto Bolaño on Neoliberal Logic and (Un)Mediated Violence." _Revista de Estudios Hispánicos_ (March 2021).
 
 * "[Escatología y marginalización en la literatura andina](https://www.academia.edu/43119108/Escatolog%C3%ADa_y_marginalización_en_la_literatura_andina_las_porosas_fronteras_sociopol%C3%ADticas_en_Los_r%C3%ADos_profundos_de_José_Mar%C3%ADa_Arguedas): Las porosas fronteras sociopolíticas en _Los ríos profundos_ de José María Arguedas,” _Revista canadiense de estudios hispánicos_ (December 2019).
 
@@ -36,6 +36,8 @@ My current book project, _Neoliberal Encounters: Latin American Literature in th
 * "[Carving Place out of Non-Place](https://www.academia.edu/39790659/Carving_Place_out_of_Non-Place_Luis_Rafael_Sánchez_s_La_guagua_aérea_and_Postnational_Space): Luis Rafael Sánchez’s ‘La guagua aérea’ and Post-National Space,” _Chasqui: revista de literatura latinoamericana_ (May 2018).
 
 * "Interventionism, Migration and Diaspora: Central American Literature Beyond the Isthmus,” _Teaching Central American Literature in a Global Context_, MLA Anthology, Eds. Mónica Albizúrez and Gloria E. Chacón, (Forthcoming).
+
+* “Literary Sampling and Left Decadence: Intertextuality in Horacio Castellanos Moya’s (Post-)War Fiction,” _Central American Literature as World Literature_, ed. Sophie Esch (proposal accepted May 2021), volume proposed to Bloombury Academic World Literature Series
 
 * "La Llorona, from Plaintive to Plaintiff: Accessing Rights in Neoliberal Globalization," _Cry Baby_, eds. Norma Elia Cantú and Kathleen Alcalá (Accepted, December 2020)
 
@@ -56,8 +58,9 @@ My current book project, _Neoliberal Encounters: Latin American Literature in th
 
 ## Articles in Preparation
 * “For Whom the Bell Tolls: Religious Colonialism and Sonic Refusal in Arguedas, Asturias, and Yáñez.”
+* “¡Cacerolazo¡: The Cooking Pot as Community, Culture, and Resistance in the Anthropocene.”
 * “Rancière and the Paradox of Politics: Mexico, Central America, and the Long 1968 in Retrospect.”
-* "Desnudando a los maîtres à penser: La novelización de lo histórico en _El fin de la locura_."
+* "Desnudando a los maîtres à penser: La novelización de lo histórico en _El fin de la locura_ de Jorge Volpi."
 * “Dead Matter: A Historical Materialist Approach to Literary Corpses in W.G. Sebald and Oscar Zeta Acosta.”
 * “A Tale of Two Genres: Duæling Discourses in Luis Rafael Sánchez’s _Quíntuples_.”
 * “Violencia y alienación social en El Salvador: _El arma en el hombre_ como Bildungsroman neoliberal.”
