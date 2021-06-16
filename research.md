@@ -25,7 +25,7 @@ My current book project, _Neoliberal Encounters: Latin American Literature in th
 
 * “From Ratiocination to Globalization: Poe, Borges, Bolaño and the _Complot_ of the _novela negra mexicana_.” (Accepted August 2020, _CR: The New Centennial Review_)
 
-* “A Narrative Vaivén: Lucha libre and the Modern Nation Unready-to-hand in Horacio Castellanos Moya's _La sirvienta y el luchador_.”_Modern Language Notes_ (Accepted, forthcoming 2021)
+* “[A Narrative Vaivén](https://muse.jhu.edu/article/795533): Lucha libre and the Modern Nation Unready-to-hand in Horacio Castellanos Moya's _La sirvienta y el luchador_.”_Modern Language Notes_ (March 2021)
 
 * “[Broken Bodies, Broken States](https://muse.jhu.edu/article/791053): Roberto Bolaño on Neoliberal Logic and (Un)Mediated Violence." _Revista de Estudios Hispánicos_ (March 2021).
 
@@ -49,7 +49,7 @@ My current book project, _Neoliberal Encounters: Latin American Literature in th
 
 
 ## Book Reviews
-* _The Vanishing Frame: Latin American Culture and Theory in the Postdictatorial Era_ (U of Texas P, 2018) by Eugenio Claudio Di Stefano. _Studies in Twentieth and Twenty-First Century Literature_, solicited.
+* _The Vanishing Frame: Latin American Culture and Theory in the Postdictatorial Era_ (U of Texas P, 2018) by Eugenio Claudio Di Stefano. _Studies in Twentieth and Twenty-First Century Literature_, submitted June 2021.
 
 * [Review](https://muse.jhu.edu/article/697754) of _Chicana/o Remix: Art and Errata Since the Sixties_ (NYU P, 2017) by Karen Mary Davalos. _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_ 2.2 (May 2018).
 
