@@ -37,7 +37,7 @@ My current book project, _Neoliberal Encounters: Latin American Literature in th
 
 * "Interventionism, Migration and Diaspora: Central American Literature Beyond the Isthmus,” _Teaching Central American Literature in a Global Context_, MLA Anthology, Eds. Mónica Albizúrez and Gloria E. Chacón, (Forthcoming).
 
-* “Literary Sampling and Left Decadence: Intertextuality in Horacio Castellanos Moya’s (Post-)War Fiction,” _Central American Literature as World Literature_, ed. Sophie Esch (proposal accepted May 2021), volume proposed to Bloombury Academic World Literature Series
+* “Literary Sampling and Left Decadence: Intertextuality in Horacio Castellanos Moya’s (Post-)War Fiction,” _Central American Literature as World Literature_, ed. Sophie Esch (proposal accepted May 2021), volume proposed to Bloomsbury Academic World Literature Series
 
 * "La Llorona, from Plaintive to Plaintiff: Accessing Rights in Neoliberal Globalization," _Cry Baby_, eds. Norma Elia Cantú and Kathleen Alcalá (Accepted, December 2020)
 
@@ -58,7 +58,7 @@ My current book project, _Neoliberal Encounters: Latin American Literature in th
 
 ## Articles in Preparation
 * “For Whom the Bell Tolls: Religious Colonialism and Sonic Refusal in Arguedas, Asturias, and Yáñez.”
-* “¡Cacerolazo¡: The Cooking Pot as Community, Culture, and Resistance in the Anthropocene.”
+* “¡Cacerolazo!: The Cooking Pot as Community, Culture, and Resistance in the Anthropocene.”
 * “Rancière and the Paradox of Politics: Mexico, Central America, and the Long 1968 in Retrospect.”
 * "Desnudando a los maîtres à penser: La novelización de lo histórico en _El fin de la locura_ de Jorge Volpi."
 * “Dead Matter: A Historical Materialist Approach to Literary Corpses in W.G. Sebald and Oscar Zeta Acosta.”
