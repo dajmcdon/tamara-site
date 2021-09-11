@@ -49,7 +49,7 @@ My current book project, _Neoliberal Encounters: Latin American Literature in th
 
 
 ## Book Reviews
-* _The Vanishing Frame: Latin American Culture and Theory in the Postdictatorial Era_ (U of Texas P, 2018) by Eugenio Claudio Di Stefano. _Studies in Twentieth and Twenty-First Century Literature_, submitted June 2021.
+* [Review](https://newprairiepress.org/cgi/viewcontent.cgi?article=2201&context=sttcl) of _The Vanishing Frame: Latin American Culture and Theory in the Postdictatorial Era_ (U of Texas P, 2018) by Eugenio Claudio Di Stefano. _Studies in Twentieth and Twenty-First Century Literature_, 45.1 (August 2021).
 
 * [Review](https://muse.jhu.edu/article/697754) of _Chicana/o Remix: Art and Errata Since the Sixties_ (NYU P, 2017) by Karen Mary Davalos. _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_ 2.2 (May 2018).
 
