@@ -18,7 +18,7 @@ these authors' engagements with literary and aesthetic traditions, particularly 
 a dialectic emerges between their works and the literary past that opens a space to interrogate the place of 
 aesthetic praxis as neoliberal globalization becomes ascendant. Finally, I examined Bolaño’s and Castellanos Moya’s literary rejections of Leftist militant reason and discussed how their novels implicate the Left in the rise of neoliberal globalization. 
 
-My current book project, _Neoliberal Encounters: Latin American Literature in the Age of Technological Globalization_, studies and sets up a series of “neoliberal encounters” in its examination of 21st-century Mexican and Central American literature—produced both domestically and in the diaspora. Encounters are both destructive and generative. They may be sites of confrontation, change, synthesis, or revelation. They are both temporal and spatial, and occur across distinct genres and media. I read narrative works by Roberto Bolaño, Laury Leite, Cristina Rivera Garza, Horacio Castellanos Moya, Claudia Hernández, and Valeria Luiselli as sites of such encounters, and I attend to the ways in which politics, economics, ethics, and aesthetics become entangled in the age of neoliberal globalization. Along the way, my project engages with diverse theoretical perspectives, such as Critical Race Theory, Migration and Diaspora Studies, and Sound Studies.
+My current book project, _Narrative in Crisis, Narrative on Crisis: Greater Mexican and Central American Literature in the Age of Neoliberal Globalization_, examines contemporary narrative fiction that represents and responds to disparate crises of the present epoch. I read late-20th and 21st-century Mexican and Central American novels—produced both domestically and in the diaspora—that contain a distinctly neoliberal aesthetic to two ends. First, I attend to how each text meditates on and denaturalizes the logic of economic crisis as a means of critiquing power relations and structural inequalities, both regionally and globally. Second, I situate each text in relation to the literary tradition that precedes it, and I consider how the political and economic crises upon which each work reflects are accompanied by a related literary crisis. To this end, my project asks: If the novel is the genre _par excellence_ of national modernity, and the nation state is giving way to globalization and neoliberal economic relations, what becomes of the literary form that arose alongside the nation state that is now in decline? In different ways, each of the novels that I examine not only narrate the economic and biopolitical crises of the neoliberal present, but they also become self-aware of their own state as works in crisis. I read works by Roberto Bolaño, Laury Leite, Cristina Rivera Garza, Horacio Castellanos Moya, Valeria Luiselli, and Carol Zardetto as _narratives in crisis_, and I attend to the ways in which politics, economics, ethics, and aesthetics become entangled in the age of neoliberal globalization. Along the way, my project engages with diverse theoretical perspectives, such as Critical Race Theory, Migration and Diaspora Studies, and Sound Studies.
 
 
 ## Peer-Reviewed Publications
@@ -37,15 +37,12 @@ My current book project, _Neoliberal Encounters: Latin American Literature in th
 
 * "Interventionism, Migration and Diaspora: Central American Literature Beyond the Isthmus,” _Teaching Central American Literature in a Global Context_, MLA Anthology, Eds. Mónica Albizúrez and Gloria E. Chacón, (Forthcoming).
 
-* “Literary Sampling and Left Decadence: Intertextuality in Horacio Castellanos Moya’s (Post-)War Fiction,” _Central American Literature as World Literature_, ed. Sophie Esch (proposal accepted May 2021), volume proposed to Bloomsbury Academic World Literature Series
+* “Literary Sampling and Left Decadence: Intertextuality in Horacio Castellanos Moya’s (Post-)War Fiction,” _Central American Literature as World Literature_, ed. Sophie Esch (proposal accepted May 2021), Bloomsbury Academic World Literature Series (volume proposal accepted August 2021)
 
 * "La Llorona, from Plaintive to Plaintiff: Accessing Rights in Neoliberal Globalization," _Cry Baby_, eds. Norma Elia Cantú and Kathleen Alcalá (Accepted, December 2020)
 
-* “The Latin American Telluric Novel and the Mexican Revolution.” _Oxford Handbook of the Latin American Novel_. Co-authored with Amanda M. Smith, UC Santa Cruz. Eds. Ignacio López-Calvo and Juan E De Castro, (Submission reviewed and accepted, January 2021).
+* “The Latin American Telluric Novel and the Mexican Revolution.” _Oxford Handbook of the Latin American Novel_. Co-authored with Amanda M. Smith, UC Santa Cruz. Eds. Ignacio López-Calvo and Juan E De Castro, (accepted, January 2021).
 
-* "Natalia Almada: [The Sound & the Image](https://muse.jhu.edu/article/633332),” _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_ 1.1 (September 2016), ed. Jonathan Risner: Indiana University Press.
-
-* [Translations](https://www.hiedramagazine.com/conceicao-evaristo) of poetry by Conceição Evaristo (Brazilian Portuguese to English), _Revista Hiedra_ 1.1 (Fall 2013): 66-68.
 
 
 ## Book Reviews
@@ -55,6 +52,10 @@ My current book project, _Neoliberal Encounters: Latin American Literature in th
 
 * [Review](https://muse.jhu.edu/article/679167) of _Pliegues del yo: Cuatro estudios sobre escritura autobiográfica en Hispanoamérica_ (Cuarto Propio, 2015) by Sergio R. Franco. _Revista de Estudios Hispánicos_ 51.3 (October 2017).
 
+## Invited, Non-refereed
+* "Natalia Almada: [The Sound & the Image](https://muse.jhu.edu/article/633332),” _Chiricú Journal: Latina/o Literatures, Arts, and Cultures_ 1.1 (September 2016), ed. Jonathan Risner: Indiana University Press.
+
+* [Translations](https://www.hiedramagazine.com/conceicao-evaristo) of poetry by Conceição Evaristo (Brazilian Portuguese to English), _Revista Hiedra_ 1.1 (Fall 2013): 66-68.
 
 ## Articles in Preparation
 * “For Whom the Bell Tolls: Religious Colonialism and Sonic Refusal in Arguedas, Asturias, and Yáñez.”
@@ -64,6 +65,7 @@ My current book project, _Neoliberal Encounters: Latin American Literature in th
 * “Dead Matter: A Historical Materialist Approach to Literary Corpses in W.G. Sebald and Oscar Zeta Acosta.”
 * “A Tale of Two Genres: Duæling Discourses in Luis Rafael Sánchez’s _Quíntuples_.”
 * “Violencia y alienación social en El Salvador: _El arma en el hombre_ como Bildungsroman neoliberal.”
+* “Listening for the Mexican Archive: Sound, Crisis, and Intertextuality in _En la soledad de un cielo muerto_”
 
 ![](assets/images/HCMApril2019.jpg)
 _In April 2019, I had the pleasure of participating in a workshop and spending the day with Honduran-Salvadoran author Horacio Castellanos Moya, one of two authors whose corpora I examine at length in my dissertation project._
