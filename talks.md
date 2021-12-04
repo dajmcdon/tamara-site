@@ -19,6 +19,7 @@ divider: sion2
 ## Conference Presentations
 
 * “The Sounds and Spatiality of Crisis in Valeria Luiselli’s _Lost Children Archive_.” XL Latin American Studies Association Conference, (May 2022)
+* “Marking Time: The Sounds of Neoliberal Temporality at the Mexico-U.S. Border.” Modern Language Association Annual Conference, Washington DC (January 2022)
 * “From the Salvadoran Civil War to the Mexico-US War on Drugs: Neoliberal Narratives of the Central American(-American) Postwar.” Latina/o Studies Association 4th Biennial Conference, Notre Dame University (July 2022)
 * “Left Decadence and Intertextuality in Horacio Castellanos Moya’s (Post-)War Fiction.” Central American Literature as World Literature, Rice University (November 2021)
 * “A Sensual Palimpsest: History, Memory and the Sonic in Laury Leite’s _En la soledad de un cielo muerto_.” Crisis global, desigualdades y centralidad de la vida, XXXIX Latin American Studies Association (May 2021)
