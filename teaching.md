@@ -17,6 +17,9 @@ literary form and content enable new means of understanding and engaging with th
 ## University Teaching
 
 ### University of British Columbia, Department of French, Hispanic and Italian Studies (2019-Present)
+* SPAN 590. Narrativa Sonora: Sound and Literature in Contemporary Latin American Fiction
+* SPAN 590. Sonidos textuales y escritos sonoros: Central American Literary Soundscapes 
+* SPAN 550. Latin(x) American Speculative Fictions in the Anthropocene
 * SPAN 550: Porn Lit: Critical Approaches to Erotic Literature in Latin America and Spain
 * SPAN 490: Assassination, Disappearance, Impunity: Latin American Detective Fiction and the Nation State
 * SPAN 365: Modern Magics: Spanish-American Literature and Culture since the 1820s
@@ -60,4 +63,4 @@ literary form and content enable new means of understanding and engaging with th
 ![](assets/images/SpainMula.jpg)
 
 ![](assets/images/MascotaBraves.jpg)
-_Directing studies abroad and language immersion programs provides the unique opportunity to experience culture and get to know students outside of the traditional classroom setting. Top image: The cast of **Se vende una mula** just prior to performing at the end of program reception and talent showcase in León, Spain (Summer 2014). Bottom image: The 2012 Clemson Language Immersion Program took students to Atlanta to meet Latin American players and coaches on the Braves._
+_Directing studies abroad and language immersion programs provides the unique opportunity to experience culture and get to know students outside of the traditional classroom setting. Top image: The cast of **Se vende una mula** before taking the stage at the end-of-program reception and talent showcase in León, Spain (Summer 2014). Bottom image: The 2012 Clemson Language Immersion Program took students to Atlanta to meet Latin American baseball players and coaches on the Braves._
