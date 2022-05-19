@@ -104,3 +104,27 @@ blockquote[cite]:after {
   color: $contrast-color;
 }
 
+.image-row {
+  display: flex;
+  flex-wrap: wrap;
+  flex-flow: row wrap;
+  align-items: top;
+  justify-content: top;
+  margin-bottom: 1em;
+}
+
+
+.image-row img {
+  width: 100%;
+  height: 100%;
+}
+
+.thirds {
+  width: 33.3%;
+  height: 250px;
+}
+
+.fourths {
+  width: 25%;
+  height: 250px;
+}

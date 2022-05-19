@@ -15,6 +15,8 @@ I am working on a second book project, tentatively titled _Sounds of the Capital
 
 ## Peer-Reviewed Publications
 
+{% include article-array.html %}
+
 * “From Ratiocination to Globalization: Poe, Borges, Bolaño and the _Complot_ of the _novela negra mexicana_.” (forthcoming, _CR: The New Centennial Review_)
 
 * “[A Narrative Vaivén](https://muse.jhu.edu/article/795533): Lucha libre and the Modern Nation Unready-to-hand in Horacio Castellanos Moya's _La sirvienta y el luchador_.”_Modern Language Notes_ (March 2021)

@@ -1,0 +1,14 @@
+
+<div class="image-row">
+    {% for card in site.data.articles %}
+      <div class="thirds">
+      {% if card.link %}
+        <a href="{{ card.link }}">
+      {% endif %}
+      <img src="{{ 'assets/images/' | append: card.image}}">
+      {% if card.link %}
+        </a>
+      {% endif %}
+      </div>
+    {% endfor %}
+</div>
