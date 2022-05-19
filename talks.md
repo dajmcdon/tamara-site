@@ -6,43 +6,36 @@ divider: sion2
 
 
 ## Invited Talks
+* "In the Key of Crisis: Intermediality, Temporality and Labor in Laury Leite." Iberian and Latin American Cultures (ILAC) Speaker Series, Stanford University (May 2022)
 * “Conspicuous Impunity: Ayotzinapa Seven Years Later.” Hispanic Heritage Month: Urgent Issues in Latin America Roundtable, Latin American Studies Program, UBC (October 2021)
 * “In the Key of Crisis: Intermediality and the Romanticization of Labour in Mexico City.” Mexican Studies Research Collective (September 2021)
 * “Academia Without Borders.” Desigualdades y Centralidad de la Vida, XXXIX Latin American Studies Association Conference, LASA Student Section (May 2021)
 * "La esclavitud, la maquila y la alegoría fracasada: Un renacimiento de Harlem en la Ciudad Juárez.” UC Santa Cruz Spanish Studies Colloquium (November 2020)
 * “Solidarity, Foodways, and Fierce Care on the Migrant Trail.” Global Resource Systems Program, University of British Columbia (November 2020)
-* “In the Wake: Central American Literature after Oscar Romero.” UBC Latin American Studies Program (March 2020, postponed, COVID)
+* “In the Wake: Central American Literature after Oscar Romero.” UBC Latin American Studies Program (March 2020, cancelled, COVID)
 * “(Un)Imagining Communities: Culture and Nationalism after the Digital Turn.” The Global Lounge, University of British Columbia (March 2020, cancelled, COVID)
 * “‘La violencia es macro:’ Natalie Beristáin’s Los adioses.” UBC Latin American Studies Program (January 2020)
 * “Trauma, Affect, and Testimonio in Horacio Castellanos Moya’s Insensatez.” Professor Jonathan Risner, Department of Spanish & Portuguese, Indiana University (April 2019)
 
-## Conference Presentations
+## Conference Presentations 
 
 * “The Sounds and Spatiality of Crisis in Valeria Luiselli’s _Lost Children Archive_.” XL Latin American Studies Association Conference, (May 2022)
-* “Marking Time: The Sounds of Neoliberal Temporality at the Mexico-U.S. Border.” Modern Language Association Annual Conference, Washington DC (January 2022)
+* "Intermediality and Economic Migration in Laury Leite’s _En la soledad de un cielo muerto_." XXVI Juan Bruce-Novoa Mexican Studies Conference, _Soundscapes of Mexico_, University of California, Irvine (April 2022)
+* “Marking Time: The Sounds of Neoliberal Temporality at the Mexico-U.S. Border.” Modern Language Association Annual Conference, Washington DC (January 2022, cancelled, COVID)
 * “Left Decadence and Intertextuality in Horacio Castellanos Moya’s (Post-)War Fiction.” Central American Literature as World Literature, Rice University (November 2021)
 * “A Sensual Palimpsest: History, Memory and the Sonic in Laury Leite’s _En la soledad de un cielo muerto_.” Crisis global, desigualdades y centralidad de la vida, XXXIX Latin American Studies Association (May 2021)
-
-* “Rewriting Shit: Dirt and Excrement in Latin American Indigenous Literature.” Building Worlds, Green College Leading Scholars Series, University of British Columbia (January 2021)
-
+* “[Rewriting Shit](https://youtu.be/nDUspX0GRlo?t=1425): Dirt and Excrement in Latin American Indigenous Literature.” Building Worlds, Green College Leading Scholars Series, University of British Columbia (January 2021)
 * “A Harlem Renaissance in Ciudad Juárez: Race, Gender, and a Crisis of Intersectionality in Roberto Bolaño’s ‘La parte de Fate.’” Améfrica Ladina, XVIII Latin American Studies Association (LASA), Guadalajara, México (May 2020)
 * “From the Salvadoran Civil War to the Mexico-US War on Drugs: Neoliberal Narratives of the Central American(-American) Postwar.” Latina/o Studies Association 4th Biennial Conference, Notre Dame University (cancelled, July 2020)
 * “Broken Bodies, Broken Nations: Roberto Bolaño on Neoliberal Logic and (Un)Mediated Violence.” Hispanic Studies Seminar, Department of French, Hispanic & Italian Studies, University of British Columbia, Vancouver, Canada (October 2019)
-
 * “Dissensus and Alternative Left Politics in Postwar El Salvador: Jazz as Metonymy in Horacio Castellanos Moya’s _La diáspora_.” Mesa Centroamérica, LV Congreso de la Asociación Canadiense de Hispanistas, Vancouver, Canada (June 2019)
-
 * “Specters of Roque: The Pen and/as the Sword.” Nuestra América, XXXVII Latin American Studies Association International Conference, Boston (May 2019)
-
 * “Precursors of 1968: Borges, Bolaño, and the Latin American Left.” Textual Transactions, Modern Language Association (MLA) Annual Conference, Chicago (January 2019)
-
-* “Broken Bodies, Broken Nations: Roberto Bolaño’s _2666_ and Neoliberal Consumption.” Consuming Cultures, Midwest Modern Language Association (MMLA) Annual Conference, Kansas City (November 2018)
-
+* Partial list; please see [CV](/assets/research/CV_TamaraMitchell.pdf) for full list.
+<!--* “Broken Bodies, Broken Nations: Roberto Bolaño’s _2666_ and Neoliberal Consumption.” Consuming Cultures, Midwest Modern Language Association (MMLA) Annual Conference, Kansas City (November 2018)
 * “Geopoetics, Geopolitics, and Global Violence: (Un)Mapping Daniel Alarcón’s _Lost City Radio_.” Latinx Studies Now, Latino Studies Association Biannual Conference, Washington, DC (July 2018)
-
 * “Crossing Borders, Literary and Political: Horacio Castellanos Moya’s Post-National Literature.” Latin American Studies in a Globalized World, XXXVI Latin American Studies Association International Conference, Barcelona, Spain (May 2018)
-
 * “Disappearing Nations, Disappearing Genres: The Decline of the Modern State and Post-National Literature.” Ohio Latin Americanist Conference, The Ohio State University, Columbus, OH (October 2017)
-
 * “The Body in Crisis: Reading Bolaño on Neoliberalism, the Failed State, & Political Precarity.” Diálogos de saberes, XXXV Latin American Studies Association International Conference, Lima, Peru (April 2017)
 
 * "Snake Bites and Bestiality: Baile con serpientes and the Return of Magical Realism.” I ♥ POP, Interdisciplinary Conference of the Department of Comparative Literature at the Graduate Center, CUNY (November 2016)
@@ -63,35 +56,28 @@ divider: sion2
 
 * “‘La guagua aérea’: The Puerto Rican Placeholder.” Imagined Spaces: Kaleidoscope Graduate Student Conference, University of Wisconsin-Madison (March 2013)
 
-* “Duœling Discourses: Luis Rafael Sánchez’s _Quíntuples_.” Tenth Annual Hawaii International Conference on Arts and Humanities (January 2012)
+* “Duœling Discourses: Luis Rafael Sánchez’s _Quíntuples_.” Tenth Annual Hawaii International Conference on Arts and Humanities (January 2012)-->
 
 ## Sessions Organized
-* Joint Session, Co-Organizer (with Prof. Ali Kulez, Boston College), “Reframing Crisis in Contemporary Latin American Literature.” _Polarización socioambiental y rivalidad entre grandes potencias_, XL Latin American Studies Association Conference (May 2022)
+* Joint Session, Co-Organizer (with [Prof. Ali Kulez](https://www.bc.edu/content/bc-web/schools/mcas/departments/romance-languages/people/faculty-directory/kulez_ali.html), Boston College), “Reframing Crisis in Contemporary Latin American Literature.” _Polarización socioambiental y rivalidad entre grandes potencias_, XL Latin American Studies Association Conference (May 2022)
 * Co-Organizer (with [Prof. Amanda Smith](https://smith.sites.ucsc.edu), UC Santa Cruz), “Sensible Disruptions: Soundscapes in Contemporary Latin American Literature.” _Crisis global, desigualdades y centralidad de la vida_, XXXIX Latin American Studies Association (May 2021)
 * Co-Organizer (with Profs. Yankai Cao and Katie Marshall, UBC), “Waste Not: Rethinking Poop through Bugs, Books and Power.” Building Worlds, Green College Leading Scholars Series, University of British Columbia (January 2021)
 * Co-Organizer (with Prof. Amanda Smith, UC Santa Cruz), "Listening in Latin America: Narrative Soundscapes & Literary Aurality." _MLA Convention: Persistence_, Toronto (January 2021)
 * Co-Organizer (with [Prof. Ali Kulez](https://www.alikulez.com/research), Boston College), "Géneros: Gender and Genre in the Literatures of Améfrica Ladina." Améfrica Ladina, XVIII Latin American Studies Association (LASA), Guadalajara, México (May 2020)
-
 * Organizer, "Nuestra América through a Latinx Lens: Reading (with) Héctor Tobar.” Roundtable with the author. Nuestra América, XXXVII Latin American Studies Association Conference, Boston, MA (May 2019)
-
 * Organizer, “Residues of the Archive: On Belonging, Inequality, and Crisis from the IsthmUS.” Nuestra América, XXXVII Latin American Studies Association International Conference, Boston, MA (May 2019), Section-sponsored Session
-
 * Co-Organizer (with Prof. Matt Johnson, New Mexico Tech), “Borgesian Transactions: Literary Debts, Literary Inheritances.” Textual Transactions, Modern Language Association Annual Conference, Chicago (January 2019), Presidential Session
-
 * Organizer, “Consumption of the Other, Consumption of the Self: Aesthetic Mutilation as Neoliberal Critique.” Consuming Cultures, Midwest Modern Language Association Annual Conference, Kansas City (November 2018), Special Session
-
 * Organizer, “Political and Literary Geographies in Flux: Culture and Media in the Era of Post-National Globalization.” Latin American Studies in a Globalized World, XXXVI Latin American Studies Association International Conference, Barcelona, Spain (May 2018)
-
 * Organizer, “Impactos del capitalismo globalizado: Fenómenos literarios glocales desde una perspectiva intercontinental.” Ohio Latin Americanist Conference, The Ohio State University (October 2017)
-
 * Organizer, “Culture on Crisis / Culture in Crisis: Art and the Neoliberal Market.” Diálogos de saberes, XXXV Latin American Studies Association International Conference, Lima, Peru (April 2017)
 
 ## Panel Moderation
+* “Reframing Crisis in Contemporary Latin American Literature.” _Polarización socioambiental y rivalidad entre grandes potencias_, XL Latin American Studies Association Conference, May 2022
+* “Oralidades y textualidades,” FHIS Graduate Student Symposium, May 2022
 * Listening in Latin America: Narrative Soundscapes & Literary Aurality. _MLA Convention: Persistence_, Toronto (January 2021)
 * Crossing Borders. _On the Move: Narratives of Displacement, Travel and Mobilities_, Graduate Student Conference: French, Hispanic & Italian Studies, University of British Columbia (October 2019)
-
 * History and its Shadows: Re-Thinking Historical Narratives in Contemporary Latin American and Luso-Brazilian Literature. _Diálogos 13_: Graduate Student Research Conference, Indiana University (February 2016)
-
 * Luso-Brazilian Literature & Culture. _Diálogos 10_: Graduate Student Research Conference, Indiana University (February 2013)
 
 
