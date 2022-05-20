@@ -31,11 +31,9 @@ I am working on a second book project, tentatively titled _Sounds of the Capital
 
 * "Interventionism, Migration and Diaspora: Central American Literature Beyond the Isthmus,” _Teaching Central American Literature in a Global Context_, MLA Anthology, Eds. Mónica Albizúrez and Gloria E. Chacón, (Forthcoming, Fall 2022).
 
-* “Thunderous Untranslatability in Horacio Castellanos Moya,” _Central American Literature as World Literature_, ed. Sophie Esch (submission accepted January 2022), Bloomsbury Academic World Literature Series (volume proposal accepted August 2021)
-
-* "La Llorona, from Plaintive to Plaintiff: Accessing Rights in Neoliberal Globalization," _Cry Baby_, eds. Norma Elia Cantú and Kathleen Alcalá (submission accepted, December 2020; volume accepted January 2022), Trinity University Press
-
-* “The Latin American Telluric Novel and the Mexican Revolution.” _Oxford Handbook of the Latin American Novel_. Co-authored with Amanda M. Smith, UC Santa Cruz. Eds. Ignacio López-Calvo and Juan E De Castro, (forthcoming, Summer 2022).
+* “The Latin American Telluric Novel and the Mexican Revolution.” _Oxford Handbook of the Latin American Novel_. Co-authored with Amanda M. Smith, UC Santa Cruz. Eds. Ignacio López-Calvo and Juan E De Castro, (forthcoming, Fall 2022).
+* "La Llorona, from Plaintive to Plaintiff: Accessing Rights in Neoliberal Globalization," _Cry Baby_, eds. Norma Elia Cantú and Kathleen Alcalá, Trinity University Press, (forthcoming, Spring 2023).
+* “Thunderous Untranslatability in Horacio Castellanos Moya,” _Central American Literature as World Literature_, ed. Sophie Esch (submission accepted January 2022), Bloomsbury Academic World Literature Series (volume proposal accepted August 2021).
 
 
 
