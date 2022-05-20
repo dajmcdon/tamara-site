@@ -32,7 +32,8 @@ divider: sion2
 * “Specters of Roque: The Pen and/as the Sword.” Nuestra América, XXXVII Latin American Studies Association International Conference, Boston (May 2019)
 * “Precursors of 1968: Borges, Bolaño, and the Latin American Left.” Textual Transactions, Modern Language Association (MLA) Annual Conference, Chicago (January 2019)
 * Partial list; please see [CV](/assets/research/CV_TamaraMitchell.pdf) for full list.
-<!--* “Broken Bodies, Broken Nations: Roberto Bolaño’s _2666_ and Neoliberal Consumption.” Consuming Cultures, Midwest Modern Language Association (MMLA) Annual Conference, Kansas City (November 2018)
+<!--
+* “Broken Bodies, Broken Nations: Roberto Bolaño’s _2666_ and Neoliberal Consumption.” Consuming Cultures, Midwest Modern Language Association (MMLA) Annual Conference, Kansas City (November 2018)
 * “Geopoetics, Geopolitics, and Global Violence: (Un)Mapping Daniel Alarcón’s _Lost City Radio_.” Latinx Studies Now, Latino Studies Association Biannual Conference, Washington, DC (July 2018)
 * “Crossing Borders, Literary and Political: Horacio Castellanos Moya’s Post-National Literature.” Latin American Studies in a Globalized World, XXXVI Latin American Studies Association International Conference, Barcelona, Spain (May 2018)
 * “Disappearing Nations, Disappearing Genres: The Decline of the Modern State and Post-National Literature.” Ohio Latin Americanist Conference, The Ohio State University, Columbus, OH (October 2017)
@@ -56,7 +57,8 @@ divider: sion2
 
 * “‘La guagua aérea’: The Puerto Rican Placeholder.” Imagined Spaces: Kaleidoscope Graduate Student Conference, University of Wisconsin-Madison (March 2013)
 
-* “Duœling Discourses: Luis Rafael Sánchez’s _Quíntuples_.” Tenth Annual Hawaii International Conference on Arts and Humanities (January 2012)-->
+* “Duœling Discourses: Luis Rafael Sánchez’s _Quíntuples_.” Tenth Annual Hawaii International Conference on Arts and Humanities (January 2012)
+-->
 
 ## Sessions Organized
 * Joint Session, Co-Organizer (with [Prof. Ali Kulez](https://www.bc.edu/content/bc-web/schools/mcas/departments/romance-languages/people/faculty-directory/kulez_ali.html), Boston College), “Reframing Crisis in Contemporary Latin American Literature.” _Polarización socioambiental y rivalidad entre grandes potencias_, XL Latin American Studies Association Conference (May 2022)
