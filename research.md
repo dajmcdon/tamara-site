@@ -29,7 +29,7 @@ I am working on a second book project, tentatively titled _Sounds of the Capital
 
 * "[Carving Place out of Non-Place](https://www.academia.edu/39790659/Carving_Place_out_of_Non-Place_Luis_Rafael_Sánchez_s_La_guagua_aérea_and_Postnational_Space): Luis Rafael Sánchez’s ‘La guagua aérea’ and Post-National Space,” _Chasqui: revista de literatura latinoamericana_ (May 2018).
 
-* "Interventionism, Migration and Diaspora: Central American Literature Beyond the Isthmus,” _Teaching Central American Literature in a Global Context_, MLA Anthology, Eds. Mónica Albizúrez and Gloria E. Chacón, (Forthcoming, Fall 2022).
+* "[Migration and Diaspora](https://www.mla.org/Publications/Bookstore/Options-for-Teaching/Teaching-Central-American-Literature-in-a-Global-Context): Central American Literature beyond the Isthmus,” _Teaching Central American Literature in a Global Context_, MLA Anthology, Eds. Mónica Albizúrez and Gloria E. Chacón, (Summer 2022).
 
 * “The Latin American Telluric Novel and the Mexican Revolution.” _Oxford Handbook of the Latin American Novel_. Co-authored with Amanda M. Smith, UC Santa Cruz. Eds. Ignacio López-Calvo and Juan E De Castro, (forthcoming, Fall 2022).
 * "La Llorona, from Plaintive to Plaintiff: Accessing Rights in Neoliberal Globalization," _Cry Baby_, eds. Norma Elia Cantú and Kathleen Alcalá, Trinity University Press, (forthcoming, Spring 2023).
