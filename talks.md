@@ -32,6 +32,7 @@ divider: sion2
 * “Specters of Roque: The Pen and/as the Sword.” Nuestra América, XXXVII Latin American Studies Association International Conference, Boston (May 2019)
 * “Precursors of 1968: Borges, Bolaño, and the Latin American Left.” Textual Transactions, Modern Language Association (MLA) Annual Conference, Chicago (January 2019)
 * Partial list; please see [CV](/assets/research/CV_TamaraMitchell.pdf) for full list.
+
 <!--
 * “Broken Bodies, Broken Nations: Roberto Bolaño’s _2666_ and Neoliberal Consumption.” Consuming Cultures, Midwest Modern Language Association (MMLA) Annual Conference, Kansas City (November 2018)
 * “Geopoetics, Geopolitics, and Global Violence: (Un)Mapping Daniel Alarcón’s _Lost City Radio_.” Latinx Studies Now, Latino Studies Association Biannual Conference, Washington, DC (July 2018)
