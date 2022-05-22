@@ -12,8 +12,6 @@ divider: sion2
 * “Academia Without Borders.” Desigualdades y Centralidad de la Vida, XXXIX Latin American Studies Association Conference, LASA Student Section (May 2021)
 * "La esclavitud, la maquila y la alegoría fracasada: Un renacimiento de Harlem en la Ciudad Juárez.” UC Santa Cruz Spanish Studies Colloquium (November 2020)
 * “Solidarity, Foodways, and Fierce Care on the Migrant Trail.” Global Resource Systems Program, University of British Columbia (November 2020)
-* “In the Wake: Central American Literature after Oscar Romero.” UBC Latin American Studies Program (March 2020, cancelled, COVID)
-* “(Un)Imagining Communities: Culture and Nationalism after the Digital Turn.” The Global Lounge, University of British Columbia (March 2020, cancelled, COVID)
 * “‘La violencia es macro:’ Natalie Beristáin’s Los adioses.” UBC Latin American Studies Program (January 2020)
 * “Trauma, Affect, and Testimonio in Horacio Castellanos Moya’s Insensatez.” Professor Jonathan Risner, Department of Spanish & Portuguese, Indiana University (April 2019)
 
@@ -21,17 +19,15 @@ divider: sion2
 
 * “The Sounds and Spatiality of Crisis in Valeria Luiselli’s _Lost Children Archive_.” XL Latin American Studies Association Conference, (May 2022)
 * "Intermediality and Economic Migration in Laury Leite’s _En la soledad de un cielo muerto_." XXVI Juan Bruce-Novoa Mexican Studies Conference, _Soundscapes of Mexico_, University of California, Irvine (April 2022)
-* “Marking Time: The Sounds of Neoliberal Temporality at the Mexico-U.S. Border.” Modern Language Association Annual Conference, Washington DC (January 2022, cancelled, COVID)
 * “Left Decadence and Intertextuality in Horacio Castellanos Moya’s (Post-)War Fiction.” Central American Literature as World Literature, Rice University (November 2021)
 * “A Sensual Palimpsest: History, Memory and the Sonic in Laury Leite’s _En la soledad de un cielo muerto_.” Crisis global, desigualdades y centralidad de la vida, XXXIX Latin American Studies Association (May 2021)
 * “[Rewriting Shit](https://youtu.be/nDUspX0GRlo?t=1425): Dirt and Excrement in Latin American Indigenous Literature.” Building Worlds, Green College Leading Scholars Series, University of British Columbia (January 2021)
 * “A Harlem Renaissance in Ciudad Juárez: Race, Gender, and a Crisis of Intersectionality in Roberto Bolaño’s ‘La parte de Fate.’” Améfrica Ladina, XVIII Latin American Studies Association (LASA), Guadalajara, México (May 2020)
-* “From the Salvadoran Civil War to the Mexico-US War on Drugs: Neoliberal Narratives of the Central American(-American) Postwar.” Latina/o Studies Association 4th Biennial Conference, Notre Dame University (cancelled, July 2020)
 * “Broken Bodies, Broken Nations: Roberto Bolaño on Neoliberal Logic and (Un)Mediated Violence.” Hispanic Studies Seminar, Department of French, Hispanic & Italian Studies, University of British Columbia, Vancouver, Canada (October 2019)
 * “Dissensus and Alternative Left Politics in Postwar El Salvador: Jazz as Metonymy in Horacio Castellanos Moya’s _La diáspora_.” Mesa Centroamérica, LV Congreso de la Asociación Canadiense de Hispanistas, Vancouver, Canada (June 2019)
 * “Specters of Roque: The Pen and/as the Sword.” Nuestra América, XXXVII Latin American Studies Association International Conference, Boston (May 2019)
 * “Precursors of 1968: Borges, Bolaño, and the Latin American Left.” Textual Transactions, Modern Language Association (MLA) Annual Conference, Chicago (January 2019)
-* Partial list; please see [CV](/assets/research/CV_TamaraMitchell.pdf) for full list.
+* Since 2019; please see [CV](/assets/research/CV_TamaraMitchell.pdf) for full list of talks.
 
 <!--
 * “Broken Bodies, Broken Nations: Roberto Bolaño’s _2666_ and Neoliberal Consumption.” Consuming Cultures, Midwest Modern Language Association (MMLA) Annual Conference, Kansas City (November 2018)
