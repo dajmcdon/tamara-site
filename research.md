@@ -38,7 +38,7 @@ I am working on a second book project, tentatively titled _Sounds of the Capital
 
 
 ## Book Reviews
-* Thematic Review, “LListening in/to Literature: Attuning to the Senses in Latin American Literary and Cultural Studies.” _Latin American Research Review_, commissioned October 2021, to be submitted June 2022.
+* Thematic Review, “Listening in/to Literature: Attuning to the Senses in Latin American Literary and Cultural Studies.” _Latin American Research Review_, commissioned October 2021, submitted June 2022 (under review).
 * Review of _Modernity at Gunpoint: Firearms, Politics, and Culture in Mexico and Central America_ (U of Pittsburgh P, 2018) by Sophie Esch. Revista de Literatura Mexicana Contemporánea, forthcoming.
 
 * [Review](https://newprairiepress.org/cgi/viewcontent.cgi?article=2201&context=sttcl) of _The Vanishing Frame: Latin American Culture and Theory in the Postdictatorial Era_ (U of Texas P, 2018) by Eugenio Claudio Di Stefano. _Studies in Twentieth and Twenty-First Century Literature_, 45.1 (August 2021).
