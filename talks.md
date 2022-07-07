@@ -5,6 +5,9 @@ divider: sion2
 ---
 
 
+## Upcoming Events
+* [_The Sounds of Latin American Literature: Conference & Workshop_](https://blogs.ubc.ca/sonidolit/), October 14-15, 2022
+
 ## Invited Talks
 * "In the Key of Crisis: Intermediality, Temporality and Labor in Laury Leite." Iberian and Latin American Cultures (ILAC) Speaker Series, Stanford University (May 2022)
 * “Conspicuous Impunity: Ayotzinapa Seven Years Later.” Hispanic Heritage Month: Urgent Issues in Latin America Roundtable, Latin American Studies Program, UBC (October 2021)
