@@ -21,6 +21,7 @@ This will sound obvious to many, but perhaps not as much to scholars who were tr
 * 6. The library website is a fantastic resource for locating new primary texts. For instance, clicking into a search result for a novel by Nicaraguan author Gioconda Belli allows me to click on topics, such as "Central America--Fiction," which may reveal other pertinent authors.
 
 ![](/assets/images/Belli_Library-search.jpg)
+
 #### Mining Bibliographies
 * 7. Check out the authors included in relevant anthologies, such as _The Wandering Song: Central America Writing in the United States_, or those included in encyclopedic volumes, like _Literatura Centroamericana. Diccionarios de autores contemporáneos_, edited by Jorge Eduardo Arellano.
 * 8. Review the bibliographies of publications penned by scholars working in your area. Even if a particular article is on an author that you are already familiar with, sometimes, as part of the lit review, scholars will mention other writers that are contemporary to the author the article is about.
