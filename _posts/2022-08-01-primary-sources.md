@@ -34,7 +34,7 @@ This will sound obvious to many, but perhaps not as much to scholars who were tr
 
 #### Social Media
 * 13. Join groups on Facebook and follow authors and scholars on Twitter that are related to your topic. Browse old posts/tweets to see what authors are mentioned. 
-* 14. See who relevant people are following on social media. Twitter is especially useful for this. For instance, if you're interested in the subgroup of Central American American writers who write both journalism and non-fiction, you might navigate to Sonia Nazario's or Héctor Tobar's profiles and browse who they are following.
-* 15. And of course you can also create a tweet or Facebook post that asks people for input, but I typically wait until I've done significant initial research before farming out my research.
+* 14. See who relevant people are following on social media. Twitter is especially useful for this. For instance, if you're interested in the subgroup of Central American (or Central American American) writers who pen both journalism and non-fiction, you might navigate to Óscar Martínez's or Héctor Tobar's profiles and browse who they are following.
+* 15. Finally, you might also create a tweet or Facebook post that asks people for input, but I typically wait until I've done significant initial research before farming out my inquiry.
 
 Thanks to the efforts of my brilliant research assistants, I have now read fiction by Anabella Giracca, Denise Phé-Funchal, Valeria Cerezo, and Ivanna Chapeta, among many other Guatemalan authors that I wasn't previously familiar with.
