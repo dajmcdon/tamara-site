@@ -24,10 +24,20 @@ Sections: Central America; Culture, Power and Politics; Latino Studies; Mexico
 * Post on _Through the Gates_, IUB Provost's Blog: [Activism & Satire](https://blog.provost.indiana.edu/blog/2018/04/02/activism-is-serious-business-or-is-it/)
 * HOLA Bloomington [Radio Interview](http://wfhb.org/news/httpwfhb-orgwp-contentuploadshola-20141212-mp3/): Ayotzinapa Awareness Event
 
-![](assets/images/HectorTobarTalkLASA2019.jpg)
 
-![](assets/images/LatinxLensPanel.jpg)
-_LASA 2019 roundtable "Nuestra América through a Latinx Lens: Reading (with) Héctor Tobar." Attendees had a chance to hear about [Tobar](https://www.hectortobar.com)'s fifth book and most recent project, **The Last Great Road Bum**, and dialogue with Latinx literary scholars about pedagogy, activism, and research in our current political moment. (Bottom photo from left: [Eric Vázquez](https://www.ericvazquezphd.com), Dickinson College; Tamara Mitchell, University of British Columbia; Héctor Tobar, University of California Irvine; [Jennifer Harford Vargas](https://www.brynmawr.edu/people/jennifer-harford-vargas), Bryn Mawr College; [Marta Caminero-Santangelo](https://english.ku.edu/marta-caminero-santangelo), University of Kansas)_
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-bs-interval="4000">
+      <img src="assets/images/HectorTobarTalkLASA2019.jpg" class="d-block w-100" alt="2012 Clemson Language Immersion Program at Braves Stadium">
+    </div>
+    <div class="carousel-item" data-bs-interval="4000">
+      <img src="assets/images/LatinxLensPanel.jpg" class="d-block w-100" alt="2014 study abroad to León, Spain, with Indiana University students">
+    </div>
+  </div>
+</div>
+
+
+_LASA 2019 roundtable "Nuestra América through a Latinx Lens: Reading (with) Héctor Tobar." Attendees had a chance to hear about [Tobar](https://www.hectortobar.com)'s fifth book and most recent project, **The Last Great Road Bum**, and dialogue with Latinx literary scholars about pedagogy, research, and activism. Organized by Tamara Mitchell. Panelists: Eric Vázquez (Univeristy of Iowa), Héctor Tobar (University of California Irvine), Jennifer Harford Vargas (Bryn Mawr College), Marta Caminero-Santangelo (University of Kansas).
 
 
 <!--
