@@ -71,4 +71,4 @@ literary form and content enable new means of understanding and engaging with th
     </div>
   </div>
 </div>
-_Directing studies abroad and language immersion programs provides the unique opportunity to experience culture and get to know students outside of the traditional classroom setting. Top image: The cast of **Se vende una mula** before taking the stage at the end-of-program reception and talent showcase in León, Spain (Summer 2014). Bottom image: The 2012 Clemson Language Immersion Program took students to Atlanta to meet Latin American baseball players and coaches on the Braves._
+_Studies Abroad, image 1: The cast of **Se vende una mula** before taking the stage in León, Spain (Summer 2014). Image 2: The 2012 Clemson Language Immersion Program (CLIP) students in Atlanta to meet Latin(x) American baseball players and coaches on the Braves._
