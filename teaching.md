@@ -60,7 +60,15 @@ literary form and content enable new means of understanding and engaging with th
 ### University of Kansas Summer Immersion Program, Barcelona, Spain (Summer 2009)
 * SPAN 270: Literature, Culture and History of Spain
 
-![](assets/images/SpainMula.jpg)
 
-![](assets/images/MascotaBraves.jpg)
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="assets/images/MascotaBraves.jpg" class="d-block w-100" alt="2012 Clemson Language Immersion Program at Braves Stadium">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/images/SpainMula.jpg" class="d-block w-100" alt="2014 study abroad to León, Spain, with Indiana University students">
+    </div>
+  </div>
+</div>
 _Directing studies abroad and language immersion programs provides the unique opportunity to experience culture and get to know students outside of the traditional classroom setting. Top image: The cast of **Se vende una mula** before taking the stage at the end-of-program reception and talent showcase in León, Spain (Summer 2014). Bottom image: The 2012 Clemson Language Immersion Program took students to Atlanta to meet Latin American baseball players and coaches on the Braves._
