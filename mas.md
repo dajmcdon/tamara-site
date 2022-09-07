@@ -37,7 +37,7 @@ Sections: Central America; Culture, Power and Politics; Latino Studies; Mexico
 </div>
 
 
-_LASA 2019 roundtable "Nuestra América through a Latinx Lens: Reading (with) Héctor Tobar." Attendees had a chance to hear about [Tobar](https://www.hectortobar.com)'s fifth book and most recent project, **The Last Great Road Bum**, and dialogue with Latinx literary scholars about pedagogy, research, and activism. Organized by Tamara Mitchell. Panelists: Eric Vázquez (Univeristy of Iowa), Héctor Tobar (University of California Irvine), Jennifer Harford Vargas (Bryn Mawr College), Marta Caminero-Santangelo (University of Kansas).
+_LASA 2019 roundtable "Nuestra América through a Latinx Lens: Reading (with) Héctor Tobar." Organized by Tamara Mitchell. Presentation: Héctor Tobar (University of California Irvine). Roundtable Discussants: Eric Vázquez (University of Iowa), Jennifer Harford Vargas (Bryn Mawr College), Marta Caminero-Santangelo (University of Kansas)._
 
 
 <!--
