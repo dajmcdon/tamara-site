@@ -40,12 +40,12 @@ I am working on a second book project, tentatively titled _Sounds of the Capital
 ## Book Reviews
 * Thematic Review, “Listening in/to Literature.” _Latin American Research Review_, commissioned October 2021, accepted August 2022.  
 Books reviewed:  
-        * _Tropical Riffs: Latin America and the Politics of Jazz_ (Duke UP, 2018) by Jason Borge  
-        * _The Cry of the Senses: Listening to Latinx and Caribbean Poetics_ (Duke UP, 2020) by Ren Ellis Neyra  
-        * _Hearing Voices: Aurality and New Spanish Sound Culture in Sor Juana Inés de la Cruz_ (U Nebraska P, 2019) by Sarah Finley  
-        * _Writing by Ear: Clarice Lispector and the Aural Novel_ (U Toronto P, 2018) by Marília Librandi  
-        * _The Senses of Democracy: Perception, Politics, and Culture in Latin America_ (U Texas P, 2018) by Francine Masiello  
-        * _Sonar. Navegación / Localización del sonido en las prácticas artísticas del siglo XX_ (UAM Juan Pablo Editores, 2018) by Luz María Sánchez Cardona. 
+    * _Tropical Riffs: Latin America and the Politics of Jazz_ (Duke UP, 2018) by Jason Borge  
+    * _The Cry of the Senses: Listening to Latinx and Caribbean Poetics_ (Duke UP, 2020) by Ren Ellis Neyra  
+    * _Hearing Voices: Aurality and New Spanish Sound Culture in Sor Juana Inés de la Cruz_ (U Nebraska P, 2019) by Sarah Finley  
+    * _Writing by Ear: Clarice Lispector and the Aural Novel_ (U Toronto P, 2018) by Marília Librandi  
+    * _The Senses of Democracy: Perception, Politics, and Culture in Latin America_ (U Texas P, 2018) by Francine Masiello  
+    * _Sonar. Navegación / Localización del sonido en las prácticas artísticas del siglo XX_ (UAM Juan Pablo Editores, 2018) by Luz María Sánchez Cardona. 
 * Review of _Modernity at Gunpoint: Firearms, Politics, and Culture in Mexico and Central America_ (U of Pittsburgh P, 2018) by Sophie Esch. Revista de Literatura Mexicana Contemporánea, forthcoming.
 
 * [Review](https://newprairiepress.org/cgi/viewcontent.cgi?article=2201&context=sttcl) of _The Vanishing Frame: Latin American Culture and Theory in the Postdictatorial Era_ (U of Texas P, 2018) by Eugenio Claudio Di Stefano. _Studies in Twentieth and Twenty-First Century Literature_, 45.1 (August 2021).
