@@ -38,7 +38,8 @@ I am working on a second book project, tentatively titled _Sounds of the Capital
 
 
 ## Book Reviews
-* Thematic Review, “Listening in/to Literature.” _Latin American Research Review_, commissioned October 2021, accepted August 2022. Books reviewed:  
+* Thematic Review, “Listening in/to Literature.” _Latin American Research Review_, commissioned October 2021, accepted August 2022.  
+Books reviewed:  
         * _Tropical Riffs: Latin America and the Politics of Jazz_ (Duke UP, 2018) by Jason Borge  
         * _The Cry of the Senses: Listening to Latinx and Caribbean Poetics_ (Duke UP, 2020) by Ren Ellis Neyra  
         * _Hearing Voices: Aurality and New Spanish Sound Culture in Sor Juana Inés de la Cruz_ (U Nebraska P, 2019) by Sarah Finley  
