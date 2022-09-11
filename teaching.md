@@ -17,7 +17,7 @@ literary form and content enable new means of understanding and engaging with th
 ## University Teaching
 
 ### University of British Columbia, Department of French, Hispanic and Italian Studies (2019-Present)
-* SPAN 590. Narrativa Sonora: Sound and Literature in Contemporary Latin American Fiction
+* SPAN 590. Narrativa Sonora: El sonido en la literatura contemporánea de Latinoamérica
 * SPAN 590. Sonidos textuales y escritos sonoros: Central American Literary Soundscapes 
 * SPAN 550. Latin(x) American Speculative Fictions in the Anthropocene
 * SPAN 550: Porn Lit: Critical Approaches to Erotic Literature in Latin America and Spain
@@ -71,4 +71,4 @@ literary form and content enable new means of understanding and engaging with th
     </div>
   </div>
 </div>
-_Studies Abroad, image 1: The cast of _Se vende una mula _before taking the stage in León, Spain (Summer 2014). Image 2: The 2012 Clemson Language Immersion Program (CLIP) students in Atlanta to meet Latin(x) American baseball players and coaches on the Braves._
+_Studies Abroad, image 1: The cast of _Se vende una mula_ before taking the stage in León, Spain (Summer 2014). Image 2: The 2012 Clemson Language Immersion Program (CLIP) students in Atlanta to meet Latin(x) American baseball players and coaches on the Braves._
