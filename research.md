@@ -19,7 +19,7 @@ I am working on a second book project, tentatively titled _Sounds of the Capital
 
 * “[From Ratiocination to Globalization](https://muse.jhu.edu/article/856149): Poe, Borges, Bolaño and the _Complot_ of the _novela negra mexicana_.” _CR: The New Centennial Review_ (December 2021).
 
-* “[A Narrative Vaivén](https://muse.jhu.edu/article/795533): Lucha libre and the Modern Nation Unready-to-hand in Horacio Castellanos Moya's _La sirvienta y el luchador_.”_Modern Language Notes_ (March 2021) [PDF](assets/research/PDFs/Narrative-Vaivén-Mitchell.pdf)
+* “[A Narrative Vaivén](https://muse.jhu.edu/article/795533): Lucha libre and the Modern Nation Unready-to-hand in Horacio Castellanos Moya's _La sirvienta y el luchador_.”_Modern Language Notes_ (March 2021) [PDF](https://tamaraleemitchell.github.io/assets/research/PDFs/Narrative-Vaiven-Mitchell.pdf)
 
 * “[Broken Bodies, Broken States](https://muse.jhu.edu/article/791053): Roberto Bolaño on Neoliberal Logic and (Un)Mediated Violence." _Revista de Estudios Hispánicos_ (March 2021).
 
