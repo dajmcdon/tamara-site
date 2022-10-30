@@ -38,7 +38,7 @@ I am working on a second book project, tentatively titled _Sounds of the Capital
 
 
 ## Book Reviews
-* Thematic Review, “Listening in/to Literature.” _Latin American Research Review_, commissioned October 2021, accepted August 2022.  
+* Commissioned Thematic Review, [“Listening in/to Literature.”](https://www.cambridge.org/core/journals/latin-american-research-review/article/listening-into-literature/3B7E952C19B878BA13708732F44B7242) _Latin American Research Review_, October 2022.  
 Books reviewed: Jason Borge' _Tropical Riffs_ (Duke UP, 2018), Ren Ellis Neyra's _The Cry of the Senses_ (Duke UP, 2020), Sarah Finley's _Hearing Voices_ (U Nebraska P, 2019), Marília Librandi's _Writing by Ear_ (U Toronto P, 2018), Francine Masiello's _The Senses of Democracy_ (U Texas P, 2018), and Luz María Sánchez Cardona's _Sonar_ (UAM Juan Pablo Editores, 2018). 
 * Review of _Modernity at Gunpoint: Firearms, Politics, and Culture in Mexico and Central America_ (U of Pittsburgh P, 2018) by Sophie Esch. Revista de Literatura Mexicana Contemporánea, forthcoming.
 
