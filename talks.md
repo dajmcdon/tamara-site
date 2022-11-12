@@ -5,9 +5,6 @@ divider: sion2
 ---
 
 
-## Upcoming Events
-* [_The Sounds of Latin American Literature: Conference & Workshop_](https://blogs.ubc.ca/sonidolit/), October 14-15, 2022
-
 ## Invited Talks
 * "In the Key of Crisis: Intermediality, Temporality and Labor in Laury Leite." Iberian and Latin American Cultures (ILAC) Speaker Series, Stanford University (May 2022)
 * “Conspicuous Impunity: Ayotzinapa Seven Years Later.” Hispanic Heritage Month: Urgent Issues in Latin America Roundtable, Latin American Studies Program, UBC (October 2021)
@@ -60,7 +57,8 @@ divider: sion2
 * “Duœling Discourses: Luis Rafael Sánchez’s _Quíntuples_.” Tenth Annual Hawaii International Conference on Arts and Humanities (January 2012)
 -->
 
-## Sessions Organized
+## Conferences & Sessions Organized
+* [_The Sounds of Latin American Literature: Conference & Workshop_](https://blogs.ubc.ca/sonidolit/), Vancouver, BC, October 14-15, 2022
 * Joint Session, Co-Organizer (with [Prof. Ali Kulez](https://www.bc.edu/content/bc-web/schools/mcas/departments/romance-languages/people/faculty-directory/kulez_ali.html), Boston College), “Reframing Crisis in Contemporary Latin American Literature.” _Polarización socioambiental y rivalidad entre grandes potencias_, XL Latin American Studies Association Conference (May 2022)
 * Co-Organizer (with [Prof. Amanda Smith](https://smith.sites.ucsc.edu), UC Santa Cruz), “Sensible Disruptions: Soundscapes in Contemporary Latin American Literature.” _Crisis global, desigualdades y centralidad de la vida_, XXXIX Latin American Studies Association (May 2021)
 * Co-Organizer (with Profs. Yankai Cao and Katie Marshall, UBC), “Waste Not: Rethinking Poop through Bugs, Books and Power.” Building Worlds, Green College Leading Scholars Series, University of British Columbia (January 2021)
