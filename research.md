@@ -15,6 +15,8 @@ I am working on a second book project, tentatively titled _Sounds of the Capital
 
 ## Peer-Reviewed Publications
 
+### Journal articles
+
 {% include article-array.html %}
 
 * “[From Ratiocination to Globalization](https://muse.jhu.edu/article/856149): Poe, Borges, Bolaño and the _Complot_ of the _novela negra mexicana_.” _CR: The New Centennial Review_ (December 2021).
@@ -29,11 +31,12 @@ I am working on a second book project, tentatively titled _Sounds of the Capital
 
 * "[Carving Place out of Non-Place](https://www.academia.edu/39790659/Carving_Place_out_of_Non-Place_Luis_Rafael_Sánchez_s_La_guagua_aérea_and_Postnational_Space): Luis Rafael Sánchez’s ‘La guagua aérea’ and Post-National Space,” _Chasqui: revista de literatura latinoamericana_ (May 2018).
 
+### Book chapters and other
 * "[Migration and Diaspora](https://www.mla.org/Publications/Bookstore/Options-for-Teaching/Teaching-Central-American-Literature-in-a-Global-Context): Central American Literature beyond the Isthmus,” _Teaching Central American Literature in a Global Context_, MLA Anthology, Eds. Mónica Albizúrez and Gloria E. Chacón, (Summer 2022).
 
 * “The Regional Novel and the Novel of the Mexican Revolution on Common Ground.” _Oxford Handbook of the Latin American Novel_. Co-authored with Amanda M. Smith, UC Santa Cruz. Eds. Ignacio López-Calvo and Juan E De Castro, November 2022.
 * "La Llorona, from Plaintive to Plaintiff: Accessing Rights in Neoliberal Globalization," _Cry Baby_, eds. Norma Elia Cantú and Kathleen Alcalá, Trinity University Press, (forthcoming, Spring 2023).
-* “Tronando con el Partido: Untranslatability and Hemispheric Parity in Horacio Castellanos Moya,” _Central American Literature as World Literature_, ed. Sophie Esch (submission accepted January 2022), Bloomsbury Academic World Literature Series (volume proposal accepted August 2021).
+* “Untranslatability and Dissensus: Rewriting the Militant Left in Horacio Castellanos Moya,” _Central American Literature as World Literature_, ed. Sophie Esch, Bloomsbury Academic World Literature Series (forthcoming October 2023).
 
 
 
