@@ -16,6 +16,8 @@ divider: sion2
 * “‘La violencia es macro:’ Natalie Beristáin’s Los adioses.” UBC Latin American Studies Program (January 2020)
 * “Trauma, Affect, and Testimonio in Horacio Castellanos Moya’s Insensatez.” Professor Jonathan Risner, Department of Spanish & Portuguese, Indiana University (April 2019)
 
+{% include talk-array.html %}
+
 ## Conference Presentations 
 
 * “Sound Unseen: Auscultating Gendered Violence in Guadalupe Nettel.” XLI Latin American Studies Association Conference, Vancouver (May 2023)
