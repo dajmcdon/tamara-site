@@ -15,9 +15,10 @@ I am working on a second book project, tentatively titled _Sounds of the Capital
 
 ## Peer-Reviewed Publications
 
-### Journal articles
 
 {% include article-array.html %}
+
+### Journal articles
 
 * “[From Ratiocination to Globalization](https://muse.jhu.edu/article/856149): Poe, Borges, Bolaño and the _Complot_ of the _novela negra mexicana_.” _CR: The New Centennial Review_ (December 2021).
 
