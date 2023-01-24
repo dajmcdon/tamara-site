@@ -6,6 +6,7 @@ divider: sion2
 
 
 ## Invited Talks
+* “Necropolitical Romeo and Juliet: Migrant Sonority against Dehumanization in Emiliano Monge’s Among the Lost.” University of Cincinnati, Romance and Arabic Languages and Literatures, Taft Public Lecture (February 2023)
 * "In the Key of Crisis: Intermediality, Temporality and Labor in Laury Leite." Iberian and Latin American Cultures (ILAC) Speaker Series, Stanford University (May 2022)
 * “Conspicuous Impunity: Ayotzinapa Seven Years Later.” Hispanic Heritage Month: Urgent Issues in Latin America Roundtable, Latin American Studies Program, UBC (October 2021)
 * “In the Key of Crisis: Intermediality and the Romanticization of Labour in Mexico City.” Mexican Studies Research Collective (September 2021)
@@ -17,7 +18,8 @@ divider: sion2
 
 ## Conference Presentations 
 
-* “The Sounds and Spatiality of Crisis in Valeria Luiselli’s _Lost Children Archive_.” XL Latin American Studies Association Conference, (May 2022)
+* “Sound Unseen: Auscultating Gendered Violence in Guadalupe Nettel.” XLI Latin American Studies Association Conference, Vancouver (May 2023)
+* “The Sounds and Spatiality of Crisis in Valeria Luiselli’s _Lost Children Archive_.” XL Latin American Studies Association Conference (May 2022)
 * "Intermediality and Economic Migration in Laury Leite’s _En la soledad de un cielo muerto_." XXVI Juan Bruce-Novoa Mexican Studies Conference, _Soundscapes of Mexico_, University of California, Irvine (April 2022)
 * “Left Decadence and Intertextuality in Horacio Castellanos Moya’s (Post-)War Fiction.” Central American Literature as World Literature, Rice University (November 2021)
 * “A Sensual Palimpsest: History, Memory and the Sonic in Laury Leite’s _En la soledad de un cielo muerto_.” Crisis global, desigualdades y centralidad de la vida, XXXIX Latin American Studies Association (May 2021)
